@@ -67,11 +67,12 @@ public class DeckListWriter {
         }
         document.add(nameTable);
 
-        UnitValue[] unitValues = new UnitValue[4];
+        UnitValue[] unitValues = new UnitValue[5];
         unitValues[0] = new UnitValue(2,5f);
         unitValues[1] = new UnitValue(2,5f);
-        unitValues[2] = new UnitValue(2,85f);
-        unitValues[3] = new UnitValue(2,5f);
+        unitValues[2] = new UnitValue(2,15f);
+        unitValues[3] = new UnitValue(2,70f);
+        unitValues[4] = new UnitValue(2,5f);
         Table cardsTable = new Table(unitValues).useAllAvailableWidth();
         cardsTable.setMargin(0.01f);
         cardsTable.setPadding(0.01f);
@@ -159,6 +160,20 @@ public class DeckListWriter {
             rarityCell.add(new Paragraph(card.getRarity().substring(0, 1)));
         }
         cardsTable.addCell(rarityCell);
+
+        Cell idCell = new Cell();
+        idCell.setFontSize(6);
+        idCell.setBorder(Border.NO_BORDER);
+        idCell.setMargin(0.01f);
+        idCell.setPadding(0.01f);
+        if (header) {
+            idCell.setBorderTop(new SolidBorder(ColorConstants.BLACK, 1));
+            idCell.setBorderBottom(new SolidBorder(ColorConstants.BLACK, 1));
+            idCell.add(new Paragraph("ID"));
+        } else {
+            idCell.add(new Paragraph(card.getPrintings().get(0).getSku().getNumber()));
+        }
+        cardsTable.addCell(idCell);
 
         Cell cardNameCell = new Cell();
         cardNameCell.setFontSize(6);

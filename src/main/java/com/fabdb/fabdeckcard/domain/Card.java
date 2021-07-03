@@ -20,6 +20,7 @@ public class Card {
     String comments;
     String image;
     Integer total;
+    List<Printing> printings;
 }
 
 /**

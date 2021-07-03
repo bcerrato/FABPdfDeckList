@@ -9,6 +9,7 @@ public class Stats {
     String cost;
     String defense;
     String resource;
+    String attack;
 }
 
 /**
