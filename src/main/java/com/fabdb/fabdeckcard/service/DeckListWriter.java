@@ -42,11 +42,11 @@ public class DeckListWriter {
     public void writeDeckList(Deck deck) throws FileNotFoundException, MalformedURLException {
         PdfDocument pdf = new PdfDocument(new PdfWriter(deck.getSlug()+".pdf"));
         // 2 1/2 inch by 3 7/16
-        Rectangle cardRectangle = new Rectangle(new BigDecimal(2.5*72).floatValue(),new BigDecimal((3+7/16)*72).floatValue());
+        Rectangle cardRectangle = new Rectangle(new BigDecimal(2.5*72).floatValue(),new BigDecimal(3.5*72).floatValue());
         PageSize cardSize = new PageSize(cardRectangle);
         Document document = new Document(pdf,cardSize);
         document.setMargins(0.1f,0.1f,0.1f,0.1f);
-        document.setBorder(new SolidBorder(1));
+        document.setBorder(new SolidBorder(ColorConstants.BLACK,1));
 
         Table nameTable = new Table(UnitValue.createPercentArray(1)).useAllAvailableWidth();
         Cell nameCell = new Cell();
