@@ -8,7 +8,9 @@ import com.itextpdf.kernel.font.PdfFont;
 import com.itextpdf.kernel.geom.PageSize;
 import com.itextpdf.kernel.geom.Rectangle;
 import com.itextpdf.kernel.pdf.PdfDocument;
+import com.itextpdf.kernel.pdf.PdfPage;
 import com.itextpdf.kernel.pdf.PdfWriter;
+import com.itextpdf.kernel.pdf.canvas.PdfCanvas;
 import com.itextpdf.kernel.pdf.canvas.PdfCanvasConstants;
 import com.itextpdf.layout.Document;
 import com.itextpdf.layout.borders.Border;
@@ -42,10 +44,10 @@ public class DeckListWriter {
     public void writeDeckList(Deck deck) throws FileNotFoundException, MalformedURLException {
         PdfDocument pdf = new PdfDocument(new PdfWriter(deck.getSlug()+".pdf"));
         // 2 1/2 inch by 3 7/16
-        Rectangle cardRectangle = new Rectangle(new BigDecimal(2.5*72).floatValue(),new BigDecimal(3.5*72).floatValue());
+        Rectangle cardRectangle = new Rectangle(new BigDecimal(2.5*72).floatValue(),new BigDecimal(3.45*72).floatValue());
         PageSize cardSize = new PageSize(cardRectangle);
         Document document = new Document(pdf,cardSize);
-        document.setMargins(0.1f,0.1f,0.1f,0.1f);
+        document.setMargins(0.2f,0.2f,0.2f,0.2f);
         document.setBorder(new SolidBorder(ColorConstants.BLACK,1));
 
         Table nameTable = new Table(UnitValue.createPercentArray(1)).useAllAvailableWidth();
@@ -104,6 +106,13 @@ public class DeckListWriter {
         }
         document.add(cardsTable);
 
+        PdfDocument pdfDocument = document.getPdfDocument();
+        for (int i = 1; i <= pdfDocument.getNumberOfPages(); i++)
+        {
+            PdfPage page = pdfDocument.getPage(i);
+            Rectangle pageRect = new Rectangle(page.getTrimBox());
+            new PdfCanvas(page).setStrokeColor(ColorConstants.BLACK).setLineWidth(0.1f).rectangle(pageRect).stroke();
+        }
         document.close();
     }
 
