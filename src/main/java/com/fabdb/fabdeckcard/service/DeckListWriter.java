@@ -111,7 +111,7 @@ public class DeckListWriter {
         {
             PdfPage page = pdfDocument.getPage(i);
             Rectangle pageRect = new Rectangle(page.getTrimBox());
-            new PdfCanvas(page).setStrokeColor(ColorConstants.BLACK).setLineWidth(0.1f).rectangle(pageRect).stroke();
+            new PdfCanvas(page).setStrokeColor(ColorConstants.BLACK).setLineWidth(0.2f).rectangle(pageRect).stroke();
         }
         document.close();
     }
