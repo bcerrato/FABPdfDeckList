@@ -1,5 +1,6 @@
 package com.fabdb.fabdeckcard.service;
 
+import com.fabdb.fabdeckcard.domain.CardResult;
 import com.fabdb.fabdeckcard.domain.Deck;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
@@ -16,6 +17,11 @@ public class FabDBService {
     public Mono<Deck> getFabDeck(String deckSlug) {
         return this.webClient.get().uri("/decks/{slug}", deckSlug)
                 .retrieve().bodyToMono(Deck.class);
+    }
+
+    public Mono<CardResult> getCardResult(String set, int page) {
+        return this.webClient.get().uri("/cards?set={set}&page={page}",set,page)
+                .retrieve().bodyToMono(CardResult.class);
     }
 
 }
