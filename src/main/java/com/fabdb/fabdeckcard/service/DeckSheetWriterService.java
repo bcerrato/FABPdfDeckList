@@ -17,7 +17,7 @@ public class DeckSheetWriterService {
         try {
             writer = new BufferedWriter(new FileWriter(deck.getSlug()+".csv"));
 
-            String headers = "Card Name,Pitch,Cost,Attack,Defense,Keywords\n";
+            String headers = "Card Name,Card Number,Rarity,Pitch,Cost,Attack,Defense,Keywords\n";
             writer.write(headers);
             for(Card card:deck.getCards()) {
                 if (card.getKeywords().contains("equipment") ||
@@ -42,11 +42,25 @@ public class DeckSheetWriterService {
     private String getCardRow(Card card) {
         StringBuffer row = new StringBuffer();
         row.append("\"").append(card.getName()).append("\",");
+        row.append(card.getPrintings().get(0).getSku().getNumber()).append(",");
+        row.append(card.getRarity()).append(",");
         if (card.getStats() != null) {
-            row.append(card.getStats().getResource()).append(",");
-            row.append(card.getStats().getCost()).append(",");
-            row.append(card.getStats().getAttack()).append(",");
-            row.append(card.getStats().getDefense()).append(",");
+            if (card.getStats().getResource() != null)
+                row.append(card.getStats().getResource()).append(",");
+            else
+                row.append(",");
+            if (card.getStats().getCost() != null)
+                row.append(card.getStats().getCost()).append(",");
+            else
+                row.append(",");
+            if (card.getStats().getAttack() != null)
+                row.append(card.getStats().getAttack()).append(",");
+            else
+                row.append(",");
+            if (card.getStats().getDefense() != null)
+                row.append(card.getStats().getDefense()).append(",");
+            else
+                row.append(",");
         }
         else
         {
