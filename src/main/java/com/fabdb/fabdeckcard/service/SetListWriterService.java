@@ -28,6 +28,7 @@ public class SetListWriterService {
         row.append("OOO ");
         row.append(card.getPrintings().get(0).getSku().getNumber()).append(" - ");
         row.append(card.getName());
+        row.append(" (").append(card.getRarity()).append(")");
         row.append("\n");
 
         return row.toString();
