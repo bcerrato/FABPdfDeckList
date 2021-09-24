@@ -25,7 +25,7 @@ public class SetListWriterService {
 
     private String getCardRow(Card card) {
         StringBuffer row = new StringBuffer();
-        row.append("OOO ");
+       //row.append("OOO ");
         row.append(card.getPrintings().get(0).getSku().getNumber()).append(" - ");
         row.append(card.getName());
         row.append(" (").append(card.getRarity()).append(")");

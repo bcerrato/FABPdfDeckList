@@ -20,7 +20,14 @@ public class FabDBService {
     }
 
     public Mono<CardResult> getCardResult(String set, int page) {
+        if ("all".equals(set))
+            return getCardResultAll(page);
         return this.webClient.get().uri("/cards?set={set}&page={page}",set,page)
+                .retrieve().bodyToMono(CardResult.class);
+    }
+
+    public Mono<CardResult> getCardResultAll(int page) {
+        return this.webClient.get().uri("/cards?page={page}",page)
                 .retrieve().bodyToMono(CardResult.class);
     }
 
