@@ -1,5 +1,6 @@
 package com.fabdb.fabdeckcard;
 
+import com.fabdb.fabdeckcard.domain.Card;
 import com.fabdb.fabdeckcard.domain.CardResult;
 import com.fabdb.fabdeckcard.domain.Deck;
 import com.fabdb.fabdeckcard.service.DeckListWriter;
@@ -17,6 +18,7 @@ import reactor.core.publisher.Mono;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.List;
 
 @SpringBootApplication
 public class FabDeckCardApplication {
@@ -67,6 +69,22 @@ public class FabDeckCardApplication {
                 } catch (IOException ioe) {
                     ioe.printStackTrace();
                 }
+            }
+            else if ("blank".equals(args[0])) {
+                    int page = 1;
+                    Mono<CardResult> cardResult = fabDBService.getCardResult("all", page++);
+                    CardResult cardData = cardResult.block();
+                    while (cardData.getLinks().getNext() != null) {
+                        List<Card> cardList = cardData.getData();
+                        for (Card card: cardList) {
+                            if (card.getText() == null || card.getText().length() == 0)
+                            {
+                                System.out.println(card.getIdentifier() + " " + card.getName());
+                            }
+                        }
+                        cardResult = fabDBService.getCardResult(args[1], page++);
+                        cardData = cardResult.block();
+                    }
             }
             else {
                 Mono<Deck> deckResult = fabDBService.getFabDeck(args[1]);
