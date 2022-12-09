@@ -1,226 +1,226 @@
-OOO WTR000 - Heart of Fyendal (F)
-OOO WTR001 - Rhinar, Reckless Rampage (T)
-OOO WTR002 - Rhinar (T)
-OOO WTR003 - Romping Club (T)
-OOO WTR004 - Scabskin Leathers (L)
-OOO WTR005 - Barkbone Strapping (C)
-OOO WTR006 - Alpha Rampage (M)
-OOO WTR007 - Bloodrush Bellow (M)
-OOO WTR008 - Reckless Swing (S)
-OOO WTR009 - Sand Sketched Plan (S)
-OOO WTR010 - Bone Head Barrier (S)
-OOO WTR011 - Breakneck Battery (R)
-OOO WTR012 - Breakneck Battery (R)
-OOO WTR013 - Breakneck Battery (R)
-OOO WTR014 - Savage Feast (R)
-OOO WTR015 - Savage Feast (R)
-OOO WTR016 - Savage Feast (R)
-OOO WTR017 - Barraging Beatdown (R)
-OOO WTR018 - Barraging Beatdown (R)
-OOO WTR019 - Barraging Beatdown (R)
-OOO WTR020 - Savage Swing (C)
-OOO WTR021 - Savage Swing (C)
-OOO WTR022 - Savage Swing (C)
-OOO WTR023 - Pack Hunt (C)
-OOO WTR024 - Pack Hunt (C)
-OOO WTR025 - Pack Hunt (C)
-OOO WTR026 - Smash Instinct (C)
-OOO WTR027 - Smash Instinct (C)
-OOO WTR028 - Smash Instinct (C)
-OOO WTR029 - Wrecker Romp (C)
-OOO WTR030 - Wrecker Romp (C)
-OOO WTR031 - Wrecker Romp (C)
-OOO WTR032 - Awakening Bellow (C)
-OOO WTR033 - Awakening Bellow (C)
-OOO WTR034 - Awakening Bellow (C)
-OOO WTR035 - Primeval Bellow (C)
-OOO WTR036 - Primeval Bellow (C)
-OOO WTR037 - Primeval Bellow (C)
-OOO WTR038 - Bravo, Showstopper (T)
-OOO WTR039 - Bravo (T)
-OOO WTR040 - Anothos (T)
-OOO WTR041 - Tectonic Plating (L)
-OOO WTR042 - Helm of Isen's Peak (C)
-OOO WTR043 - Crippling Crush (M)
-OOO WTR044 - Spinal Crush (M)
-OOO WTR045 - Cranial Crush (S)
-OOO WTR046 - Forged for War (S)
-OOO WTR047 - Show Time! (S)
-OOO WTR048 - Disable (R)
-OOO WTR049 - Disable (R)
-OOO WTR050 - Disable (R)
-OOO WTR051 - Staunch Response (R)
-OOO WTR052 - Staunch Response (R)
-OOO WTR053 - Staunch Response (R)
-OOO WTR054 - Blessing of Deliverance (R)
-OOO WTR055 - Blessing of Deliverance (R)
-OOO WTR056 - Blessing of Deliverance (R)
-OOO WTR057 - Buckling Blow (C)
-OOO WTR058 - Buckling Blow (C)
-OOO WTR059 - Buckling Blow (C)
-OOO WTR060 - Cartilage Crush (C)
-OOO WTR061 - Cartilage Crush (C)
-OOO WTR062 - Cartilage Crush (C)
-OOO WTR063 - Crush Confidence (C)
-OOO WTR064 - Crush Confidence (C)
-OOO WTR065 - Crush Confidence (C)
-OOO WTR066 - Debilitate (C)
-OOO WTR067 - Debilitate (C)
-OOO WTR068 - Debilitate (C)
-OOO WTR069 - Emerging Power (C)
-OOO WTR070 - Emerging Power (C)
-OOO WTR071 - Emerging Power (C)
-OOO WTR072 - Stonewall Confidence (C)
-OOO WTR073 - Stonewall Confidence (C)
-OOO WTR074 - Stonewall Confidence (C)
-OOO WTR075 - Seismic Surge (T)
-OOO WTR076 - Katsu, the Wanderer (T)
-OOO WTR077 - Katsu (T)
-OOO WTR078 - Harmonized Kodachi (T)
-OOO WTR079 - Mask of Momentum (L)
-OOO WTR080 - Breaking Scales (C)
-OOO WTR081 - Lord of Wind (M)
-OOO WTR082 - Ancestral Empowerment (M)
-OOO WTR083 - Mugenshi: RELEASE (S)
-OOO WTR084 - Hurricane Technique (S)
-OOO WTR085 - Pounding Gale (S)
-OOO WTR086 - Fluster Fist (R)
-OOO WTR087 - Fluster Fist (R)
-OOO WTR088 - Fluster Fist (R)
-OOO WTR089 - Blackout Kick (R)
-OOO WTR090 - Blackout Kick (R)
-OOO WTR091 - Blackout Kick (R)
-OOO WTR092 - Flic Flak (R)
-OOO WTR093 - Flic Flak (R)
-OOO WTR094 - Flic Flak (R)
-OOO WTR095 - Open the Center (C)
-OOO WTR096 - Open the Center (C)
-OOO WTR097 - Open the Center (C)
-OOO WTR098 - Head Jab (C)
-OOO WTR099 - Head Jab (C)
-OOO WTR100 - Head Jab (C)
-OOO WTR101 - Leg Tap (C)
-OOO WTR102 - Leg Tap (C)
-OOO WTR103 - Leg Tap (C)
-OOO WTR104 - Rising Knee Thrust (C)
-OOO WTR105 - Rising Knee Thrust (C)
-OOO WTR106 - Rising Knee Thrust (C)
-OOO WTR107 - Surging Strike (C)
-OOO WTR108 - Surging Strike (C)
-OOO WTR109 - Surging Strike (C)
-OOO WTR110 - Whelming Gustwave (C)
-OOO WTR111 - Whelming Gustwave (C)
-OOO WTR112 - Whelming Gustwave (C)
-OOO WTR113 - Dorinthea Ironsong (T)
-OOO WTR114 - Dorinthea (T)
-OOO WTR115 - Dawnblade (T)
-OOO WTR116 - Braveforge Bracers (L)
-OOO WTR117 - Refraction Bolters (C)
-OOO WTR118 - Glint the Quicksilver (M)
-OOO WTR119 - Steelblade Supremacy (M)
-OOO WTR120 - Rout (S)
-OOO WTR121 - Singing Steelblade (S)
-OOO WTR122 - Ironsong Determination (S)
-OOO WTR123 - Overpower (R)
-OOO WTR124 - Overpower (R)
-OOO WTR125 - Overpower (R)
-OOO WTR126 - Steelblade Shunt (R)
-OOO WTR127 - Steelblade Shunt (R)
-OOO WTR128 - Steelblade Shunt (R)
-OOO WTR129 - Warrior's Valor (R)
-OOO WTR130 - Warrior's Valor (R)
-OOO WTR131 - Warrior's Valor (R)
-OOO WTR132 - Ironsong Response (C)
-OOO WTR133 - Ironsong Response (C)
-OOO WTR134 - Ironsong Response (C)
-OOO WTR135 - Biting Blade (C)
-OOO WTR136 - Biting Blade (C)
-OOO WTR137 - Biting Blade (C)
-OOO WTR138 - Stroke of Foresight (C)
-OOO WTR139 - Stroke of Foresight (C)
-OOO WTR140 - Stroke of Foresight (C)
-OOO WTR141 - Sharpen Steel (C)
-OOO WTR142 - Sharpen Steel (C)
-OOO WTR143 - Sharpen Steel (C)
-OOO WTR144 - Driving Blade (C)
-OOO WTR145 - Driving Blade (C)
-OOO WTR146 - Driving Blade (C)
-OOO WTR147 - Nature's Path Pilgrimage (C)
-OOO WTR148 - Nature's Path Pilgrimage (C)
-OOO WTR149 - Nature's Path Pilgrimage (C)
-OOO WTR150 - Fyendal's Spring Tunic (L)
-OOO WTR151 - Hope Merchant's Hood (C)
-OOO WTR152 - Heartened Cross Strap (C)
-OOO WTR153 - Goliath Gauntlet (C)
-OOO WTR154 - Snapdragon Scalers (C)
-OOO WTR155 - Ironrot Helm (C)
-OOO WTR156 - Ironrot Plate (C)
-OOO WTR157 - Ironrot Gauntlet (C)
-OOO WTR158 - Ironrot Legs (C)
-OOO WTR159 - Enlightened Strike (M)
-OOO WTR160 - Tome of Fyendal (M)
-OOO WTR161 - Last Ditch Effort (S)
-OOO WTR162 - Crazy Brew (S)
-OOO WTR163 - Remembrance (S)
-OOO WTR164 - Drone of Brutality (R)
-OOO WTR165 - Drone of Brutality (R)
-OOO WTR166 - Drone of Brutality (R)
-OOO WTR167 - Snatch (R)
-OOO WTR168 - Snatch (R)
-OOO WTR169 - Snatch (R)
-OOO WTR170 - Energy Potion (R)
-OOO WTR171 - Potion of Strength (R)
-OOO WTR172 - Timesnap Potion (R)
-OOO WTR173 - Sigil of Solace (R)
-OOO WTR174 - Sigil of Solace (R)
-OOO WTR175 - Sigil of Solace (R)
-OOO WTR176 - Barraging Brawnhide (C)
-OOO WTR177 - Barraging Brawnhide (C)
-OOO WTR178 - Barraging Brawnhide (C)
-OOO WTR179 - Demolition Crew (C)
-OOO WTR180 - Demolition Crew (C)
-OOO WTR181 - Demolition Crew (C)
-OOO WTR182 - Flock of the Feather Walkers (C)
-OOO WTR183 - Flock of the Feather Walkers (C)
-OOO WTR184 - Flock of the Feather Walkers (C)
-OOO WTR185 - Nimble Strike (C)
-OOO WTR186 - Nimble Strike (C)
-OOO WTR187 - Nimble Strike (C)
-OOO WTR188 - Raging Onslaught (C)
-OOO WTR189 - Raging Onslaught (C)
-OOO WTR190 - Raging Onslaught (C)
-OOO WTR191 - Scar for a Scar (C)
-OOO WTR192 - Scar for a Scar (C)
-OOO WTR193 - Scar for a Scar (C)
-OOO WTR194 - Scour the Battlescape (C)
-OOO WTR195 - Scour the Battlescape (C)
-OOO WTR196 - Scour the Battlescape (C)
-OOO WTR197 - Regurgitating Slog (C)
-OOO WTR198 - Regurgitating Slog (C)
-OOO WTR199 - Regurgitating Slog (C)
-OOO WTR200 - Wounded Bull (C)
-OOO WTR201 - Wounded Bull (C)
-OOO WTR202 - Wounded Bull (C)
-OOO WTR203 - Wounding Blow (C)
-OOO WTR204 - Wounding Blow (C)
-OOO WTR205 - Wounding Blow (C)
-OOO WTR206 - Pummel (C)
-OOO WTR207 - Pummel (C)
-OOO WTR208 - Pummel (C)
-OOO WTR209 - Razor Reflex (C)
-OOO WTR210 - Razor Reflex (C)
-OOO WTR211 - Razor Reflex (C)
-OOO WTR212 - Unmovable (C)
-OOO WTR213 - Unmovable (C)
-OOO WTR214 - Unmovable (C)
-OOO WTR215 - Sink Below (C)
-OOO WTR216 - Sink Below (C)
-OOO WTR217 - Sink Below (C)
-OOO WTR218 - Nimblism (C)
-OOO WTR219 - Nimblism (C)
-OOO WTR220 - Nimblism (C)
-OOO WTR221 - Sloggism (C)
-OOO WTR222 - Sloggism (C)
-OOO WTR223 - Sloggism (C)
-OOO WTR224 - Cracked Bauble (T)
-OOO WTR225 - Quicken (T)
+O   WTR000 - Heart of Fyendal (F) {3} - generic;resource;gem;
+O   WTR001 - Rhinar, Reckless Rampage (T) - brute;hero;
+O   WTR002 - Rhinar (T) - brute;hero;young;
+O   WTR003 - Romping Club (T) - brute;weapon;club;2h;
+O   WTR004 - Scabskin Leathers (L) - brute;equipment;legs;
+O   WTR005 - Barkbone Strapping (C) - brute;equipment;chest;
+OOO WTR006 - Alpha Rampage (M) {1} - brute;action;attack;
+OOO WTR007 - Bloodrush Bellow (M) {2} - brute;action;
+OOO WTR008 - Reckless Swing (S) {3} - brute;defense;reaction;
+OOO WTR009 - Sand Sketched Plan (S) {3} - brute;action;
+OOO WTR010 - Bone Head Barrier (S) {2} - brute;instant;
+OOO WTR011 - Breakneck Battery (R) {1} - brute;action;attack;
+OOO WTR012 - Breakneck Battery (R) {2} - brute;action;attack;
+OOO WTR013 - Breakneck Battery (R) {3} - brute;action;attack;
+OOO WTR014 - Savage Feast (R) {1} - brute;action;attack;
+OOO WTR015 - Savage Feast (R) {2} - brute;action;attack;
+OOO WTR016 - Savage Feast (R) {3} - brute;action;attack;
+OOO WTR017 - Barraging Beatdown (R) {1} - brute;action;
+OOO WTR018 - Barraging Beatdown (R) {2} - brute;action;
+OOO WTR019 - Barraging Beatdown (R) {3} - brute;action;
+OOO WTR020 - Savage Swing (C) {1} - brute;action;attack;
+OOO WTR021 - Savage Swing (C) {2} - brute;action;attack;
+OOO WTR022 - Savage Swing (C) {3} - brute;action;attack;
+OOO WTR023 - Pack Hunt (C) {1} - brute;action;attack;
+OOO WTR024 - Pack Hunt (C) {2} - brute;action;attack;
+OOO WTR025 - Pack Hunt (C) {3} - brute;action;attack;
+OOO WTR026 - Smash Instinct (C) {1} - brute;action;attack;
+OOO WTR027 - Smash Instinct (C) {2} - brute;action;attack;
+OOO WTR028 - Smash Instinct (C) {3} - brute;action;attack;
+OOO WTR029 - Wrecker Romp (C) {1} - brute;action;attack;
+OOO WTR030 - Wrecker Romp (C) {2} - brute;action;attack;
+OOO WTR031 - Wrecker Romp (C) {3} - brute;action;attack;
+OOO WTR032 - Awakening Bellow (C) {1} - brute;action;
+OOO WTR033 - Awakening Bellow (C) {2} - brute;action;
+OOO WTR034 - Awakening Bellow (C) {3} - brute;action;
+OOO WTR035 - Primeval Bellow (C) {1} - brute;action;
+OOO WTR036 - Primeval Bellow (C) {2} - brute;action;
+OOO WTR037 - Primeval Bellow (C) {3} - brute;action;
+O   WTR038 - Bravo, Showstopper (T) - guardian;hero;
+O   WTR039 - Bravo (T) - guardian;hero;young;
+O   WTR040 - Anothos (T) - guardian;weapon;hammer;2h;
+O   WTR041 - Tectonic Plating (L) - guardian;equipment;chest;
+O   WTR042 - Helm of Isen's Peak (C) - guardian;equipment;head;
+OOO WTR043 - Crippling Crush (M) {1} - guardian;action;attack;
+OOO WTR044 - Spinal Crush (M) {1} - guardian;action;attack;
+OOO WTR045 - Cranial Crush (S) {3} - guardian;action;attack;
+OOO WTR046 - Forged for War (S) {2} - guardian;action;aura;
+OOO WTR047 - Show Time! (S) {3} - guardian;action;aura;
+OOO WTR048 - Disable (R) {1} - guardian;action;attack;
+OOO WTR049 - Disable (R) {2} - guardian;action;attack;
+OOO WTR050 - Disable (R) {3} - guardian;action;attack;
+OOO WTR051 - Staunch Response (R) {1} - guardian;defense;reaction;
+OOO WTR052 - Staunch Response (R) {2} - guardian;defense;reaction;
+OOO WTR053 - Staunch Response (R) {3} - guardian;defense;reaction;
+OOO WTR054 - Blessing of Deliverance (R) {1} - guardian;action;;aura;
+OOO WTR055 - Blessing of Deliverance (R) {2} - guardian;action;;aura;
+OOO WTR056 - Blessing of Deliverance (R) {3} - guardian;action;;aura;
+OOO WTR057 - Buckling Blow (C) {1} - guardian;action;attack;
+OOO WTR058 - Buckling Blow (C) {2} - guardian;action;attack;
+OOO WTR059 - Buckling Blow (C) {3} - guardian;action;attack;
+OOO WTR060 - Cartilage Crush (C) {1} - guardian;action;attack;
+OOO WTR061 - Cartilage Crush (C) {2} - guardian;action;attack;
+OOO WTR062 - Cartilage Crush (C) {3} - guardian;action;attack;
+OOO WTR063 - Crush Confidence (C) {1} - guardian;action;attack;
+OOO WTR064 - Crush Confidence (C) {2} - guardian;action;attack;
+OOO WTR065 - Crush Confidence (C) {3} - guardian;action;attack;
+OOO WTR066 - Debilitate (C) {1} - guardian;action;attack;
+OOO WTR067 - Debilitate (C) {2} - guardian;action;attack;
+OOO WTR068 - Debilitate (C) {3} - guardian;action;attack;
+OOO WTR069 - Emerging Power (C) {1} - guardian;action;aura;
+OOO WTR070 - Emerging Power (C) {2} - guardian;action;aura;
+OOO WTR071 - Emerging Power (C) {3} - guardian;action;aura;
+OOO WTR072 - Stonewall Confidence (C) {1} - guardian;action;aura;
+OOO WTR073 - Stonewall Confidence (C) {2} - guardian;action;aura;
+OOO WTR074 - Stonewall Confidence (C) {3} - guardian;action;aura;
+O   WTR075 - Seismic Surge (T) - guardian;;token;aura;
+O   WTR076 - Katsu, the Wanderer (T) - ninja;hero;
+O   WTR077 - Katsu (T) - ninja;hero;young;
+O   WTR078 - Harmonized Kodachi (T) - ninja;weapon;dagger;1h;
+O   WTR079 - Mask of Momentum (L) - ninja;equipment;head;
+O   WTR080 - Breaking Scales (C) - ninja;equipment;arms;
+OOO WTR081 - Lord of Wind (M) {3} - ninja;action;attack;
+OOO WTR082 - Ancestral Empowerment (M) {1} - ninja;attack;reaction;
+OOO WTR083 - Mugenshi: RELEASE (S) {2} - ninja;action;attack;
+OOO WTR084 - Hurricane Technique (S) {2} - ninja;action;attack;
+OOO WTR085 - Pounding Gale (S) {1} - ninja;action;attack;
+OOO WTR086 - Fluster Fist (R) {1} - ninja;action;attack;
+OOO WTR087 - Fluster Fist (R) {2} - ninja;action;attack;
+OOO WTR088 - Fluster Fist (R) {3} - ninja;action;attack;
+OOO WTR089 - Blackout Kick (R) {1} - ninja;action;attack;
+OOO WTR090 - Blackout Kick (R) {2} - ninja;action;attack;
+OOO WTR091 - Blackout Kick (R) {3} - ninja;action;attack;
+OOO WTR092 - Flic Flak (R) {1} - ninja;defense;reaction;
+OOO WTR093 - Flic Flak (R) {2} - ninja;defense;reaction;
+OOO WTR094 - Flic Flak (R) {3} - ninja;defense;reaction;
+OOO WTR095 - Open the Center (C) {1} - ninja;action;attack;
+OOO WTR096 - Open the Center (C) {2} - ninja;action;attack;
+OOO WTR097 - Open the Center (C) {3} - ninja;action;attack;
+OOO WTR098 - Head Jab (C) {1} - ninja;action;attack;
+OOO WTR099 - Head Jab (C) {2} - ninja;action;attack;
+OOO WTR100 - Head Jab (C) {3} - ninja;action;attack;
+OOO WTR101 - Leg Tap (C) {1} - ninja;action;attack;
+OOO WTR102 - Leg Tap (C) {2} - ninja;action;attack;
+OOO WTR103 - Leg Tap (C) {3} - ninja;action;attack;
+OOO WTR104 - Rising Knee Thrust (C) {1} - ninja;action;attack;
+OOO WTR105 - Rising Knee Thrust (C) {2} - ninja;action;attack;
+OOO WTR106 - Rising Knee Thrust (C) {3} - ninja;action;attack;
+OOO WTR107 - Surging Strike (C) {1} - ninja;action;attack;
+OOO WTR108 - Surging Strike (C) {2} - ninja;action;attack;
+OOO WTR109 - Surging Strike (C) {3} - ninja;action;attack;
+OOO WTR110 - Whelming Gustwave (C) {1} - ninja;action;attack;
+OOO WTR111 - Whelming Gustwave (C) {2} - ninja;action;attack;
+OOO WTR112 - Whelming Gustwave (C) {3} - ninja;action;attack;
+O   WTR113 - Dorinthea Ironsong (T) - warrior;hero;
+O   WTR114 - Dorinthea (T) - warrior;hero;young;
+O   WTR115 - Dawnblade (T) - warrior;weapon;sword;2h;
+O   WTR116 - Braveforge Bracers (L) - warrior;equipment;arms;
+O   WTR117 - Refraction Bolters (C) - warrior;equipment;legs;
+OOO WTR118 - Glint the Quicksilver (M) {3} - warrior;attack;reaction;
+OOO WTR119 - Steelblade Supremacy (M) {1} - warrior;action;
+OOO WTR120 - Rout (S) {1} - warrior;attack;reaction;
+OOO WTR121 - Singing Steelblade (S) {2} - warrior;attack;reaction;
+OOO WTR122 - Ironsong Determination (S) {2} - warrior;action;
+OOO WTR123 - Overpower (R) {1} - warrior;attack;reaction;
+OOO WTR124 - Overpower (R) {2} - warrior;attack;reaction;
+OOO WTR125 - Overpower (R) {3} - warrior;attack;reaction;
+OOO WTR126 - Steelblade Shunt (R) {1} - warrior;defense;reaction;
+OOO WTR127 - Steelblade Shunt (R) {2} - warrior;defense;reaction;
+OOO WTR128 - Steelblade Shunt (R) {3} - warrior;defense;reaction;
+OOO WTR129 - Warrior's Valor (R) {1} - warrior;action;
+OOO WTR130 - Warrior's Valor (R) {2} - warrior;action;
+OOO WTR131 - Warrior's Valor (R) {3} - warrior;action;
+OOO WTR132 - Ironsong Response (C) {1} - warrior;attack;reaction;
+OOO WTR133 - Ironsong Response (C) {2} - warrior;attack;reaction;
+OOO WTR134 - Ironsong Response (C) {3} - warrior;attack;reaction;
+OOO WTR135 - Biting Blade (C) {1} - warrior;attack;reaction;
+OOO WTR136 - Biting Blade (C) {2} - warrior;attack;reaction;
+OOO WTR137 - Biting Blade (C) {3} - warrior;attack;reaction;
+OOO WTR138 - Stroke of Foresight (C) {1} - warrior;attack;reaction;
+OOO WTR139 - Stroke of Foresight (C) {2} - warrior;attack;reaction;
+OOO WTR140 - Stroke of Foresight (C) {3} - warrior;attack;reaction;
+OOO WTR141 - Sharpen Steel (C) {1} - warrior;action;
+OOO WTR142 - Sharpen Steel (C) {2} - warrior;action;
+OOO WTR143 - Sharpen Steel (C) {3} - warrior;action;
+OOO WTR144 - Driving Blade (C) {1} - warrior;action;
+OOO WTR145 - Driving Blade (C) {2} - warrior;action;
+OOO WTR146 - Driving Blade (C) {3} - warrior;action;
+OOO WTR147 - Nature's Path Pilgrimage (C) {1} - warrior;action;
+OOO WTR148 - Nature's Path Pilgrimage (C) {2} - warrior;action;
+OOO WTR149 - Nature's Path Pilgrimage (C) {3} - warrior;action;
+O   WTR150 - Fyendal's Spring Tunic (L) - generic;equipment;chest;
+O   WTR151 - Hope Merchant's Hood (C) - generic;equipment;head;
+O   WTR152 - Heartened Cross Strap (C) - generic;equipment;chest;
+O   WTR153 - Goliath Gauntlet (C) - generic;equipment;arms;
+O   WTR154 - Snapdragon Scalers (C) - generic;equipment;legs;
+O   WTR155 - Ironrot Helm (C) - generic;equipment;head;
+O   WTR156 - Ironrot Plate (C) - generic;equipment;chest;
+O   WTR157 - Ironrot Gauntlet (C) - generic;equipment;arms;
+O   WTR158 - Ironrot Legs (C) - generic;equipment;legs;
+OOO WTR159 - Enlightened Strike (M) {1} - generic;action;attack;
+OOO WTR160 - Tome of Fyendal (M) {2} - generic;action;
+OOO WTR161 - Last Ditch Effort (S) {3} - generic;action;attack;
+OOO WTR162 - Crazy Brew (S) {3} - generic;action;item;
+OOO WTR163 - Remembrance (S) {2} - generic;instant;
+OOO WTR164 - Drone of Brutality (R) {1} - generic;action;attack;
+OOO WTR165 - Drone of Brutality (R) {2} - generic;action;attack;
+OOO WTR166 - Drone of Brutality (R) {3} - generic;action;attack;
+OOO WTR167 - Snatch (R) {1} - generic;action;attack;
+OOO WTR168 - Snatch (R) {2} - generic;action;attack;
+OOO WTR169 - Snatch (R) {3} - generic;action;attack;
+OOO WTR170 - Energy Potion (R) {3} - generic;action;item;
+OOO WTR171 - Potion of Strength (R) {3} - generic;action;item;
+OOO WTR172 - Timesnap Potion (R) {3} - generic;action;item;
+OOO WTR173 - Sigil of Solace (R) {1} - generic;instant;
+OOO WTR174 - Sigil of Solace (R) {2} - generic;instant;
+OOO WTR175 - Sigil of Solace (R) {3} - generic;instant;
+OOO WTR176 - Barraging Brawnhide (C) {1} - generic;action;attack;
+OOO WTR177 - Barraging Brawnhide (C) {2} - generic;action;attack;
+OOO WTR178 - Barraging Brawnhide (C) {3} - generic;action;attack;
+OOO WTR179 - Demolition Crew (C) {1} - generic;action;attack;
+OOO WTR180 - Demolition Crew (C) {2} - generic;action;attack;
+OOO WTR181 - Demolition Crew (C) {3} - generic;action;attack;
+OOO WTR182 - Flock of the Feather Walkers (C) {1} - generic;action;attack;
+OOO WTR183 - Flock of the Feather Walkers (C) {2} - generic;action;attack;
+OOO WTR184 - Flock of the Feather Walkers (C) {3} - generic;action;attack;
+OOO WTR185 - Nimble Strike (C) {1} - generic;action;attack;
+OOO WTR186 - Nimble Strike (C) {2} - generic;action;attack;
+OOO WTR187 - Nimble Strike (C) {3} - generic;action;attack;
+OOO WTR188 - Raging Onslaught (C) {1} - generic;action;attack;
+OOO WTR189 - Raging Onslaught (C) {2} - generic;action;attack;
+OOO WTR190 - Raging Onslaught (C) {3} - generic;action;attack;
+OOO WTR191 - Scar for a Scar (C) {1} - generic;action;attack;
+OOO WTR192 - Scar for a Scar (C) {2} - generic;action;attack;
+OOO WTR193 - Scar for a Scar (C) {3} - generic;action;attack;
+OOO WTR194 - Scour the Battlescape (C) {1} - generic;action;attack;
+OOO WTR195 - Scour the Battlescape (C) {2} - generic;action;attack;
+OOO WTR196 - Scour the Battlescape (C) {3} - generic;action;attack;
+OOO WTR197 - Regurgitating Slog (C) {1} - generic;action;attack;
+OOO WTR198 - Regurgitating Slog (C) {2} - generic;action;attack;
+OOO WTR199 - Regurgitating Slog (C) {3} - generic;action;attack;
+OOO WTR200 - Wounded Bull (C) {1} - generic;action;attack;
+OOO WTR201 - Wounded Bull (C) {2} - generic;action;attack;
+OOO WTR202 - Wounded Bull (C) {3} - generic;action;attack;
+OOO WTR203 - Wounding Blow (C) {1} - generic;action;attack;
+OOO WTR204 - Wounding Blow (C) {2} - generic;action;attack;
+OOO WTR205 - Wounding Blow (C) {3} - generic;action;attack;
+OOO WTR206 - Pummel (C) {1} - generic;attack;reaction;
+OOO WTR207 - Pummel (C) {2} - generic;attack;reaction;
+OOO WTR208 - Pummel (C) {3} - generic;attack;reaction;
+OOO WTR209 - Razor Reflex (C) {1} - generic;attack;reaction;
+OOO WTR210 - Razor Reflex (C) {2} - generic;attack;reaction;
+OOO WTR211 - Razor Reflex (C) {3} - generic;attack;reaction;
+OOO WTR212 - Unmovable (C) {1} - generic;defense;reaction;
+OOO WTR213 - Unmovable (C) {2} - generic;defense;reaction;
+OOO WTR214 - Unmovable (C) {3} - generic;defense;reaction;
+OOO WTR215 - Sink Below (C) {1} - generic;defense;reaction;
+OOO WTR216 - Sink Below (C) {2} - generic;defense;reaction;
+OOO WTR217 - Sink Below (C) {3} - generic;defense;reaction;
+OOO WTR218 - Nimblism (C) {1} - generic;action;
+OOO WTR219 - Nimblism (C) {2} - generic;action;
+OOO WTR220 - Nimblism (C) {3} - generic;action;
+OOO WTR221 - Sloggism (C) {1} - generic;action;
+OOO WTR222 - Sloggism (C) {2} - generic;action;
+OOO WTR223 - Sloggism (C) {3} - generic;action;
+O   WTR224 - Cracked Bauble (T) {2} - generic;resource;
+O   WTR225 - Quicken (T) - generic;token;aura;

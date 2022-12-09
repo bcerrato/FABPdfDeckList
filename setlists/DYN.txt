@@ -1,247 +1,246 @@
-OOO - DYN000 - Command and Conquer (F)
-O   - DYN001 - Emperor, Dracai of Aesir (L)
-OOO - DYN002 - Dust from the Golden Plains (M)
-OOO - DYN003 - Dust from the Red Desert (M)
-OOO - DYN004 - Dust from the Shadow Crypts (M)
-O   - DYN005 - Rok (M)
-O   - DYN006 - Beaten Trackers (R)
-OOO - DYN007 - Savage Beatdown (M)
-OOO - DYN008 - Skull Crack (M)
-OOO - DYN009 - Berserk (M)
-OOO - DYN010 - Reincarnate (R)
-OOO - DYN011 - Reincarnate (R)
-OOO - DYN012 - Reincarnate (R)
-OOO - DYN013 - Blessing of Savagery (R)
-OOO - DYN014 - Blessing of Savagery (R)
-OOO - DYN015 - Blessing of Savagery (R)
-OOO - DYN016 - Madcap Charger (C)
-OOO - DYN017 - Madcap Charger (C)
-OOO - DYN018 - Madcap Charger (C)
-OOO - DYN019 - Madcap Muscle (C)
-OOO - DYN020 - Madcap Muscle (C)
-OOO - DYN021 - Madcap Muscle (C)
-OOO - DYN022 - Rumble Grunting (C)
-OOO - DYN023 - Rumble Grunting (C)
-OOO - DYN024 - Rumble Grunting (C)
-O   - DYN025 - Yoji, Royal Protector (M)
-O   - DYN026 - Seasoned Saviour (M)
-O   - DYN027 - Steelbraid Buckler (R)
-OOO - DYN028 - Buckle (M)
-OOO - DYN029 - Never Yield (M)
-OOO - DYN030 - Shield Bash (R)
-OOO - DYN031 - Shield Bash (R)
-OOO - DYN032 - Shield Bash (R)
-OOO - DYN033 - Blessing of Patience (R)
-OOO - DYN034 - Blessing of Patience (R)
-OOO - DYN035 - Blessing of Patience (R)
-OOO - DYN036 - Shield Wall (C)
-OOO - DYN037 - Shield Wall (C)
-OOO - DYN038 - Shield Wall (C)
-OOO - DYN039 - Reinforce Steel (C)
-OOO - DYN040 - Reinforce Steel (C)
-OOO - DYN041 - Reinforce Steel (C)
-OOO - DYN042 - Withstand (C)
-OOO - DYN043 - Withstand (C)
-OOO - DYN044 - Withstand (C)
-O   - DYN045 - Blazen Yoroi (M)
-O   - DYN046 - Tearing Shuko (R)
-OOO - DYN047 - Tiger Swipe (M)
-OOO - DYN048 - Mindstate of Tiger (M)
-OOO - DYN049 - Roar of the Tiger (M)
-OOO - DYN050 - Flex Claws (R)
-OOO - DYN051 - Flex Claws (R)
-OOO - DYN052 - Flex Claws (R)
-OOO - DYN053 - Blessing of Qi (R)
-OOO - DYN054 - Blessing of Qi (R)
-OOO - DYN055 - Blessing of Qi (R)
-OOO - DYN056 - Pouncing Qi (C)
-OOO - DYN057 - Pouncing Qi (C)
-OOO - DYN058 - Pouncing Qi (C)
-OOO - DYN059 - Qi Unleashed (C)
-OOO - DYN060 - Qi Unleashed (C)
-OOO - DYN061 - Qi Unleashed (C)
-OOO - DYN062 - Predatory Streak (C)
-OOO - DYN063 - Predatory Streak (C)
-OOO - DYN064 - Predatory Streak (C)
-OOO - DYN065 - Crouching Tiger (C)
-O   - DYN066 - Spirit of Eirina (L)
-O   - DYN067 - Jubeel, Spellbane (M)
-O   - DYN068 - Merciless Battleaxe (M)
-OO  - DYN069 - Quicksilver Dagger (R)
-OOO - DYN071 - Cleave (M)
-OOO - DYN072 - Ironsong Pride (M)
-OOO - DYN073 - Blessing of Steel (R)
-OOO - DYN074 - Blessing of Steel (R)
-OOO - DYN075 - Blessing of Steel (R)
-OOO - DYN076 - Precision Press (R)
-OOO - DYN077 - Precision Press (R)
-OOO - DYN078 - Precision Press (R)
-OOO - DYN079 - Puncture (C)
-OOO - DYN080 - Puncture (C)
-OOO - DYN081 - Puncture (C)
-OOO - DYN082 - Felling Swing (C)
-OOO - DYN083 - Felling Swing (C)
-OOO - DYN084 - Felling Swing (C)
-OOO - DYN085 - Visit the Imperial Forge (C)
-OOO - DYN086 - Visit the Imperial Forge (C)
-OOO - DYN087 - Visit the Imperial Forge (C)
-O   - DYN088 - Hanabi Blaster (M)
-O   - DYN089 - Galvanic Bender (R)
-OOO - DYN090 - Pulsewave Harpoon (M)
-OOO - DYN091 - Bios Update (M)
-OOO - DYN092 - Nitro Mechanoid (M)
-OOO - DYN092 - Construct Nitro Mechanoid (M)
-OOO - DYN093 - Plasma Mainline (M)
-OOO - DYN094 - Powder Keg (M)
-OOO - DYN095 - Scramble Pulse (R)
-OOO - DYN096 - Scramble Pulse (R)
-OOO - DYN097 - Scramble Pulse (R)
-OOO - DYN098 - Blessing of Ingenuity (R)
-OOO - DYN099 - Blessing of Ingenuity (R)
-OOO - DYN100 - Blessing of Ingenuity (R)
-OOO - DYN101 - Crankshaft (C)
-OOO - DYN102 - Crankshaft (C)
-OOO - DYN103 - Crankshaft (C)
-OOO - DYN104 - Jump Start (C)
-OOO - DYN105 - Jump Start (C)
-OOO - DYN106 - Jump Start (C)
-OOO - DYN107 - Urgent Delivery (C)
-OOO - DYN108 - Urgent Delivery (C)
-OOO - DYN109 - Urgent Delivery (C)
-OOO - DYN110 - Hyper Driver (C)
-OOO - DYN111 - Hyper Driver (C)
-OOO - DYN112 - Hyper Driver (C)
-O   - DYN113 - Arakni, Huntsman (M)
-O   - DYN114 - Arakni (R)
-OO  - DYN115 - Spider's Bite (R)
-O   - DYN117 - Blacktek Whisperers (L)
-OOO - DYN118 - Mask of Perdition (M)
-OOO - DYN119 - Eradicate (M)
-OOO - DYN120 - Leave No Witnesses (M)
-O   - DYN121 - Regicide (M)
-OOO - DYN122 - Surgical Extraction (M)
-OOO - DYN123 - Pay Day (M)
-OOO - DYN124 - Plunder the Poor (R)
-OOO - DYN125 - Plunder the Poor (R)
-OOO - DYN126 - Plunder the Poor (R)
-OOO - DYN127 - Rob the Rich (R)
-OOO - DYN128 - Rob the Rich (R)
-OOO - DYN129 - Rob the Rich (R)
-OOO - DYN130 - Shred (R)
-OOO - DYN131 - Shred (R)
-OOO - DYN132 - Shred (R)
-OOO - DYN133 - Annihilate the Armed (C)
-OOO - DYN134 - Annihilate the Armed (C)
-OOO - DYN135 - Annihilate the Armed (C)
-OOO - DYN136 - Fleece the Frail (C)
-OOO - DYN137 - Fleece the Frail (C)
-OOO - DYN138 - Fleece the Frail (C)
-OOO - DYN139 - Nix the Nimble (C)
-OOO - DYN140 - Nix the Nimble (C)
-OOO - DYN141 - Nix the Nimble (C)
-OOO - DYN142 - Sack the Shifty (C)
-OOO - DYN143 - Sack the Shifty (C)
-OOO - DYN144 - Sack the Shifty (C)
-OOO - DYN145 - Slay the Scholars (C)
-OOO - DYN146 - Slay the Scholars (C)
-OOO - DYN147 - Slay the Scholars (C)
-OOO - DYN148 - Cut to the Chase (C)
-OOO - DYN149 - Cut to the Chase (C)
-OOO - DYN150 - Cut to the Chase (C)
-O   - DYN151 - Sandscour Greatbow (M)
-O   - DYN152 - Hornet's Sting (R)
-OOO - DYN153 - Heat Seeker (M)
-OOO - DYN154 - Immobilizing Shot (M)
-OOO - DYN155 - Dead Eye (M)
-OOO - DYN156 - Drill Shot (R)
-OOO - DYN157 - Drill Shot (R)
-OOO - DYN158 - Drill Shot (R)
-OOO - DYN159 - Blessing of Focus (R)
-OOO - DYN160 - Blessing of Focus (R)
-OOO - DYN161 - Blessing of Focus (R)
-OOO - DYN162 - Hemorrhage Bore (C)
-OOO - DYN163 - Hemorrhage Bore (C)
-OOO - DYN164 - Hemorrhage Bore (C)
-OOO - DYN165 - Long Shot (C)
-OOO - DYN166 - Long Shot (C)
-OOO - DYN167 - Long Shot (C)
-OOO - DYN168 - Point the Tip (C)
-OOO - DYN169 - Point the Tip (C)
-OOO - DYN170 - Point the Tip (C)
-O   - DYN171 - Amethyst Tiara (M)
-O   - DYN172 - Annals of Sutcliffe (R)
-OOO - DYN173 - Cryptic Crossing (M)
-OOO - DYN174 - Diabolic Ultimatum (M)
-OOO - DYN175 - Looming Doom (M)
-OOO - DYN176 - Deathly Duet (R)
-OOO - DYN177 - Deathly Duet (R)
-OOO - DYN178 - Deathly Duet (R)
-OOO - DYN179 - Blessing of Occult (R)
-OOO - DYN180 - Blessing of Occult (R)
-OOO - DYN181 - Blessing of Occult (R)
-OOO - DYN182 - Aether Slash (C)
-OOO - DYN183 - Aether Slash (C)
-OOO - DYN184 - Aether Slash (C)
-OOO - DYN185 - Runic Reaping (C)
-OOO - DYN186 - Runic Reaping (C)
-OOO - DYN187 - Runic Reaping (C)
-OOO - DYN188 - Sky Fire Lanterns (C)
-OOO - DYN189 - Sky Fire Lanterns (C)
-OOO - DYN190 - Sky Fire Lanterns (C)
-OOO - DYN191 - Runechant (T)
-O   - DYN192 - Surgent Aethertide (M)
-O   - DYN193 - Seerstone (R)
-OOO - DYN194 - Mind Warp (M)
-OOO - DYN195 - Swell Tidings (M)
-OOO - DYN196 - Brainstorm (M)
-OOO - DYN197 - Aether Quickening (R)
-OOO - DYN198 - Aether Quickening (R)
-OOO - DYN199 - Aether Quickening (R)
-OOO - DYN200 - Blessing of Aether (R)
-OOO - DYN201 - Blessing of Aether (R)
-OOO - DYN202 - Blessing of Aether (R)
-OOO - DYN203 - Prognosticate (C)
-OOO - DYN204 - Prognosticate (C)
-OOO - DYN205 - Prognosticate (C)
-OOO - DYN206 - Sap (C)
-OOO - DYN207 - Sap (C)
-OOO - DYN208 - Sap (C)
-OOO - DYN209 - Tempest Aurora (C)
-OOO - DYN210 - Tempest Aurora (C)
-OOO - DYN211 - Tempest Aurora (C)
-O   - DYN212 - Suraya, Archangel of Knowledge (L)
-O   - DYN212 - Invoke Suraya (L)
-O   - DYN213 - Celestial Kimono (M)
-O   - DYN214 - Wave of Reality (R)
-OOO - DYN215 - Phantasmal Symbiosis (M)
-OOO - DYN216 - Spectral Procession (M)
-OOO - DYN217 - Tome of Aeo (M)
-OOO - DYN218 - Blessing of Spirits (R)
-OOO - DYN219 - Blessing of Spirits (R)
-OOO - DYN220 - Blessing of Spirits (R)
-OOO - DYN221 - Tranquil Passing (R)
-OOO - DYN222 - Tranquil Passing (R)
-OOO - DYN223 - Tranquil Passing (R)
-OOO - DYN224 - Spectral Prowler (C)
-OOO - DYN225 - Spectral Prowler (C)
-OOO - DYN226 - Spectral Prowler (C)
-OOO - DYN227 - Spectral Rider (C)
-OOO - DYN228 - Spectral Rider (C)
-OOO - DYN229 - Spectral Rider (C)
-OOO - DYN230 - Water Glow Lanterns (C)
-OOO - DYN231 - Water Glow Lanterns (C)
-OOO - DYN232 - Water Glow Lanterns (C)
-OOO - DYN233 - Spectral Shield (T)
-O   - DYN234 - Crown of Dominion (L)
-O   - DYN235 - Ornate Tessen (R)
-OOO - DYN236 - Spell Fray Tiara (R)
-OOO - DYN237 - Spell Fray Cloak (R)
-OOO - DYN238 - Spell Fray Gloves (R)
-OOO - DYN239 - Spell Fray Leggings (R)
-OOO - DYN240 - Imperial Edict (M)
-OOO - DYN241 - Imperial Ledger (M)
-O   - DYN242 - Imperial Warhorn (M)
-O   - DYN243 - Gold (C)
-O   - DYN244 - Ponder (C)
-O   - DYN245 - Silver (C)
-O   - DYN246 - Spellbane Aegis (C)
+O   DYN001 - Emperor, Dracai of Aesir (L) - royal;draconic;warrior;wizard;hero;young;
+OOO DYN002 - Dust from the Golden Plains (M) {1} - draconic;illusionist;action;ash;
+OOO DYN003 - Dust from the Red Desert (M) {1} - draconic;illusionist;action;ash;
+OOO DYN004 - Dust from the Shadow Crypts (M) {1} - draconic;illusionist;action;ash;
+O   DYN005 - Rok (M) - brute;weapon;rock;2h;
+O   DYN006 - Beaten Trackers (R) - brute;equipment;legs;
+OOO DYN007 - Savage Beatdown (M) {1} - brute;action;attack;
+OOO DYN008 - Skull Crack (M) {1} - brute;action;attack;
+OOO DYN009 - Berserk (M) {2} - brute;action;
+OOO DYN010 - Reincarnate (R) {1} - brute;action;attack;
+OOO DYN011 - Reincarnate (R) {2} - brute;action;attack;
+OOO DYN012 - Reincarnate (R) {3} - brute;action;attack;
+OOO DYN013 - Blessing of Savagery (R) {1} - brute;action;aura;
+OOO DYN014 - Blessing of Savagery (R) {2} - brute;action;aura;
+OOO DYN015 - Blessing of Savagery (R) {3} - brute;action;aura;
+OOO DYN016 - Madcap Charger (C) {1} - brute;action;attack;
+OOO DYN017 - Madcap Charger (C) {2} - brute;action;attack;
+OOO DYN018 - Madcap Charger (C) {3} - brute;action;attack;
+OOO DYN019 - Madcap Muscle (C) {1} - brute;action;attack;
+OOO DYN020 - Madcap Muscle (C) {2} - brute;action;attack;
+OOO DYN021 - Madcap Muscle (C) {3} - brute;action;attack;
+OOO DYN022 - Rumble Grunting (C) {1} - brute;action;
+OOO DYN023 - Rumble Grunting (C) {2} - brute;action;
+OOO DYN024 - Rumble Grunting (C) {3} - brute;action;
+O   DYN025 - Yoji, Royal Protector (M) - guardian;hero;young;
+O   DYN026 - Seasoned Saviour (M) - guardian;equipment;off-hand;
+O   DYN027 - Steelbraid Buckler (R) - guardian;equipment;off-hand;
+OOO DYN028 - Buckle (M) {3} - guardian;action;
+OOO DYN029 - Never Yield (M) {3} - guardian;action;aura;
+OOO DYN030 - Shield Bash (R) {1} - guardian;defense;reaction;
+OOO DYN031 - Shield Bash (R) {2} - guardian;defense;reaction;
+OOO DYN032 - Shield Bash (R) {3} - guardian;defense;reaction;
+OOO DYN033 - Blessing of Patience (R) {1} - guardian;action;aura;
+OOO DYN034 - Blessing of Patience (R) {2} - guardian;action;aura;
+OOO DYN035 - Blessing of Patience (R) {3} - guardian;action;aura;
+OOO DYN036 - Shield Wall (C) {1} - guardian;defense;reaction;
+OOO DYN037 - Shield Wall (C) {2} - guardian;defense;reaction;
+OOO DYN038 - Shield Wall (C) {3} - guardian;defense;reaction;
+OOO DYN039 - Reinforce Steel (C) {1} - guardian;action;
+OOO DYN040 - Reinforce Steel (C) {2} - guardian;action;
+OOO DYN041 - Reinforce Steel (C) {3} - guardian;action;
+OOO DYN042 - Withstand (C) {1} - guardian;instant;
+OOO DYN043 - Withstand (C) {2} - guardian;instant;
+OOO DYN044 - Withstand (C) {3} - guardian;instant;
+O   DYN045 - Blazen Yoroi (M) - ninja;equipment;chest;
+O   DYN046 - Tearing Shuko (R) - ninja;equipment;arms;
+OOO DYN047 - Tiger Swipe (M) {1} - ninja;action;attack;
+OOO DYN048 - Mindstate of Tiger (M) {3} - ninja;action;aura;
+OOO DYN049 - Roar of the Tiger (M) {2} - ninja;action;
+OOO DYN050 - Flex Claws (R) {1} - ninja;action;attack;
+OOO DYN051 - Flex Claws (R) {2} - ninja;action;attack;
+OOO DYN052 - Flex Claws (R) {3} - ninja;action;attack;
+OOO DYN053 - Blessing of Qi (R) {1} - ninja;action;aura;
+OOO DYN054 - Blessing of Qi (R) {2} - ninja;action;aura;
+OOO DYN055 - Blessing of Qi (R) {3} - ninja;action;aura;
+OOO DYN056 - Pouncing Qi (C) {1} - ninja;action;attack;
+OOO DYN057 - Pouncing Qi (C) {2} - ninja;action;attack;
+OOO DYN058 - Pouncing Qi (C) {3} - ninja;action;attack;
+OOO DYN059 - Qi Unleashed (C) {1} - ninja;action;attack;
+OOO DYN060 - Qi Unleashed (C) {2} - ninja;action;attack;
+OOO DYN061 - Qi Unleashed (C) {3} - ninja;action;attack;
+OOO DYN062 - Predatory Streak (C) {1} - ninja;action;
+OOO DYN063 - Predatory Streak (C) {2} - ninja;action;
+OOO DYN064 - Predatory Streak (C) {3} - ninja;action;
+OOO DYN065 - Crouching Tiger (C) - ninja;action;attack;
+O   DYN066 - Spirit of Eirina (L) {2} - light;warrior;action;item;
+O   DYN067 - Jubeel, Spellbane (M) - warrior;weapon;sword;2h;
+O   DYN068 - Merciless Battleaxe (M) - warrior;weapon;axe;2h;
+OO  DYN069 - Quicksilver Dagger (R) - warrior;weapon;dagger;1h;
+OOO DYN071 - Cleave (M) {1} - warrior;action;
+OOO DYN072 - Ironsong Pride (M) {1} - warrior;instant;aura;
+OOO DYN073 - Blessing of Steel (R) {1} - warrior;action;aura;
+OOO DYN074 - Blessing of Steel (R) {2} - warrior;action;aura;
+OOO DYN075 - Blessing of Steel (R) {3} - warrior;action;aura;
+OOO DYN076 - Precision Press (R) {1} - warrior;action;
+OOO DYN077 - Precision Press (R) {2} - warrior;action;
+OOO DYN078 - Precision Press (R) {3} - warrior;action;
+OOO DYN079 - Puncture (C) {1} - warrior;attack;reaction;
+OOO DYN080 - Puncture (C) {2} - warrior;attack;reaction;
+OOO DYN081 - Puncture (C) {3} - warrior;attack;reaction;
+OOO DYN082 - Felling Swing (C) {1} - warrior;action;
+OOO DYN083 - Felling Swing (C) {2} - warrior;action;
+OOO DYN084 - Felling Swing (C) {3} - warrior;action;
+OOO DYN085 - Visit the Imperial Forge (C) {1} - warrior;action;
+OOO DYN086 - Visit the Imperial Forge (C) {2} - warrior;action;
+OOO DYN087 - Visit the Imperial Forge (C) {3} - warrior;action;
+O   DYN088 - Hanabi Blaster (M) - mechanologist;weapon;gun;2h;
+O   DYN089 - Galvanic Bender (R) - mechanologist;equipment;arms;
+OOO DYN090 - Pulsewave Harpoon (M) {1} - mechanologist;action;attack;
+OOO DYN091 - Bios Update (M) {1} - mechanologist;action;
+O   DYN092 - Nitro Mechanoid (M) - mechanologist;weapon;equipment;item;
+OOO DYN092 - Construct Nitro Mechanoid (M) {2} - mechanologist;action;construct;
+OOO DYN093 - Plasma Mainline (M) {1} - mechanologist;action;item;
+OOO DYN094 - Powder Keg (M) {3} - mechanologist;action;item;
+OOO DYN095 - Scramble Pulse (R) {1} - mechanologist;action;attack;
+OOO DYN096 - Scramble Pulse (R) {2} - mechanologist;action;attack;
+OOO DYN097 - Scramble Pulse (R) {3} - mechanologist;action;attack;
+OOO DYN098 - Blessing of Ingenuity (R) {1} - mechanologist;action;aura;
+OOO DYN099 - Blessing of Ingenuity (R) {2} - mechanologist;action;aura;
+OOO DYN100 - Blessing of Ingenuity (R) {3} - mechanologist;action;aura;
+OOO DYN101 - Crankshaft (C) {1} - mechanologist;action;attack;
+OOO DYN102 - Crankshaft (C) {2} - mechanologist;action;attack;
+OOO DYN103 - Crankshaft (C) {3} - mechanologist;action;attack;
+OOO DYN104 - Jump Start (C) {1} - mechanologist;action;attack;
+OOO DYN105 - Jump Start (C) {2} - mechanologist;action;attack;
+OOO DYN106 - Jump Start (C) {3} - mechanologist;action;attack;
+OOO DYN107 - Urgent Delivery (C) {1} - mechanologist;action;attack;
+OOO DYN108 - Urgent Delivery (C) {2} - mechanologist;action;attack;
+OOO DYN109 - Urgent Delivery (C) {3} - mechanologist;action;attack;
+OOO DYN110 - Hyper Driver (C) {1} - mechanologist;action;item;
+OOO DYN111 - Hyper Driver (C) {2} - mechanologist;action;item;
+OOO DYN112 - Hyper Driver (C) {3} - mechanologist;action;item;
+O   DYN113 - Arakni, Huntsman (M) - assassin;hero;
+O   DYN114 - Arakni (R) - assassin;hero;young;
+OO  DYN115 - Spider's Bite (R) - assassin;weapon;dagger;1h;
+O   DYN117 - Blacktek Whisperers (L) - assassin;equipment;legs;
+O   DYN118 - Mask of Perdition (M) - assassin;equipment;head;
+OOO DYN119 - Eradicate (M) {2} - assassin;action;attack;
+OOO DYN120 - Leave No Witnesses (M) {1} - assassin;action;attack;
+OOO DYN121 - Regicide (M) {3} - assassin;action;attack;
+OOO DYN122 - Surgical Extraction (M) {3} - assassin;action;attack;
+OOO DYN123 - Pay Day (M) {3} - assassin;action;
+OOO DYN124 - Plunder the Poor (R) {1} - assassin;action;attack;
+OOO DYN125 - Plunder the Poor (R) {2} - assassin;action;attack;
+OOO DYN126 - Plunder the Poor (R) {3} - assassin;action;attack;
+OOO DYN127 - Rob the Rich (R) {1} - assassin;action;attack;
+OOO DYN128 - Rob the Rich (R) {2} - assassin;action;attack;
+OOO DYN129 - Rob the Rich (R) {3} - assassin;action;attack;
+OOO DYN130 - Shred (R) {1} - assassin;attack;reaction;
+OOO DYN131 - Shred (R) {2} - assassin;attack;reaction;
+OOO DYN132 - Shred (R) {3} - assassin;attack;reaction;
+OOO DYN133 - Annihilate the Armed (C) {1} - assassin;action;attack;
+OOO DYN134 - Annihilate the Armed (C) {2} - assassin;action;attack;
+OOO DYN135 - Annihilate the Armed (C) {3} - assassin;action;attack;
+OOO DYN136 - Fleece the Frail (C) {1} - assassin;action;attack;
+OOO DYN137 - Fleece the Frail (C) {2} - assassin;action;attack;
+OOO DYN138 - Fleece the Frail (C) {3} - assassin;action;attack;
+OOO DYN139 - Nix the Nimble (C) {1} - assassin;action;attack;
+OOO DYN140 - Nix the Nimble (C) {2} - assassin;action;attack;
+OOO DYN141 - Nix the Nimble (C) {3} - assassin;action;attack;
+OOO DYN142 - Sack the Shifty (C) {1} - assassin;action;attack;
+OOO DYN143 - Sack the Shifty (C) {2} - assassin;action;attack;
+OOO DYN144 - Sack the Shifty (C) {3} - assassin;action;attack;
+OOO DYN145 - Slay the Scholars (C) {1} - assassin;action;attack;
+OOO DYN146 - Slay the Scholars (C) {2} - assassin;action;attack;
+OOO DYN147 - Slay the Scholars (C) {3} - assassin;action;attack;
+OOO DYN148 - Cut to the Chase (C) {1} - assassin;attack;reaction;
+OOO DYN149 - Cut to the Chase (C) {2} - assassin;attack;reaction;
+OOO DYN150 - Cut to the Chase (C) {3} - assassin;attack;reaction;
+O   DYN151 - Sandscour Greatbow (M) - ranger;weapon;bow;2h;
+O   DYN152 - Hornet's Sting (R) - ranger;equipment;arms;
+OOO DYN153 - Heat Seeker (M) {1} - ranger;action;arrow;attack;
+OOO DYN154 - Immobilizing Shot (M) {1} - ranger;action;arrow;attack;
+OOO DYN155 - Dead Eye (M) {2} - ranger;action;
+OOO DYN156 - Drill Shot (R) {1} - ranger;action;arrow;attack;
+OOO DYN157 - Drill Shot (R) {2} - ranger;action;arrow;attack;
+OOO DYN158 - Drill Shot (R) {3} - ranger;action;arrow;attack;
+OOO DYN159 - Blessing of Focus (R) {1} - ranger;action;aura;
+OOO DYN160 - Blessing of Focus (R) {2} - ranger;action;aura;
+OOO DYN161 - Blessing of Focus (R) {3} - ranger;action;aura;
+OOO DYN162 - Hemorrhage Bore (C) {1} - ranger;action;arrow;attack;
+OOO DYN163 - Hemorrhage Bore (C) {2} - ranger;action;arrow;attack;
+OOO DYN164 - Hemorrhage Bore (C) {3} - ranger;action;arrow;attack;
+OOO DYN165 - Long Shot (C) {1} - ranger;action;arrow;attack;
+OOO DYN166 - Long Shot (C) {2} - ranger;action;arrow;attack;
+OOO DYN167 - Long Shot (C) {3} - ranger;action;arrow;attack;
+OOO DYN168 - Point the Tip (C) {1} - ranger;action;
+OOO DYN169 - Point the Tip (C) {2} - ranger;action;
+OOO DYN170 - Point the Tip (C) {3} - ranger;action;
+O   DYN171 - Amethyst Tiara (M) - runeblade;equipment;head;
+O   DYN172 - Annals of Sutcliffe (R) - runeblade;weapon;book;2h;
+OOO DYN173 - Cryptic Crossing (M) {2} - runeblade;action;attack;
+OOO DYN174 - Diabolic Ultimatum (M) {1} - runeblade;action;
+OOO DYN175 - Looming Doom (M) {3} - runeblade;action;aura;
+OOO DYN176 - Deathly Duet (R) {1} - runeblade;action;attack;
+OOO DYN177 - Deathly Duet (R) {2} - runeblade;action;attack;
+OOO DYN178 - Deathly Duet (R) {3} - runeblade;action;attack;
+OOO DYN179 - Blessing of Occult (R) {1} - runeblade;action;aura;
+OOO DYN180 - Blessing of Occult (R) {2} - runeblade;action;aura;
+OOO DYN181 - Blessing of Occult (R) {3} - runeblade;action;aura;
+OOO DYN182 - Aether Slash (C) {1} - runeblade;action;attack;
+OOO DYN183 - Aether Slash (C) {2} - runeblade;action;attack;
+OOO DYN184 - Aether Slash (C) {3} - runeblade;action;attack;
+OOO DYN185 - Runic Reaping (C) {1} - runeblade;action;
+OOO DYN186 - Runic Reaping (C) {2} - runeblade;action;
+OOO DYN187 - Runic Reaping (C) {3} - runeblade;action;
+OOO DYN188 - Sky Fire Lanterns (C) {1} - runeblade;action;
+OOO DYN189 - Sky Fire Lanterns (C) {2} - runeblade;action;
+OOO DYN190 - Sky Fire Lanterns (C) {3} - runeblade;action;
+O   DYN191 - Runechant (T) - runeblade;token;aura;
+O   DYN192 - Surgent Aethertide (M) - wizard;weapon;staff;2h;
+O   DYN193 - Seerstone (R) - wizard;weapon;orb;2h;
+OOO DYN194 - Mind Warp (M) {2} - wizard;action;
+OOO DYN195 - Swell Tidings (M) {1} - wizard;action;
+OOO DYN196 - Brainstorm (M) {3} - wizard;instant;
+OOO DYN197 - Aether Quickening (R) {1} - wizard;action;
+OOO DYN198 - Aether Quickening (R) {2} - wizard;action;
+OOO DYN199 - Aether Quickening (R) {3} - wizard;action;
+OOO DYN200 - Blessing of Aether (R) {1} - wizard;action;aura;
+OOO DYN201 - Blessing of Aether (R) {2} - wizard;action;aura;
+OOO DYN202 - Blessing of Aether (R) {3} - wizard;action;aura;
+OOO DYN203 - Prognosticate (C) {1} - wizard;action;
+OOO DYN204 - Prognosticate (C) {2} - wizard;action;
+OOO DYN205 - Prognosticate (C) {3} - wizard;action;
+OOO DYN206 - Sap (C) {1} - wizard;action;
+OOO DYN207 - Sap (C) {2} - wizard;action;
+OOO DYN208 - Sap (C) {3} - wizard;action;
+OOO DYN209 - Tempest Aurora (C) {1} - wizard;action;
+OOO DYN210 - Tempest Aurora (C) {2} - wizard;action;
+OOO DYN211 - Tempest Aurora (C) {3} - wizard;action;
+OOO DYN212 - Suraya, Archangel of Knowledge (L) - light;illusionist;angel;ally;
+O   DYN212 - Invoke Suraya (L) {2} - light;illusionist;action;invocation;
+O   DYN213 - Celestial Kimono (M) - illusionist;equipment;chest;
+O   DYN214 - Wave of Reality (R) - illusionist;equipment;arms;
+OOO DYN215 - Phantasmal Symbiosis (M) {2} - illusionist;action;attack;
+OOO DYN216 - Spectral Procession (M) {1} - illusionist;action;attack;
+OOO DYN217 - Tome of Aeo (M) {3} - illusionist;action;aura;
+OOO DYN218 - Blessing of Spirits (R) {1} - illusionist;action;aura;
+OOO DYN219 - Blessing of Spirits (R) {2} - illusionist;action;aura;
+OOO DYN220 - Blessing of Spirits (R) {3} - illusionist;action;aura;
+OOO DYN221 - Tranquil Passing (R) {1} - illusionist;action;aura;
+OOO DYN222 - Tranquil Passing (R) {2} - illusionist;action;aura;
+OOO DYN223 - Tranquil Passing (R) {3} - illusionist;action;aura;
+OOO DYN224 - Spectral Prowler (C) {1} - illusionist;action;attack;
+OOO DYN225 - Spectral Prowler (C) {2} - illusionist;action;attack;
+OOO DYN226 - Spectral Prowler (C) {3} - illusionist;action;attack;
+OOO DYN227 - Spectral Rider (C) {1} - illusionist;action;attack;
+OOO DYN228 - Spectral Rider (C) {2} - illusionist;action;attack;
+OOO DYN229 - Spectral Rider (C) {3} - illusionist;action;attack;
+OOO DYN230 - Water Glow Lanterns (C) {1} - illusionist;action;
+OOO DYN231 - Water Glow Lanterns (C) {2} - illusionist;action;
+OOO DYN232 - Water Glow Lanterns (C) {3} - illusionist;action;
+O   DYN233 - Spectral Shield (T) - illusionist;token;aura;
+O   DYN234 - Crown of Dominion (L) - generic;equipment;head;
+O   DYN235 - Ornate Tessen (R) - generic;equipment;off-hand;
+O   DYN236 - Spell Fray Tiara (R) - generic;equipment;head;
+O   DYN237 - Spell Fray Cloak (R) - generic;equipment;chest;
+O   DYN238 - Spell Fray Gloves (R) - generic;equipment;arms;
+O   DYN239 - Spell Fray Leggings (R) - generic;equipment;legs;
+O   DYN240 - Imperial Edict (M) {1} - generic;action;item;
+O   DYN241 - Imperial Ledger (M) {1} - generic;action;item;
+O   DYN242 - Imperial Warhorn (M) {1} - generic;action;item;
+OOO DYN243 - Gold (C) - generic;token;item;
+OOO DYN244 - Ponder (C) - generic;token;aura;
+OOO DYN245 - Silver (C) - generic;token;item;
+OOO DYN246 - Spellbane Aegis (C) - generic;token;aura;

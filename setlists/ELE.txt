@@ -1,238 +1,238 @@
-ELE000 - Korshem, Crossroad of Elements (F)
-ELE001 - Oldhim, Grandfather of Eternity (T)
-ELE002 - Oldhim (T)
-ELE003 - Winter's Wail (M)
-ELE004 - Endless Winter (M)
-ELE005 - Oaken Old (M)
-ELE006 - Awakening (M)
-ELE007 - Biting Gale (R)
-ELE008 - Biting Gale (R)
-ELE009 - Biting Gale (R)
-ELE010 - Turn Timber (R)
-ELE011 - Turn Timber (R)
-ELE012 - Turn Timber (R)
-ELE013 - Entangle (C)
-ELE014 - Entangle (C)
-ELE015 - Entangle (C)
-ELE016 - Glacial Footsteps (C)
-ELE017 - Glacial Footsteps (C)
-ELE018 - Glacial Footsteps (C)
-ELE019 - Mulch (C)
-ELE020 - Mulch (C)
-ELE021 - Mulch (C)
-ELE022 - Snow Under (C)
-ELE023 - Snow Under (C)
-ELE024 - Snow Under (C)
-ELE025 - Emerging Avalanche (C)
-ELE026 - Emerging Avalanche (C)
-ELE027 - Emerging Avalanche (C)
-ELE028 - Strength of Sequoia (C)
-ELE029 - Strength of Sequoia (C)
-ELE030 - Strength of Sequoia (C)
-ELE031 - Lexi, Live Wire (T)
-ELE032 - Lexi (T)
-ELE033 - Shiver (T)
-ELE034 - Voltaire, Strike Twice (M)
-ELE035 - Frost Lock (M)
-ELE036 - Light it Up (M)
-ELE037 - Ice Storm (M)
-ELE038 - Cold Wave (R)
-ELE039 - Cold Wave (R)
-ELE040 - Cold Wave (R)
-ELE041 - Snap Shot (R)
-ELE042 - Snap Shot (R)
-ELE043 - Snap Shot (R)
-ELE044 - Blizzard Bolt (C)
-ELE045 - Blizzard Bolt (C)
-ELE046 - Blizzard Bolt (C)
-ELE047 - Buzz Bolt (C)
-ELE048 - Buzz Bolt (C)
-ELE049 - Buzz Bolt (C)
-ELE050 - Chilling Icevein (C)
-ELE051 - Chilling Icevein (C)
-ELE052 - Chilling Icevein (C)
-ELE053 - Dazzling Crescendo (C)
-ELE054 - Dazzling Crescendo (C)
-ELE055 - Dazzling Crescendo (C)
-ELE056 - Flake Out (C)
-ELE057 - Flake Out (C)
-ELE058 - Flake Out (C)
-ELE059 - Frazzle (C)
-ELE060 - Frazzle (C)
-ELE061 - Frazzle (C)
-ELE062 - Briar, Warden of Thorns (T)
-ELE063 - Briar (T)
-ELE064 - Blossoming Spellblade (M)
-ELE065 - Flicker Wisp (M)
-ELE066 - Force of Nature (M)
-ELE067 - Explosive Growth (R)
-ELE068 - Explosive Growth (R)
-ELE069 - Explosive Growth (R)
-ELE070 - Rites of Lightning (R)
-ELE071 - Rites of Lightning (R)
-ELE072 - Rites of Lightning (R)
-ELE073 - Arcanic Shockwave (C)
-ELE074 - Arcanic Shockwave (C)
-ELE075 - Arcanic Shockwave (C)
-ELE076 - Vela Flash (C)
-ELE077 - Vela Flash (C)
-ELE078 - Vela Flash (C)
-ELE079 - Rites of Replenishment (C)
-ELE080 - Rites of Replenishment (C)
-ELE081 - Rites of Replenishment (C)
-ELE082 - Stir the Wildwood (C)
-ELE083 - Stir the Wildwood (C)
-ELE084 - Stir the Wildwood (C)
-ELE085 - Bramble Spark (C)
-ELE086 - Bramble Spark (C)
-ELE087 - Bramble Spark (C)
-ELE088 - Inspire Lightning (C)
-ELE089 - Inspire Lightning (C)
-ELE090 - Inspire Lightning (C)
-ELE091 - Fulminate (M)
-ELE092 - Flashfreeze (M)
-ELE093 - Exposed to the Elements (M)
-ELE094 - Entwine Earth (C)
-ELE095 - Entwine Earth (C)
-ELE096 - Entwine Earth (C)
-ELE097 - Entwine Ice (C)
-ELE098 - Entwine Ice (C)
-ELE099 - Entwine Ice (C)
-ELE100 - Entwine Lightning (C)
-ELE101 - Entwine Lightning (C)
-ELE102 - Entwine Lightning (C)
-ELE103 - Invigorate (C)
-ELE104 - Invigorate (C)
-ELE105 - Invigorate (C)
-ELE106 - Rejuvenate (C)
-ELE107 - Rejuvenate (C)
-ELE108 - Rejuvenate (C)
-ELE109 - Embodiment of Earth (T)
-ELE110 - Embodiment of Lightning (T)
-ELE111 - Frostbite (T)
-ELE112 - Pulse of Volthaven (M)
-ELE113 - Pulse of Candlehold (M)
-ELE114 - Pulse of Isenloft (M)
-ELE115 - Crown of Seeds (L)
-ELE116 - Plume of Evergrowth (C)
-ELE117 - Channel Mount Heroic (M)
-ELE118 - Tome of Harvests (M)
-ELE119 - Evergreen (R)
-ELE120 - Evergreen (R)
-ELE121 - Evergreen (R)
-ELE122 - Weave Earth (R)
-ELE123 - Weave Earth (R)
-ELE124 - Weave Earth (R)
-ELE125 - Summerwood Shelter (R)
-ELE126 - Summerwood Shelter (R)
-ELE127 - Summerwood Shelter (R)
-ELE128 - Autumn's Touch (C)
-ELE129 - Autumn's Touch (C)
-ELE130 - Autumn's Touch (C)
-ELE131 - Break Ground (C)
-ELE132 - Break Ground (C)
-ELE133 - Break Ground (C)
-ELE134 - Burgeoning (C)
-ELE135 - Burgeoning (C)
-ELE136 - Burgeoning (C)
-ELE137 - Earthlore Surge (C)
-ELE138 - Earthlore Surge (C)
-ELE139 - Earthlore Surge (C)
-ELE140 - Sow Tomorrow (C)
-ELE141 - Sow Tomorrow (C)
-ELE142 - Sow Tomorrow (C)
-ELE143 - Amulet of Earth (C)
-ELE144 - Heart of Ice (L)
-ELE145 - Coat of Frost (C)
-ELE146 - Channel Lake Frigid (M)
-ELE147 - Blizzard (M)
-ELE148 - Frost Fang (R)
-ELE149 - Frost Fang (R)
-ELE150 - Frost Fang (R)
-ELE151 - Ice Quake (R)
-ELE152 - Ice Quake (R)
-ELE153 - Ice Quake (R)
-ELE154 - Weave Ice (R)
-ELE155 - Weave Ice (R)
-ELE156 - Weave Ice (R)
-ELE157 - Icy Encounter (C)
-ELE158 - Icy Encounter (C)
-ELE159 - Icy Encounter (C)
-ELE160 - Winter's Grasp (C)
-ELE161 - Winter's Grasp (C)
-ELE162 - Winter's Grasp (C)
-ELE163 - Chill to the Bone (C)
-ELE164 - Chill to the Bone (C)
-ELE165 - Chill to the Bone (C)
-ELE166 - Polar Blast (C)
-ELE167 - Polar Blast (C)
-ELE168 - Polar Blast (C)
-ELE169 - Winter's Bite (C)
-ELE170 - Winter's Bite (C)
-ELE171 - Winter's Bite (C)
-ELE172 - Amulet of Ice (C)
-ELE173 - Shock Charmers (L)
-ELE174 - Mark of Lightning (C)
-ELE175 - Channel Thunder Steppe (M)
-ELE176 - Blink (M)
-ELE177 - Flash (R)
-ELE178 - Flash (R)
-ELE179 - Flash (R)
-ELE180 - Weave Lightning (R)
-ELE181 - Weave Lightning (R)
-ELE182 - Weave Lightning (R)
-ELE183 - Lightning Press (R)
-ELE184 - Lightning Press (R)
-ELE185 - Lightning Press (R)
-ELE186 - Ball Lightning (C)
-ELE187 - Ball Lightning (C)
-ELE188 - Ball Lightning (C)
-ELE189 - Lightning Surge (C)
-ELE190 - Lightning Surge (C)
-ELE191 - Lightning Surge (C)
-ELE192 - Heaven's Claws (C)
-ELE193 - Heaven's Claws (C)
-ELE194 - Heaven's Claws (C)
-ELE195 - Shock Striker (C)
-ELE196 - Shock Striker (C)
-ELE197 - Shock Striker (C)
-ELE198 - Electrify (C)
-ELE199 - Electrify (C)
-ELE200 - Electrify (C)
-ELE201 - Amulet of Lightning (C)
-ELE202 - Titan's Fist (T)
-ELE203 - Rampart of the Ram's Head (L)
-ELE204 - Rotten Old Buckler (C)
-ELE205 - Tear Asunder (M)
-ELE206 - Embolden (R)
-ELE207 - Embolden (R)
-ELE208 - Embolden (R)
-ELE209 - Thump (C)
-ELE210 - Thump (C)
-ELE211 - Thump (C)
-ELE213 - New Horizon (L)
-ELE214 - Honing Hood (C)
-ELE215 - Seek and Destroy (M)
-ELE216 - Bolt'n Shot (R)
-ELE217 - Bolt'n Shot (R)
-ELE218 - Bolt'n Shot (R)
-ELE219 - Over Flex (C)
-ELE220 - Over Flex (C)
-ELE221 - Over Flex (C)
-ELE222 - Rosetta Thorn (T)
-ELE223 - Duskblade (M)
-ELE224 - Spellbound Creepers (L)
-ELE225 - Sutcliffe's Suede Hides (C)
-ELE226 - Sting of Sorcery (M)
-ELE227 - Sigil of Suffering (R)
-ELE228 - Sigil of Suffering (R)
-ELE229 - Sigil of Suffering (R)
-ELE230 - Singeing Steelblade (C)
-ELE231 - Singeing Steelblade (C)
-ELE232 - Singeing Steelblade (C)
-ELE233 - Ragamuffin's Hat (C)
-ELE234 - Deep Blue (C)
-ELE235 - Cracker Jax (C)
-ELE236 - Runaways (C)
-MON306 - Cracked Bauble (T)
-WTR075 - Seismic Surge (T)
+OOO ELE000 - Korshem, Crossroad of Elements (F) - elemental;action;landmark;
+O   ELE001 - Oldhim, Grandfather of Eternity (T) - elemental;guardian;hero;
+O   ELE002 - Oldhim (T) - elemental;guardian;hero;young;
+OO  ELE003 - Winter's Wail (M) - elemental;guardian;weapon;hammer;1h;
+OOO ELE004 - Endless Winter (M) {1} - elemental;guardian;action;attack;
+OOO ELE005 - Oaken Old (M) {1} - elemental;guardian;action;attack;
+OOO ELE006 - Awakening (M) {3} - elemental;guardian;instant;
+OOO ELE007 - Biting Gale (R) {1} - elemental;guardian;defense;reaction;
+OOO ELE008 - Biting Gale (R) {2} - elemental;guardian;defense;reaction;
+OOO ELE009 - Biting Gale (R) {3} - elemental;guardian;defense;reaction;
+OOO ELE010 - Turn Timber (R) {1} - elemental;guardian;defense;reaction;
+OOO ELE011 - Turn Timber (R) {2} - elemental;guardian;defense;reaction;
+OOO ELE012 - Turn Timber (R) {3} - elemental;guardian;defense;reaction;
+OOO ELE013 - Entangle (C) {1} - elemental;guardian;action;attack;
+OOO ELE014 - Entangle (C) {2} - elemental;guardian;action;attack;
+OOO ELE015 - Entangle (C) {3} - elemental;guardian;action;attack;
+OOO ELE016 - Glacial Footsteps (C) {1} - elemental;guardian;action;attack;
+OOO ELE017 - Glacial Footsteps (C) {2} - elemental;guardian;action;attack;
+OOO ELE018 - Glacial Footsteps (C) {3} - elemental;guardian;action;attack;
+OOO ELE019 - Mulch (C) {1} - elemental;guardian;action;attack;
+OOO ELE020 - Mulch (C) {2} - elemental;guardian;action;attack;
+OOO ELE021 - Mulch (C) {3} - elemental;guardian;action;attack;
+OOO ELE022 - Snow Under (C) {1} - elemental;guardian;action;attack;
+OOO ELE023 - Snow Under (C) {2} - elemental;guardian;action;attack;
+OOO ELE024 - Snow Under (C) {3} - elemental;guardian;action;attack;
+OOO ELE025 - Emerging Avalanche (C) {1} - elemental;guardian;action;aura;
+OOO ELE026 - Emerging Avalanche (C) {2} - elemental;guardian;action;aura;
+OOO ELE027 - Emerging Avalanche (C) {3} - elemental;guardian;action;aura;
+OOO ELE028 - Strength of Sequoia (C) {1} - elemental;guardian;action;aura;
+OOO ELE029 - Strength of Sequoia (C) {2} - elemental;guardian;action;aura;
+OOO ELE030 - Strength of Sequoia (C) {3} - elemental;guardian;action;aura;
+O   ELE031 - Lexi, Livewire (T) - elemental;ranger;hero;
+O   ELE032 - Lexi (T) - elemental;ranger;hero;young;
+O   ELE033 - Shiver (T) - elemental;ranger;weapon;bow;2h;
+O   ELE034 - Voltaire, Strike Twice (M) - elemental;ranger;weapon;bow;2h;
+OOO ELE035 - Frost Lock (M) {3} - elemental;ranger;action;arrow;attack;
+OOO ELE036 - Light it Up (M) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE037 - Ice Storm (M) {1} - elemental;ranger;action;
+OOO ELE038 - Cold Wave (R) {1} - elemental;ranger;action;arrow;attack;
+OOO ELE039 - Cold Wave (R) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE040 - Cold Wave (R) {3} - elemental;ranger;action;arrow;attack;
+OOO ELE041 - Snap Shot (R) {1} - elemental;ranger;action;arrow;attack;
+OOO ELE042 - Snap Shot (R) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE043 - Snap Shot (R) {3} - elemental;ranger;action;arrow;attack;
+OOO ELE044 - Blizzard Bolt (C) {1} - elemental;ranger;action;arrow;attack;
+OOO ELE045 - Blizzard Bolt (C) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE046 - Blizzard Bolt (C) {3} - elemental;ranger;action;arrow;attack;
+OOO ELE047 - Buzz Bolt (C) {1} - elemental;ranger;action;arrow;attack;
+OOO ELE048 - Buzz Bolt (C) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE049 - Buzz Bolt (C) {3} - elemental;ranger;action;arrow;attack;
+OOO ELE050 - Chilling Icevein (C) {1} - elemental;ranger;action;arrow;attack;
+OOO ELE051 - Chilling Icevein (C) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE052 - Chilling Icevein (C) {3} - elemental;ranger;action;arrow;attack;
+OOO ELE053 - Dazzling Crescendo (C) {1} - elemental;ranger;action;arrow;attack;
+OOO ELE054 - Dazzling Crescendo (C) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE055 - Dazzling Crescendo (C) {3} - elemental;ranger;action;arrow;attack;
+OOO ELE056 - Flake Out (C) {1} - elemental;ranger;action;arrow;attack;
+OOO ELE057 - Flake Out (C) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE058 - Flake Out (C) {3} - elemental;ranger;action;arrow;attack;
+OOO ELE059 - Frazzle (C) {1} - elemental;ranger;action;arrow;attack;
+OOO ELE060 - Frazzle (C) {2} - elemental;ranger;action;arrow;attack;
+OOO ELE061 - Frazzle (C) {3} - elemental;ranger;action;arrow;attack;
+O   ELE062 - Briar, Warden of Thorns (T) - elemental;runeblade;hero;
+O   ELE063 - Briar (T) - elemental;runeblade;hero;young;
+OOO ELE064 - Blossoming Spellblade (M) {1} - elemental;runeblade;action;attack;
+OOO ELE065 - Flicker Wisp (M) {2} - elemental;runeblade;action;
+OOO ELE066 - Force of Nature (M) {3} - elemental;runeblade;action;
+OOO ELE067 - Explosive Growth (R) {1} - elemental;runeblade;action;attack;
+OOO ELE068 - Explosive Growth (R) {2} - elemental;runeblade;action;attack;
+OOO ELE069 - Explosive Growth (R) {3} - elemental;runeblade;action;attack;
+OOO ELE070 - Rites of Lightning (R) {1} - elemental;runeblade;action;attack;
+OOO ELE071 - Rites of Lightning (R) {2} - elemental;runeblade;action;attack;
+OOO ELE072 - Rites of Lightning (R) {3} - elemental;runeblade;action;attack;
+OOO ELE073 - Arcanic Shockwave (C) {1} - elemental;runeblade;action;attack;
+OOO ELE074 - Arcanic Shockwave (C) {2} - elemental;runeblade;action;attack;
+OOO ELE075 - Arcanic Shockwave (C) {3} - elemental;runeblade;action;attack;
+OOO ELE076 - Vela Flash (C) {1} - elemental;runeblade;action;attack;
+OOO ELE077 - Vela Flash (C) {2} - elemental;runeblade;action;attack;
+OOO ELE078 - Vela Flash (C) {3} - elemental;runeblade;action;attack;
+OOO ELE079 - Rites of Replenishment (C) {1} - elemental;runeblade;action;attack;
+OOO ELE080 - Rites of Replenishment (C) {2} - elemental;runeblade;action;attack;
+OOO ELE081 - Rites of Replenishment (C) {3} - elemental;runeblade;action;attack;
+OOO ELE082 - Stir the Wildwood (C) {1} - elemental;runeblade;action;attack;
+OOO ELE083 - Stir the Wildwood (C) {2} - elemental;runeblade;action;attack;
+OOO ELE084 - Stir the Wildwood (C) {3} - elemental;runeblade;action;attack;
+OOO ELE085 - Bramble Spark (C) {1} - elemental;runeblade;action;
+OOO ELE086 - Bramble Spark (C) {2} - elemental;runeblade;action;
+OOO ELE087 - Bramble Spark (C) {3} - elemental;runeblade;action;
+OOO ELE088 - Inspire Lightning (C) {1} - elemental;runeblade;action;
+OOO ELE089 - Inspire Lightning (C) {2} - elemental;runeblade;action;
+OOO ELE090 - Inspire Lightning (C) {3} - elemental;runeblade;action;
+OOO ELE091 - Fulminate (M) {2} - elemental;action;
+OOO ELE092 - Flashfreeze (M) {1} - elemental;action;
+OOO ELE093 - Exposed to the Elements (M) {3} - elemental;instant;
+OOO ELE094 - Entwine Earth (C) {1} - elemental;action;attack;
+OOO ELE095 - Entwine Earth (C) {2} - elemental;action;attack;
+OOO ELE096 - Entwine Earth (C) {3} - elemental;action;attack;
+OOO ELE097 - Entwine Ice (C) {1} - elemental;action;attack;
+OOO ELE098 - Entwine Ice (C) {2} - elemental;action;attack;
+OOO ELE099 - Entwine Ice (C) {3} - elemental;action;attack;
+OOO ELE100 - Entwine Lightning (C) {1} - elemental;action;attack;
+OOO ELE101 - Entwine Lightning (C) {2} - elemental;action;attack;
+OOO ELE102 - Entwine Lightning (C) {3} - elemental;action;attack;
+OOO ELE103 - Invigorate (C) {1} - elemental;;action;
+OOO ELE104 - Invigorate (C) {2} - elemental;;action;
+OOO ELE105 - Invigorate (C) {3} - elemental;;action;
+OOO ELE106 - Rejuvenate (C) {1} - elemental;action;
+OOO ELE107 - Rejuvenate (C) {2} - elemental;action;
+OOO ELE108 - Rejuvenate (C) {3} - elemental;action;
+O   ELE109 - Embodiment of Earth (T) - elemental;token;aura;
+O   ELE110 - Embodiment of Lightning (T) - elemental;token;aura;
+O   ELE111 - Frostbite (T) - elemental;token;aura;
+O   ELE112 - Pulse of Volthaven (M) {1} - lightning;ice;instant;
+O   ELE113 - Pulse of Candlehold (M) {2} - earth;lightning;action;
+O   ELE114 - Pulse of Isenloft (M) {3} - ice;earth;defense;reaction;
+O   ELE115 - Crown of Seeds (L) - earth;equipment;head;
+O   ELE116 - Plume of Evergrowth (C) - earth;equipment;head;
+OOO ELE117 - Channel Mount Heroic (M) {1} - earth;action;aura;
+OOO ELE118 - Tome of Harvests (M) {3} - earth;action;
+OOO ELE119 - Evergreen (R) {1} - earth;action;attack;
+OOO ELE120 - Evergreen (R) {2} - earth;action;attack;
+OOO ELE121 - Evergreen (R) {3} - earth;action;attack;
+OOO ELE122 - Weave Earth (R) {1} - earth;action;
+OOO ELE123 - Weave Earth (R) {2} - earth;action;
+OOO ELE124 - Weave Earth (R) {3} - earth;action;
+OOO ELE125 - Summerwood Shelter (R) {1} - earth;instant;
+OOO ELE126 - Summerwood Shelter (R) {2} - earth;instant;
+OOO ELE127 - Summerwood Shelter (R) {3} - earth;instant;
+OOO ELE128 - Autumn's Touch (C) {1} - earth;action;attack;
+OOO ELE129 - Autumn's Touch (C) {2} - earth;action;attack;
+OOO ELE130 - Autumn's Touch (C) {3} - earth;action;attack;
+OOO ELE131 - Break Ground (C) {1} - earth;action;attack;
+OOO ELE132 - Break Ground (C) {2} - earth;action;attack;
+OOO ELE133 - Break Ground (C) {3} - earth;action;attack;
+OOO ELE134 - Burgeoning (C) {1} - earth;action;attack;
+OOO ELE135 - Burgeoning (C) {2} - earth;action;attack;
+OOO ELE136 - Burgeoning (C) {3} - earth;action;attack;
+OOO ELE137 - Earthlore Surge (C) {1} - earth;action;
+OOO ELE138 - Earthlore Surge (C) {2} - earth;action;
+OOO ELE139 - Earthlore Surge (C) {3} - earth;action;
+OOO ELE140 - Sow Tomorrow (C) {1} - earth;action;
+OOO ELE141 - Sow Tomorrow (C) {2} - earth;action;
+OOO ELE142 - Sow Tomorrow (C) {3} - earth;action;
+OOO ELE143 - Amulet of Earth (C) {3} - earth;action;item;
+O   ELE144 - Heart of Ice (L) - ice;equipment;chest;
+O   ELE145 - Coat of Frost (C) - ice;equipment;chest;
+OOO ELE146 - Channel Lake Frigid (M) {3} - ice;action;aura;
+OOO ELE147 - Blizzard (M) {3} - ice;instant;
+OOO ELE148 - Frost Fang (R) {1} - ice;action;attack;
+OOO ELE149 - Frost Fang (R) {2} - ice;action;attack;
+OOO ELE150 - Frost Fang (R) {3} - ice;action;attack;
+OOO ELE151 - Ice Quake (R) {1} - ice;action;
+OOO ELE152 - Ice Quake (R) {2} - ice;action;
+OOO ELE153 - Ice Quake (R) {3} - ice;action;
+OOO ELE154 - Weave Ice (R) {1} - ice;action;
+OOO ELE155 - Weave Ice (R) {2} - ice;action;
+OOO ELE156 - Weave Ice (R) {3} - ice;action;
+OOO ELE157 - Icy Encounter (C) {1} - ice;action;attack;
+OOO ELE158 - Icy Encounter (C) {2} - ice;action;attack;
+OOO ELE159 - Icy Encounter (C) {3} - ice;action;attack;
+OOO ELE160 - Winter's Grasp (C) {1} - ice;action;attack;
+OOO ELE161 - Winter's Grasp (C) {2} - ice;action;attack;
+OOO ELE162 - Winter's Grasp (C) {3} - ice;action;attack;
+OOO ELE163 - Chill to the Bone (C) {1} - ice;action;
+OOO ELE164 - Chill to the Bone (C) {2} - ice;action;
+OOO ELE165 - Chill to the Bone (C) {3} - ice;action;
+OOO ELE166 - Polar Blast (C) {1} - ice;action;
+OOO ELE167 - Polar Blast (C) {2} - ice;action;
+OOO ELE168 - Polar Blast (C) {3} - ice;action;
+OOO ELE169 - Winter's Bite (C) {1} - ice;action;
+OOO ELE170 - Winter's Bite (C) {2} - ice;action;
+OOO ELE171 - Winter's Bite (C) {3} - ice;action;
+OOO ELE172 - Amulet of Ice (C) {3} - ice;action;item;
+O   ELE173 - Shock Charmers (L) - lightning;equipment;arms;
+O   ELE174 - Mark of Lightning (C) - lightning;equipment;arms;
+OOO ELE175 - Channel Thunder Steppe (M) {2} - lightning;action;aura;
+OOO ELE176 - Blink (M) {3} - lightning;instant;
+OOO ELE177 - Flash (R) {1} - lightning;action;
+OOO ELE178 - Flash (R) {2} - lightning;action;
+OOO ELE179 - Flash (R) {3} - lightning;action;
+OOO ELE180 - Weave Lightning (R) {1} - lightning;action;
+OOO ELE181 - Weave Lightning (R) {2} - lightning;action;
+OOO ELE182 - Weave Lightning (R) {3} - lightning;action;
+OOO ELE183 - Lightning Press (R) {1} - lightning;instant;
+OOO ELE184 - Lightning Press (R) {2} - lightning;instant;
+OOO ELE185 - Lightning Press (R) {3} - lightning;instant;
+OOO ELE186 - Ball Lightning (C) {1} - lightning;action;attack;
+OOO ELE187 - Ball Lightning (C) {2} - lightning;action;attack;
+OOO ELE188 - Ball Lightning (C) {3} - lightning;action;attack;
+OOO ELE189 - Lightning Surge (C) {1} - lightning;action;attack;
+OOO ELE190 - Lightning Surge (C) {2} - lightning;action;attack;
+OOO ELE191 - Lightning Surge (C) {3} - lightning;action;attack;
+OOO ELE192 - Heaven's Claws (C) {1} - lightning;action;attack;
+OOO ELE193 - Heaven's Claws (C) {2} - lightning;action;attack;
+OOO ELE194 - Heaven's Claws (C) {3} - lightning;action;attack;
+OOO ELE195 - Shock Striker (C) {1} - lightning;action;attack;
+OOO ELE196 - Shock Striker (C) {2} - lightning;action;attack;
+OOO ELE197 - Shock Striker (C) {3} - lightning;action;attack;
+OOO ELE198 - Electrify (C) {1} - lightning;action;
+OOO ELE199 - Electrify (C) {2} - lightning;action;
+OOO ELE200 - Electrify (C) {3} - lightning;action;
+OOO ELE201 - Amulet of Lightning (C) {3} - lightning;action;item;
+O   ELE202 - Titan's Fist (T) - guardian;weapon;hammer;1h;
+O   ELE203 - Rampart of the Ram's Head (L) - guardian;equipment;off-hand;
+O   ELE204 - Rotten Old Buckler (C) - guardian;equipment;off-hand;
+OOO ELE205 - Tear Asunder (M) {3} - guardian;action;
+OOO ELE206 - Embolden (R) {1} - guardian;action;aura;
+OOO ELE207 - Embolden (R) {2} - guardian;action;aura;
+OOO ELE208 - Embolden (R) {3} - guardian;action;aura;
+OOO ELE209 - Thump (C) {1} - guardian;action;attack;
+OOO ELE210 - Thump (C) {2} - guardian;action;attack;
+OOO ELE211 - Thump (C) {3} - guardian;action;attack;
+O   ELE212 - Seismic Surge (T) - guardian;;token;aura;
+O   ELE213 - New Horizon (L) - ranger;equipment;head;
+O   ELE214 - Honing Hood (C) - ranger;equipment;head;
+OOO ELE215 - Seek and Destroy (M) {1} - ranger;action;
+OOO ELE216 - Bolt'n Shot (R) {1} - ranger;action;arrow;attack;
+OOO ELE217 - Bolt'n Shot (R) {2} - ranger;action;arrow;attack;
+OOO ELE218 - Bolt'n Shot (R) {3} - ranger;action;arrow;attack;
+OOO ELE219 - Over Flex (C) {1} - ranger;action;
+OOO ELE220 - Over Flex (C) {2} - ranger;action;
+OOO ELE221 - Over Flex (C) {3} - ranger;action;
+O   ELE222 - Rosetta Thorn (T) - runeblade;weapon;sword;2h;
+O   ELE223 - Duskblade (M) - runeblade;weapon;sword;2h;
+O   ELE224 - Spellbound Creepers (L) - runeblade;equipment;legs;
+O   ELE225 - Sutcliffe's Suede Hides (C) - runeblade;equipment;legs;
+OOO ELE226 - Sting of Sorcery (M) {3} - runeblade;action;aura;
+OOO ELE227 - Sigil of Suffering (R) {1} - runeblade;defense;reaction;
+OOO ELE228 - Sigil of Suffering (R) {2} - runeblade;defense;reaction;
+OOO ELE229 - Sigil of Suffering (R) {3} - runeblade;defense;reaction;
+OOO ELE230 - Singeing Steelblade (C) {1} - runeblade;action;attack;
+OOO ELE231 - Singeing Steelblade (C) {2} - runeblade;action;attack;
+OOO ELE232 - Singeing Steelblade (C) {3} - runeblade;action;attack;
+O   ELE233 - Ragamuffin's Hat (C) - generic;equipment;head;
+O   ELE234 - Deep Blue (C) - generic;equipment;chest;
+O   ELE235 - Cracker Jax (C) - generic;equipment;arms;
+O   ELE236 - Runaways (C) - generic;equipment;legs;
+O   ELE237 - Cracked Bauble (T) {2} - generic;resource;

@@ -1,307 +1,307 @@
-OOO MON000 - Great Library of Solana (F)
-OOO MON001 - Prism, Sculptor of Arc Light (T)
-OOO MON002 - Prism (T)
-OOO MON003 - Luminaris (M)
-OOO MON004 - Herald of Erudition (M)
-OOO MON005 - Arc Light Sentinel (M)
-OOO MON006 - Genesis (M)
-OOO MON007 - Herald of Judgment (R)
-OOO MON008 - Herald of Triumph (R)
-OOO MON009 - Herald of Triumph (R)
-OOO MON010 - Herald of Triumph (R)
-OOO MON011 - Parable of Humility (R)
-OOO MON012 - Merciful Retribution (R)
-OOO MON013 - Ode to Wrath (R)
-OOO MON014 - Herald of Protection (C)
-OOO MON015 - Herald of Protection (C)
-OOO MON016 - Herald of Protection (C)
-OOO MON017 - Herald of Ravages (C)
-OOO MON018 - Herald of Ravages (C)
-OOO MON019 - Herald of Ravages (C)
-OOO MON020 - Herald of Rebirth (C)
-OOO MON021 - Herald of Rebirth (C)
-OOO MON022 - Herald of Rebirth (C)
-OOO MON023 - Herald of Tenacity (C)
-OOO MON024 - Herald of Tenacity (C)
-OOO MON025 - Herald of Tenacity (C)
-OOO MON026 - Wartune Herald (C)
-OOO MON027 - Wartune Herald (C)
-OOO MON028 - Wartune Herald (C)
-OOO MON029 - Ser Boltyn, Breaker of Dawn (T)
-OOO MON030 - Boltyn (T)
-OOO MON031 - Raydn, Duskbane (M)
-OOO MON032 - Bolting Blade (M)
-OOO MON033 - Beacon of Victory (M)
-OOO MON034 - Lumina Ascension (M)
-OOO MON035 - V of the Vanguard (R)
-OOO MON036 - Battlefield Blitz (R)
-OOO MON037 - Battlefield Blitz (R)
-OOO MON038 - Battlefield Blitz (R)
-OOO MON039 - Valiant Thrust (R)
-OOO MON040 - Valiant Thrust (R)
-OOO MON041 - Valiant Thrust (R)
-OOO MON042 - Bolt of Courage (C)
-OOO MON043 - Bolt of Courage (C)
-OOO MON044 - Bolt of Courage (C)
-OOO MON045 - Cross the Line (C)
-OOO MON046 - Cross the Line (C)
-OOO MON047 - Cross the Line (C)
-OOO MON048 - Engulfing Light (C)
-OOO MON049 - Engulfing Light (C)
-OOO MON050 - Engulfing Light (C)
-OOO MON051 - Express Lightning (C)
-OOO MON052 - Express Lightning (C)
-OOO MON053 - Express Lightning (C)
-OOO MON054 - Take Flight (C)
-OOO MON055 - Take Flight (C)
-OOO MON056 - Take Flight (C)
-OOO MON057 - Courageous Steelhand (C)
-OOO MON058 - Courageous Steelhand (C)
-OOO MON059 - Courageous Steelhand (C)
-OOO MON060 - Vestige of Sol (L)
-OOO MON061 - Halo of Illumination (C)
-OOO MON062 - Celestial Cataclysm (M)
-OOO MON063 - Soul Shield (M)
-OOO MON064 - Soul Food (M)
-OOO MON065 - Tome of Divinity (M)
-OOO MON066 - Invigorating Light (R)
-OOO MON067 - Invigorating Light (R)
-OOO MON068 - Invigorating Light (R)
-OOO MON069 - Glisten (R)
-OOO MON070 - Glisten (R)
-OOO MON071 - Glisten (R)
-OOO MON072 - Illuminate (C)
-OOO MON073 - Illuminate (C)
-OOO MON074 - Illuminate (C)
-OOO MON075 - Impenetrable Belief (C)
-OOO MON076 - Impenetrable Belief (C)
-OOO MON077 - Impenetrable Belief (C)
-OOO MON078 - Rising Solartide (C)
-OOO MON079 - Rising Solartide (C)
-OOO MON080 - Rising Solartide (C)
-OOO MON081 - Seek Enlightenment (C)
-OOO MON082 - Seek Enlightenment (C)
-OOO MON083 - Seek Enlightenment (C)
-OOO MON084 - Blinding Beam (C)
-OOO MON085 - Blinding Beam (C)
-OOO MON086 - Blinding Beam (C)
-OOO MON087 - Ray of Hope (C)
-OOO MON088 - Iris of Reality (T)
-OOO MON089 - Phantasmal Footsteps (L)
-OOO MON090 - Dream Weavers (C)
-OOO MON091 - Phantasmaclasm (M)
-OOO MON092 - Prismatic Shield (R)
-OOO MON093 - Prismatic Shield (R)
-OOO MON094 - Prismatic Shield (R)
-OOO MON095 - Phantasmify (R)
-OOO MON096 - Phantasmify (R)
-OOO MON097 - Phantasmify (R)
-OOO MON098 - Enigma Chimera (C)
-OOO MON099 - Enigma Chimera (C)
-OOO MON100 - Enigma Chimera (C)
-OOO MON101 - Spears of Surreality (C)
-OOO MON102 - Spears of Surreality (C)
-OOO MON103 - Spears of Surreality (C)
-OOO MON104 - Spectral Shield (T)
-OOO MON105 - Hatchet of Body (T)
-OOO MON106 - Hatchet of Mind (T)
-OOO MON107 - Valiant Dynamo (L)
-OOO MON108 - Gallantry Gold (C)
-OOO MON109 - Spill Blood (M)
-OOO MON110 - Dusk Path Pilgrimage (R)
-OOO MON111 - Dusk Path Pilgrimage (R)
-OOO MON112 - Dusk Path Pilgrimage (R)
-OOO MON113 - Plow Through (R)
-OOO MON114 - Plow Through (R)
-OOO MON115 - Plow Through (R)
-OOO MON116 - Second Swing (C)
-OOO MON117 - Second Swing (C)
-OOO MON118 - Second Swing (C)
-OOO MON119 - Levia, Shadowborn Abomination (T)
-OOO MON120 - Levia (T)
-OOO MON121 - Hexagore, the Death Hydra (M)
-OOO MON122 - Hooves of the Shadowbeast (C)
-OOO MON123 - Deep Rooted Evil (M)
-OOO MON124 - Mark of the Beast (M)
-OOO MON125 - Shadow of Blasmophet (M)
-OOO MON126 - Endless Maw (R)
-OOO MON127 - Endless Maw (R)
-OOO MON128 - Endless Maw (R)
-OOO MON129 - Writhing Beast Hulk (R)
-OOO MON130 - Writhing Beast Hulk (R)
-OOO MON131 - Writhing Beast Hulk (R)
-OOO MON132 - Convulsions from the Bellows of Hell (R)
-OOO MON133 - Convulsions from the Bellows of Hell (R)
-OOO MON134 - Convulsions from the Bellows of Hell (R)
-OOO MON135 - Boneyard Marauder (C)
-OOO MON136 - Boneyard Marauder (C)
-OOO MON137 - Boneyard Marauder (C)
-OOO MON138 - Deadwood Rumbler (C)
-OOO MON139 - Deadwood Rumbler (C)
-OOO MON140 - Deadwood Rumbler (C)
-OOO MON141 - Dread Screamer (C)
-OOO MON142 - Dread Screamer (C)
-OOO MON143 - Dread Screamer (C)
-OOO MON144 - Graveling Growl (C)
-OOO MON145 - Graveling Growl (C)
-OOO MON146 - Graveling Growl (C)
-OOO MON147 - Hungering Slaughterbeast (C)
-OOO MON148 - Hungering Slaughterbeast (C)
-OOO MON149 - Hungering Slaughterbeast (C)
-OOO MON150 - Unworldly Bellow (C)
-OOO MON151 - Unworldly Bellow (C)
-OOO MON152 - Unworldly Bellow (C)
-OOO MON153 - Chane, Bound by Shadow (T)
-OOO MON154 - Chane (T)
-OOO MON155 - Galaxxi Black (T)
-OOO MON156 - Shadow of Ursur (M)
-OOO MON157 - Dimenxxional Crossroads (M)
-OOO MON158 - Invert Existence  (M)
-OOO MON159 - Unhallowed Rites (R)
-OOO MON160 - Unhallowed Rites (R)
-OOO MON161 - Unhallowed Rites (R)
-OOO MON162 - Dimenxxional Gateway (R)
-OOO MON163 - Dimenxxional Gateway (R)
-OOO MON164 - Dimenxxional Gateway (R)
-OOO MON165 - Seeping Shadows (R)
-OOO MON166 - Seeping Shadows (R)
-OOO MON167 - Seeping Shadows (R)
-OOO MON168 - Bounding Demigon (C)
-OOO MON169 - Bounding Demigon (C)
-OOO MON170 - Bounding Demigon (C)
-OOO MON171 - Piercing Shadow Vise (C)
-OOO MON172 - Piercing Shadow Vise (C)
-OOO MON173 - Piercing Shadow Vise (C)
-OOO MON174 - Rift Bind (C)
-OOO MON175 - Rift Bind (C)
-OOO MON176 - Rift Bind (C)
-OOO MON177 - Rifted Torment (C)
-OOO MON178 - Rifted Torment (C)
-OOO MON179 - Rifted Torment (C)
-OOO MON180 - Rip Through Reality (C)
-OOO MON181 - Rip Through Reality (C)
-OOO MON182 - Rip Through Reality (C)
-OOO MON183 - Seeds of Agony (C)
-OOO MON184 - Seeds of Agony (C)
-OOO MON185 - Seeds of Agony (C)
-OOO MON186 - Soul Shackle (T)
-OOO MON187 - Carrion Husk (L)
-OOO MON188 - Ebon Fold (C)
-OOO MON189 - Doomsday (L)
-OOO MON190 - Eclipse (L)
-OOO MON191 - Mutated Mass (M)
-OOO MON192 - Guardian of the Shadowrealm (M)
-OOO MON193 - Shadow Puppetry (M)
-OOO MON194 - Tome of Torment (M)
-OOO MON195 - Consuming Aftermath (R)
-OOO MON196 - Consuming Aftermath (R)
-OOO MON197 - Consuming Aftermath (R)
-OOO MON198 - Soul Harvest (R)
-OOO MON199 - Soul Reaping (R)
-OOO MON200 - Howl from Beyond (R)
-OOO MON201 - Howl from Beyond (R)
-OOO MON202 - Howl from Beyond (R)
-OOO MON203 - Ghostly Visit (C)
-OOO MON204 - Ghostly Visit (C)
-OOO MON205 - Ghostly Visit (C)
-OOO MON206 - Lunartide Plunderer (C)
-OOO MON207 - Lunartide Plunderer (C)
-OOO MON208 - Lunartide Plunderer (C)
-OOO MON209 - Void Wraith (C)
-OOO MON210 - Void Wraith (C)
-OOO MON211 - Void Wraith (C)
-OOO MON212 - Spew Shadow (C)
-OOO MON213 - Spew Shadow (C)
-OOO MON214 - Spew Shadow (C)
-OOO MON215 - Blood Tribute (C)
-OOO MON216 - Blood Tribute (C)
-OOO MON217 - Blood Tribute (C)
-OOO MON218 - Eclipse Existence (C)
-OOO MON219 - Blasmophet, the Soul Harvester (T)
-OOO MON220 - Ursur, the Soul Reaper (T)
-OOO MON221 - Ravenous Meataxe (T)
-OOO MON222 - Tear Limb from Limb (M)
-OOO MON223 - Pulping (R)
-OOO MON224 - Pulping (R)
-OOO MON225 - Pulping (R)
-OOO MON226 - Smash with Big Tree (C)
-OOO MON227 - Smash with Big Tree (C)
-OOO MON228 - Smash with Big Tree (C)
-OOO MON229 - Dread Scythe (M)
-OOO MON230 - Aether Ironweave (C)
-OOO MON231 - Sonata Arcanix (M)
-OOO MON232 - Vexing Malice (R)
-OOO MON233 - Vexing Malice (R)
-OOO MON234 - Vexing Malice (R)
-OOO MON235 - Arcanic Crackle (C)
-OOO MON236 - Arcanic Crackle (C)
-OOO MON237 - Arcanic Crackle (C)
-OOO MON238 - Blood Drop Brocade (C)
-OOO MON239 - Stubby Hammerers (C)
-OOO MON240 - Time Skippers (C)
-OOO MON241 - Ironhide Helm (C)
-OOO MON242 - Ironhide Plate (C)
-OOO MON243 - Ironhide Gauntlet (C)
-OOO MON244 - Ironhide Legs (C)
-OOO MON245 - Exude Confidence (M)
-OOO MON246 - Nourishing Emptiness (M)
-OOO MON247 - Rouse the Ancients (M)
-OOO MON248 - Out Muscle (R)
-OOO MON249 - Out Muscle (R)
-OOO MON250 - Out Muscle (R)
-OOO MON251 - Seek Horizon (R)
-OOO MON252 - Seek Horizon (R)
-OOO MON253 - Seek Horizon (R)
-OOO MON254 - Tremor of iArathael (R)
-OOO MON255 - Tremor of iArathael (R)
-OOO MON256 - Tremor of iArathael (R)
-OOO MON257 - Rise Above (R)
-OOO MON258 - Rise Above (R)
-OOO MON259 - Rise Above (R)
-OOO MON260 - Captain's Call (R)
-OOO MON261 - Captain's Call (R)
-OOO MON262 - Captain's Call (R)
-OOO MON263 - Adrenaline Rush (C)
-OOO MON264 - Adrenaline Rush (C)
-OOO MON265 - Adrenaline Rush (C)
-OOO MON266 - Belittle (C)
-OOO MON267 - Belittle (C)
-OOO MON268 - Belittle (C)
-OOO MON269 - Brandish (C)
-OOO MON270 - Brandish (C)
-OOO MON271 - Brandish (C)
-OOO MON272 - Frontline Scout (C)
-OOO MON273 - Frontline Scout (C)
-OOO MON274 - Frontline Scout (C)
-OOO MON275 - Overload (C)
-OOO MON276 - Overload (C)
-OOO MON277 - Overload (C)
-OOO MON278 - Pound for Pound (C)
-OOO MON279 - Pound for Pound (C)
-OOO MON280 - Pound for Pound (C)
-OOO MON281 - Rally the Rearguard (C)
-OOO MON282 - Rally the Rearguard (C)
-OOO MON283 - Rally the Rearguard (C)
-OOO MON284 - Stony Wootenhog (C)
-OOO MON285 - Stony Wootenhog (C)
-OOO MON286 - Stony Wootenhog (C)
-OOO MON287 - Surging Militia (C)
-OOO MON288 - Surging Militia (C)
-OOO MON289 - Surging Militia (C)
-OOO MON290 - Yinti Yanti (C)
-OOO MON291 - Yinti Yanti (C)
-OOO MON292 - Yinti Yanti (C)
-OOO MON293 - Zealous Belting (C)
-OOO MON294 - Zealous Belting (C)
-OOO MON295 - Zealous Belting (C)
-OOO MON296 - Minnowism (C)
-OOO MON297 - Minnowism (C)
-OOO MON298 - Minnowism (C)
-OOO MON299 - Warmonger's Recital (C)
-OOO MON300 - Warmonger's Recital (C)
-OOO MON301 - Warmonger's Recital (C)
-OOO MON302 - Talisman of Dousing (C)
-OOO MON303 - Memorial Ground (C)
-OOO MON304 - Memorial Ground (C)
-OOO MON305 - Memorial Ground (C)
-OOO MON306 - Cracked Bauble (T)
+O   MON000 - Great Library of Solana (F) - light;action;landmark;
+O   MON001 - Prism, Sculptor of Arc Light (T) - light;illusionist;hero;
+O   MON002 - Prism  (T) - light;illusionist;hero;young;
+O   MON003 - Luminaris (M) - light;illusionist;weapon;scepter;2h;
+OOO MON004 - Herald of Erudition (M) {2} - light;illusionist;action;attack;
+OOO MON005 - Arc Light Sentinel (M) {2} - light;illusionist;instant;aura;
+OOO MON006 - Genesis (M) {2} - light;illusionist;instant;aura;
+OOO MON007 - Herald of Judgment (R) {2} - light;illusionist;action;attack;
+OOO MON008 - Herald of Triumph (R) {1} - light;illusionist;action;attack;
+OOO MON009 - Herald of Triumph (R) {2} - light;illusionist;action;attack;
+OOO MON010 - Herald of Triumph (R) {3} - light;illusionist;action;attack;
+OOO MON011 - Parable of Humility (R) {2} - light;illusionist;light;instant;aura;
+OOO MON012 - Merciful Retribution (R) {2} - light;illusionist;light;instant;aura;
+OOO MON013 - Ode to Wrath (R) {2} - light;illusionist;light;instant;aura;
+OOO MON014 - Herald of Protection (C) {1} - light;illusionist;action;attack;
+OOO MON015 - Herald of Protection (C) {2} - light;illusionist;action;attack;
+OOO MON016 - Herald of Protection (C) {3} - light;illusionist;action;attack;
+OOO MON017 - Herald of Ravages (C) {1} - light;illusionist;action;attack;
+OOO MON018 - Herald of Ravages (C) {2} - light;illusionist;action;attack;
+OOO MON019 - Herald of Ravages (C) {3} - light;illusionist;action;attack;
+OOO MON020 - Herald of Rebirth (C) {1} - light;illusionist;action;attack;
+OOO MON021 - Herald of Rebirth (C) {2} - light;illusionist;action;attack;
+OOO MON022 - Herald of Rebirth (C) {3} - light;illusionist;action;attack;
+OOO MON023 - Herald of Tenacity (C) {1} - light;illusionist;action;attack;
+OOO MON024 - Herald of Tenacity (C) {2} - light;illusionist;action;attack;
+OOO MON025 - Herald of Tenacity (C) {3} - light;illusionist;action;attack;
+OOO MON026 - Wartune Herald (C) {1} - light;illusionist;action;attack;
+OOO MON027 - Wartune Herald (C) {2} - light;illusionist;action;attack;
+OOO MON028 - Wartune Herald (C) {3} - light;illusionist;action;attack;
+O   MON029 - Ser Boltyn, Breaker of Dawn (T) - light;warrior;hero;
+O   MON030 - Boltyn (T) - light;warrior;hero;young;
+O   MON031 - Raydn, Duskbane (M) - light;warrior;weapon;sword;2h;
+OOO MON032 - Bolting Blade (M) {2} - light;warrior;action;attack;
+OOO MON033 - Beacon of Victory (M) {2} - light;warrior;attack;reaction;
+OOO MON034 - Lumina Ascension (M) {2} - light;warrior;action;
+OOO MON035 - V of the Vanguard (R) {2} - light;warrior;action;attack;
+OOO MON036 - Battlefield Blitz (R) {1} - light;warrior;action;attack;
+OOO MON037 - Battlefield Blitz (R) {2} - light;warrior;action;attack;
+OOO MON038 - Battlefield Blitz (R) {3} - light;warrior;action;attack;
+OOO MON039 - Valiant Thrust (R) {1} - light;warrior;action;attack;
+OOO MON040 - Valiant Thrust (R) {2} - light;warrior;action;attack;
+OOO MON041 - Valiant Thrust (R) {3} - light;warrior;action;attack;
+OOO MON042 - Bolt of Courage (C) {1} - light;warrior;action;attack;
+OOO MON043 - Bolt of Courage (C) {2} - light;warrior;action;attack;
+OOO MON044 - Bolt of Courage (C) {3} - light;warrior;action;attack;
+OOO MON045 - Cross the Line (C) {1} - light;warrior;action;attack;
+OOO MON046 - Cross the Line (C) {2} - light;warrior;action;attack;
+OOO MON047 - Cross the Line (C) {3} - light;warrior;action;attack;
+OOO MON048 - Engulfing Light (C) {1} - light;warrior;action;attack;
+OOO MON049 - Engulfing Light (C) {2} - light;warrior;action;attack;
+OOO MON050 - Engulfing Light (C) {3} - light;warrior;action;attack;
+OOO MON051 - Express Lightning (C) {1} - light;warrior;action;attack;
+OOO MON052 - Express Lightning (C) {2} - light;warrior;action;attack;
+OOO MON053 - Express Lightning (C) {3} - light;warrior;action;attack;
+OOO MON054 - Take Flight (C) {1} - light;warrior;action;attack;
+OOO MON055 - Take Flight (C) {2} - light;warrior;action;attack;
+OOO MON056 - Take Flight (C) {3} - light;warrior;action;attack;
+OOO MON057 - Courageous Steelhand (C) {1} - light;warrior;attack;reaction;
+OOO MON058 - Courageous Steelhand (C) {2} - light;warrior;attack;reaction;
+OOO MON059 - Courageous Steelhand (C) {3} - light;warrior;attack;reaction;
+O   MON060 - Vestige of Sol (L) - light;equipment;chest;
+O   MON061 - Halo of Illumination (C) - light;equipment;head;
+OOO MON062 - Celestial Cataclysm (M) {2} - light;action;attack;
+OOO MON063 - Soul Shield (M) {2} - light;defense;reaction;
+OOO MON064 - Soul Food (M) {2} - light;action;
+OOO MON065 - Tome of Divinity (M) {2} - light;instant;
+OOO MON066 - Invigorating Light (R) {1} - light;action;attack;
+OOO MON067 - Invigorating Light (R) {2} - light;action;attack;
+OOO MON068 - Invigorating Light (R) {3} - light;action;attack;
+OOO MON069 - Glisten (R) {1} - light;instant;
+OOO MON070 - Glisten (R) {2} - light;instant;
+OOO MON071 - Glisten (R) {3} - light;instant;
+OOO MON072 - Illuminate (C) {1} - light;action;attack;
+OOO MON073 - Illuminate (C) {2} - light;action;attack;
+OOO MON074 - Illuminate (C) {3} - light;action;attack;
+OOO MON075 - Impenetrable Belief (C) {1} - light;action;attack;
+OOO MON076 - Impenetrable Belief (C) {2} - light;action;attack;
+OOO MON077 - Impenetrable Belief (C) {3} - light;action;attack;
+OOO MON078 - Rising Solartide (C) {1} - light;action;attack;
+OOO MON079 - Rising Solartide (C) {2} - light;action;attack;
+OOO MON080 - Rising Solartide (C) {3} - light;action;attack;
+OOO MON081 - Seek Enlightenment (C) {1} - light;action;
+OOO MON082 - Seek Enlightenment (C) {2} - light;action;
+OOO MON083 - Seek Enlightenment (C) {3} - light;action;
+OOO MON084 - Blinding Beam (C) {1} - light;instant;
+OOO MON085 - Blinding Beam (C) {2} - light;instant;
+OOO MON086 - Blinding Beam (C) {3} - light;instant;
+OOO MON087 - Ray of Hope (C) {2} - light;instant;
+O   MON088 - Iris of Reality (T) - illusionist;weapon;orb;2h;
+O   MON089 - Phantasmal Footsteps (L) - illusionist;equipment;legs;
+O   MON090 - Dream Weavers (C) - illusionist;equipment;arms;
+OOO MON091 - Phantasmaclasm (M) {1} - illusionist;action;attack;
+OOO MON092 - Prismatic Shield (R) {1} - illusionist;instant;
+OOO MON093 - Prismatic Shield (R) {2} - illusionist;instant;
+OOO MON094 - Prismatic Shield (R) {3} - illusionist;instant;
+OOO MON095 - Phantasmify (R) {1} - illusionist;action;
+OOO MON096 - Phantasmify (R) {2} - illusionist;action;
+OOO MON097 - Phantasmify (R) {3} - illusionist;action;
+OOO MON098 - Enigma Chimera (C) {1} - illusionist;action;attack;
+OOO MON099 - Enigma Chimera (C) {2} - illusionist;action;attack;
+OOO MON100 - Enigma Chimera (C) {3} - illusionist;action;attack;
+OOO MON101 - Spears of Surreality (C) {1} - illusionist;action;attack;
+OOO MON102 - Spears of Surreality (C) {2} - illusionist;action;attack;
+OOO MON103 - Spears of Surreality (C) {3} - illusionist;action;attack;
+O   MON104 - Spectral Shield (T) - illusionist;token;aura;
+O   MON105 - Hatchet of Body (T) - warrior;weapon;axe;1h;
+O   MON106 - Hatchet of Mind (T) - warrior;weapon;axe;1h;
+O   MON107 - Valiant Dynamo (L) - warrior;equipment;legs;
+O   MON108 - Gallantry Gold (C) - warrior;equipment;arms;
+OOO MON109 - Spill Blood (M) {1} - warrior;action;
+OOO MON110 - Dusk Path Pilgrimage (R) {1} - warrior;action;
+OOO MON111 - Dusk Path Pilgrimage (R) {2} - warrior;action;
+OOO MON112 - Dusk Path Pilgrimage (R) {3} - warrior;action;
+OOO MON113 - Plow Through (R) {1} - warrior;action;
+OOO MON114 - Plow Through (R) {2} - warrior;action;
+OOO MON115 - Plow Through (R) {3} - warrior;action;
+OOO MON116 - Second Swing (C) {1} - warrior;action;
+OOO MON117 - Second Swing (C) {2} - warrior;action;
+OOO MON118 - Second Swing (C) {3} - warrior;action;
+O   MON119 - Levia, Shadowborn Abomination (T) - shadow;brute;hero;
+O   MON120 - Levia (T) - shadow;brute;hero;young;
+O   MON121 - Hexagore, the Death Hydra (M) - shadow;brute;weapon;flail;2h;
+O   MON122 - Hooves of the Shadowbeast (C) - shadow;brute;equipment;legs;
+OOO MON123 - Deep Rooted Evil (M) {2} - shadow;brute;action;attack;
+OOO MON124 - Mark of the Beast (M) {2} - shadow;brute;action;attack;
+OOO MON125 - Shadow of Blasmophet (M) {1} - shadow;brute;action;attack;
+OOO MON126 - Endless Maw (R) {1} - shadow;brute;action;attack;
+OOO MON127 - Endless Maw (R) {2} - shadow;brute;action;attack;
+OOO MON128 - Endless Maw (R) {3} - shadow;brute;action;attack;
+OOO MON129 - Writhing Beast Hulk (R) {1} - shadow;brute;action;attack;
+OOO MON130 - Writhing Beast Hulk (R) {2} - shadow;brute;action;attack;
+OOO MON131 - Writhing Beast Hulk (R) {3} - shadow;brute;action;attack;
+OOO MON132 - Convulsions from the Bellows of Hell (R) {1} - shadow;brute;action;
+OOO MON133 - Convulsions from the Bellows of Hell (R) {2} - shadow;brute;action;
+OOO MON134 - Convulsions from the Bellows of Hell (R) {3} - shadow;brute;action;
+OOO MON135 - Boneyard Marauder (C) {1} - shadow;brute;action;attack;
+OOO MON136 - Boneyard Marauder (C) {2} - shadow;brute;action;attack;
+OOO MON137 - Boneyard Marauder (C) {3} - shadow;brute;action;attack;
+OOO MON138 - Deadwood Rumbler (C) {1} - shadow;brute;action;attack;
+OOO MON139 - Deadwood Rumbler (C) {2} - shadow;brute;action;attack;
+OOO MON140 - Deadwood Rumbler (C) {3} - shadow;brute;action;attack;
+OOO MON141 - Dread Screamer (C) {1} - shadow;brute;action;attack;
+OOO MON142 - Dread Screamer (C) {2} - shadow;brute;action;attack;
+OOO MON143 - Dread Screamer (C) {3} - shadow;brute;action;attack;
+OOO MON144 - Graveling Growl (C) {1} - shadow;brute;action;attack;
+OOO MON145 - Graveling Growl (C) {2} - shadow;brute;action;attack;
+OOO MON146 - Graveling Growl (C) {3} - shadow;brute;action;attack;
+OOO MON147 - Hungering Slaughterbeast (C) {1} - shadow;brute;action;attack;
+OOO MON148 - Hungering Slaughterbeast (C) {2} - shadow;brute;action;attack;
+OOO MON149 - Hungering Slaughterbeast (C) {3} - shadow;brute;action;attack;
+OOO MON150 - Unworldly Bellow (C) {1} - shadow;brute;action;
+OOO MON151 - Unworldly Bellow (C) {2} - shadow;brute;action;
+OOO MON152 - Unworldly Bellow (C) {3} - shadow;brute;action;
+O   MON153 - Chane, Bound by Shadow (T) - shadow;runeblade;hero;
+O   MON154 - Chane  (T) - shadow;runeblade;hero;young;
+O   MON155 - Galaxxi Black (T) - shadow;runeblade;weapon;sword;2h;
+OOO MON156 - Shadow of Ursur (M) {3} - shadow;runeblade;action;attack;
+OOO MON157 - Dimenxxional Crossroads (M) {2} - shadow;runeblade;action;aura;
+OOO MON158 - Invert Existence (M) {3} - shadow;runeblade;instant;
+OOO MON159 - Unhallowed Rites (R) {1} - shadow;runeblade;action;attack;
+OOO MON160 - Unhallowed Rites (R) {2} - shadow;runeblade;action;attack;
+OOO MON161 - Unhallowed Rites (R) {3} - shadow;runeblade;action;attack;
+OOO MON162 - Dimenxxional Gateway (R) {1} - shadow;runeblade;action;
+OOO MON163 - Dimenxxional Gateway (R) {2} - shadow;runeblade;action;
+OOO MON164 - Dimenxxional Gateway (R) {3} - shadow;runeblade;action;
+OOO MON165 - Seeping Shadows (R) {1} - shadow;runeblade;action;
+OOO MON166 - Seeping Shadows (R) {2} - shadow;runeblade;action;
+OOO MON167 - Seeping Shadows (R) {3} - shadow;runeblade;action;
+OOO MON168 - Bounding Demigon (C) {1} - shadow;runeblade;action;attack;
+OOO MON169 - Bounding Demigon (C) {2} - shadow;runeblade;action;attack;
+OOO MON170 - Bounding Demigon (C) {3} - shadow;runeblade;action;attack;
+OOO MON171 - Piercing Shadow Vise (C) {1} - shadow;runeblade;action;attack;
+OOO MON172 - Piercing Shadow Vise (C) {2} - shadow;runeblade;action;attack;
+OOO MON173 - Piercing Shadow Vise (C) {3} - shadow;runeblade;action;attack;
+OOO MON174 - Rift Bind (C) {1} - shadow;runeblade;action;attack;
+OOO MON175 - Rift Bind (C) {2} - shadow;runeblade;action;attack;
+OOO MON176 - Rift Bind (C) {3} - shadow;runeblade;action;attack;
+OOO MON177 - Rifted Torment (C) {1} - shadow;runeblade;action;attack;
+OOO MON178 - Rifted Torment (C) {2} - shadow;runeblade;action;attack;
+OOO MON179 - Rifted Torment (C) {3} - shadow;runeblade;action;attack;
+OOO MON180 - Rip Through Reality (C) {1} - shadow;runeblade;action;attack;
+OOO MON181 - Rip Through Reality (C) {2} - shadow;runeblade;action;attack;
+OOO MON182 - Rip Through Reality (C) {3} - shadow;runeblade;action;attack;
+OOO MON183 - Seeds of Agony (C) {1} - shadow;runeblade;action;
+OOO MON184 - Seeds of Agony (C) {2} - shadow;runeblade;action;
+OOO MON185 - Seeds of Agony (C) {3} - shadow;runeblade;action;
+O   MON186 - Soul Shackle (T) - shadow;runeblade;token;aura;
+O   MON187 - Carrion Husk (L) - shadow;equipment;chest;
+O   MON188 - Ebon Fold (C) - shadow;equipment;head;
+OOO MON189 - Doomsday (L) {3} - shadow;instant;
+OOO MON190 - Eclipse (L) {3} - shadow;instant;
+OOO MON191 - Mutated Mass (M) {3} - shadow;action;attack;
+OOO MON192 - Guardian of the Shadowrealm (M) {1} - shadow;defense;reaction;
+OOO MON193 - Shadow Puppetry (M) {1} - shadow;action;
+OOO MON194 - Tome of Torment (M) {1} - shadow;action;
+OOO MON195 - Consuming Aftermath (R) {1} - shadow;action;attack;
+OOO MON196 - Consuming Aftermath (R) {2} - shadow;action;attack;
+OOO MON197 - Consuming Aftermath (R) {3} - shadow;action;attack;
+OOO MON198 - Soul Harvest (R) {3} - shadow;action;attack;
+OOO MON199 - Soul Reaping (R) {1} - shadow;action;attack;
+OOO MON200 - Howl from Beyond (R) {1} - shadow;action;
+OOO MON201 - Howl from Beyond (R) {2} - shadow;action;
+OOO MON202 - Howl from Beyond (R) {3} - shadow;action;
+OOO MON203 - Ghostly Visit (C) {1} - shadow;action;attack;
+OOO MON204 - Ghostly Visit (C) {2} - shadow;action;attack;
+OOO MON205 - Ghostly Visit (C) {3} - shadow;action;attack;
+OOO MON206 - Lunartide Plunderer (C) {1} - shadow;action;attack;
+OOO MON207 - Lunartide Plunderer (C) {2} - shadow;action;attack;
+OOO MON208 - Lunartide Plunderer (C) {3} - shadow;action;attack;
+OOO MON209 - Void Wraith (C) {1} - shadow;action;attack;
+OOO MON210 - Void Wraith (C) {2} - shadow;action;attack;
+OOO MON211 - Void Wraith (C) {3} - shadow;action;attack;
+OOO MON212 - Spew Shadow (C) {1} - shadow;action;
+OOO MON213 - Spew Shadow (C) {2} - shadow;action;
+OOO MON214 - Spew Shadow (C) {3} - shadow;action;
+OOO MON215 - Blood Tribute (C) {1} - shadow;instant;
+OOO MON216 - Blood Tribute (C) {2} - shadow;instant;
+OOO MON217 - Blood Tribute (C) {3} - shadow;instant;
+OOO MON218 - Eclipse Existence (C) {3} - shadow;instant;
+O   MON219 - Blasmophet, the Soul Harvester (T) - shadow;token;demon ally;
+O   MON220 - Ursur, the Soul Reaper (T) - shadow;token;demon ally;
+O   MON221 - Ravenous Meataxe (T) - brute;weapon;axe;2h;
+OOO MON222 - Tear Limb from Limb (M) {3} - brute;action;
+OOO MON223 - Pulping (R) {1} - brute;action;attack;
+OOO MON224 - Pulping (R) {2} - brute;action;attack;
+OOO MON225 - Pulping (R) {3} - brute;action;attack;
+OOO MON226 - Smash with Big Tree (C) {1} - brute;action;attack;
+OOO MON227 - Smash with Big Tree (C) {2} - brute;action;attack;
+OOO MON228 - Smash with Big Tree (C) {3} - brute;action;attack;
+O   MON229 - Dread Scythe (M) - runeblade;weapon;scythe;2h;
+O   MON230 - Aether Ironweave (C) - runeblade;equipment;chest;
+OOO MON231 - Sonata Arcanix (M) {1} - runeblade;action;
+OOO MON232 - Vexing Malice (R) {1} - runeblade;action;attack;
+OOO MON233 - Vexing Malice (R) {2} - runeblade;action;attack;
+OOO MON234 - Vexing Malice (R) {3} - runeblade;action;attack;
+OOO MON235 - Arcanic Crackle (C) {1} - runeblade;action;attack;
+OOO MON236 - Arcanic Crackle (C) {2} - runeblade;action;attack;
+OOO MON237 - Arcanic Crackle (C) {3} - runeblade;action;attack;
+O   MON238 - Blood Drop Brocade (C) - generic;equipment;chest;
+O   MON239 - Stubby Hammerers (C) - generic;equipment;arms;
+O   MON240 - Time Skippers (C) - generic;equipment;legs;
+O   MON241 - Ironhide Helm (C) - generic;equipment;head;
+O   MON242 - Ironhide Plate (C) - generic;equipment;chest;
+O   MON243 - Ironhide Gauntlet (C) - generic;equipment;arms;
+O   MON244 - Ironhide Legs (C) - generic;equipment;legs;
+OOO MON245 - Exude Confidence (M) {1} - generic;action;attack;
+OOO MON246 - Nourishing Emptiness (M) {1} - generic;action;attack;
+OOO MON247 - Rouse the Ancients (M) {3} - generic;action;attack;
+OOO MON248 - Out Muscle (R) {1} - generic;action;attack;
+OOO MON249 - Out Muscle (R) {2} - generic;action;attack;
+OOO MON250 - Out Muscle (R) {3} - generic;action;attack;
+OOO MON251 - Seek Horizon (R) {1} - generic;action;attack;
+OOO MON252 - Seek Horizon (R) {2} - generic;action;attack;
+OOO MON253 - Seek Horizon (R) {3} - generic;action;attack;
+OOO MON254 - Tremor of iArathael (R) {1} - generic;action;attack;
+OOO MON255 - Tremor of iArathael (R) {2} - generic;action;attack;
+OOO MON256 - Tremor of iArathael (R) {3} - generic;action;attack;
+OOO MON257 - Rise Above (R) {1} - generic;defense;reaction;
+OOO MON258 - Rise Above (R) {2} - generic;defense;reaction;
+OOO MON259 - Rise Above (R) {3} - generic;defense;reaction;
+OOO MON260 - Captain's Call (R) {1} - generic;action;
+OOO MON261 - Captain's Call (R) {2} - generic;action;
+OOO MON262 - Captain's Call (R) {3} - generic;action;
+OOO MON263 - Adrenaline Rush (C) {1} - generic;action;attack;
+OOO MON264 - Adrenaline Rush (C) {2} - generic;action;attack;
+OOO MON265 - Adrenaline Rush (C) {3} - generic;action;attack;
+OOO MON266 - Belittle (C) {1} - generic;action;attack;
+OOO MON267 - Belittle (C) {2} - generic;action;attack;
+OOO MON268 - Belittle (C) {3} - generic;action;attack;
+OOO MON269 - Brandish (C) {1} - generic;action;attack;
+OOO MON270 - Brandish (C) {2} - generic;action;attack;
+OOO MON271 - Brandish (C) {3} - generic;action;attack;
+OOO MON272 - Frontline Scout (C) {1} - generic;action;attack;
+OOO MON273 - Frontline Scout (C) {2} - generic;action;attack;
+OOO MON274 - Frontline Scout (C) {3} - generic;action;attack;
+OOO MON275 - Overload (C) {1} - generic;action;attack;
+OOO MON276 - Overload (C) {2} - generic;action;attack;
+OOO MON277 - Overload (C) {3} - generic;action;attack;
+OOO MON278 - Pound for Pound (C) {1} - generic;action;attack;
+OOO MON279 - Pound for Pound (C) {2} - generic;action;attack;
+OOO MON280 - Pound for Pound (C) {3} - generic;action;attack;
+OOO MON281 - Rally the Rearguard (C) {1} - generic;action;attack;
+OOO MON282 - Rally the Rearguard (C) {2} - generic;action;attack;
+OOO MON283 - Rally the Rearguard (C) {3} - generic;action;attack;
+OOO MON284 - Stony Woottonhog (C) {1} - generic;action;attack;
+OOO MON285 - Stony Woottonhog (C) {2} - generic;action;attack;
+OOO MON286 - Stony Woottonhog (C) {3} - generic;action;attack;
+OOO MON287 - Surging Militia (C) {1} - generic;action;attack;
+OOO MON288 - Surging Militia (C) {2} - generic;action;attack;
+OOO MON289 - Surging Militia (C) {3} - generic;action;attack;
+OOO MON290 - Yinti Yanti (C) {1} - generic;action;attack;
+OOO MON291 - Yinti Yanti (C) {2} - generic;action;attack;
+OOO MON292 - Yinti Yanti (C) {3} - generic;action;attack;
+OOO MON293 - Zealous Belting (C) {1} - generic;action;attack;
+OOO MON294 - Zealous Belting (C) {2} - generic;action;attack;
+OOO MON295 - Zealous Belting (C) {3} - generic;action;attack;
+OOO MON296 - Minnowism (C) {1} - generic;action;
+OOO MON297 - Minnowism (C) {2} - generic;action;
+OOO MON298 - Minnowism (C) {3} - generic;action;
+OOO MON299 - Warmonger's Recital (C) {1} - generic;action;
+OOO MON300 - Warmonger's Recital (C) {2} - generic;action;
+OOO MON301 - Warmonger's Recital (C) {3} - generic;action;
+OOO MON302 - Talisman of Dousing (C) {2} - generic;action;item;
+OOO MON303 - Memorial Ground (C) {1} - generic;instant;
+OOO MON304 - Memorial Ground (C) {2} - generic;instant;
+OOO MON305 - Memorial Ground (C) {3} - generic;instant;
+O   MON306 - Cracked Bauble (T) {2} - generic;resource;

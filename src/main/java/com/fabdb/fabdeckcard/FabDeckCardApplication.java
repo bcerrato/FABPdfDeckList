@@ -18,6 +18,7 @@ import reactor.core.publisher.Mono;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 
 @SpringBootApplication
@@ -53,21 +54,24 @@ public class FabDeckCardApplication {
                 deckSheetWriterService.writeDeckSheet(deck);
             }
             else if ("set".equals(args[0])) {
-                BufferedWriter writer = null;
-                try {
-                    writer = new BufferedWriter(new FileWriter(args[1] + ".txt"));
-                    int page = 1;
-                    Mono<CardResult> cardResult = fabDBService.getCardResult(args[1], page++);
-                    CardResult cardData = cardResult.block();
-                    while (cardData.getLinks().getNext() != null) {
-                        setListWriterService.writeCards(writer, args[1], cardData.getData());
-                        cardResult = fabDBService.getCardResult(args[1], page++);
-                        cardData = cardResult.block();
+                List<String> sets = Arrays.asList("ARC","CRU","DYN","ELE","EVR","MON","UPR","WTR","1HP");
+                for (String set:sets) {
+                    BufferedWriter writer = null;
+                    try {
+                        writer = new BufferedWriter(new FileWriter(set + ".txt"));
+                        int page = 1;
+                        Mono<CardResult> cardResult = fabDBService.getCardResult(set, page++);
+                        CardResult cardData = cardResult.block();
+                        while (cardData.getLinks().getNext() != null) {
+                            setListWriterService.writeCards(writer, set, cardData.getData());
+                            cardResult = fabDBService.getCardResult(set, page++);
+                            cardData = cardResult.block();
+                        }
+                        setListWriterService.writeCards(writer, set, cardData.getData());
+                        writer.close();
+                    } catch (IOException ioe) {
+                        ioe.printStackTrace();
                     }
-                    setListWriterService.writeCards(writer,args[1], cardData.getData());
-                    writer.close();
-                } catch (IOException ioe) {
-                    ioe.printStackTrace();
                 }
             }
             else if ("blank".equals(args[0])) {

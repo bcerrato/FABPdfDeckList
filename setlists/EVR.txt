@@ -1,191 +1,198 @@
-OOO - EVR000 - Grandeur of Valahai (F)
-OOO - EVR001 - Skull Crushers (M)
-OOO - EVR002 - Swing Big (M)
-OOO - EVR003 - Ready to Roll (M)
-OOO - EVR004 - Rolling Thunder (M)
-OOO - EVR005 - High Roller (R)
-OOO - EVR006 - High Roller (R)
-OOO - EVR007 - High Roller (R)
-OOO - EVR008 - Bare Fangs (C)
-OOO - EVR009 - Bare Fangs (C)
-OOO - EVR010 - Bare Fangs (C)
-OOO - EVR011 - Wild Ride (C)
-OOO - EVR012 - Wild Ride (C)
-OOO - EVR013 - Wild Ride (C)
-OOO - EVR014 - Bad Beats (C)
-OOO - EVR015 - Bad Beats (C)
-OOO - EVR016 - Bad Beats (C)
-OOO - EVR017 - Bravo, Star of the Show (M)
-OOO - EVR018 - Stalagmite, Bastion of Isenloft (L)
-OOO - EVR019 - Valda Brightaxe (M)
-OOO - EVR020 - Earthlore Bounty (M)
-OOO - EVR021 - Pulverize (M)
-OOO - EVR022 - Imposing Visage (M)
-OOO - EVR023 - Nerves of Steel (M)
-OOO - EVR024 - Thunder Quake (R)
-OOO - EVR025 - Thunder Quake (R)
-OOO - EVR026 - Thunder Quake (R)
-OOO - EVR027 - Macho Grande (C)
-OOO - EVR028 - Macho Grande (C)
-OOO - EVR029 - Macho Grande (C)
-OOO - EVR030 - Seismic Stir (C)
-OOO - EVR031 - Seismic Stir (C)
-OOO - EVR032 - Seismic Stir (C)
-OOO - EVR033 - Steadfast (C)
-OOO - EVR034 - Steadfast (C)
-OOO - EVR035 - Steadfast (C)
-OOO - EVR037 - Mask of the Pouncing Lynx (M)
-OOO - EVR038 - Break Tide (M)
-OOO - EVR039 - Spring Tidings (M)
-OOO - EVR040 - Winds of Eternity (M)
-OOO - EVR041 - Hundred Winds (R)
-OOO - EVR042 - Hundred Winds (R)
-OOO - EVR043 - Hundred Winds (R)
-OOO - EVR044 - Ride the Tailwind (C)
-OOO - EVR045 - Ride the Tailwind (C)
-OOO - EVR046 - Ride the Tailwind (C)
-OOO - EVR047 - Twin Twisters (C)
-OOO - EVR048 - Twin Twisters (C)
-OOO - EVR049 - Twin Twisters (C)
-OOO - EVR050 - Wax On (C)
-OOO - EVR051 - Wax On (C)
-OOO - EVR052 - Wax On (C)
-OOO - EVR053 - Helm of Sharp Eye (M)
-OOO - EVR054 - Shatter (M)
-OOO - EVR055 - Blood on Her Hands (M)
-OOO - EVR056 - Oath of Steel (M)
-OOO - EVR057 - Slice and Dice (R)
-OOO - EVR058 - Slice and Dice (R)
-OOO - EVR059 - Slice and Dice (R)
-OOO - EVR060 - Blade Runner (C)
-OOO - EVR061 - Blade Runner (C)
-OOO - EVR062 - Blade Runner (C)
-OOO - EVR063 - In the Swing (C)
-OOO - EVR064 - In the Swing (C)
-OOO - EVR065 - In the Swing (C)
-OOO - EVR066 - Outland Skirmish (C)
-OOO - EVR067 - Outland Skirmish (C)
-OOO - EVR068 - Outland Skirmish (C)
-OOO - EVR069 - Dissolution Sphere (M)
-OOO - EVR070 - Micro-processor (M)
-OOO - EVR071 - Signal Jammer (M)
-OOO - EVR072 - Teklo Pounder (M)
-OOO - EVR073 - T-Bone (R)
-OOO - EVR074 - T-Bone (R)
-OOO - EVR075 - T-Bone (R)
-OOO - EVR076 - Payload (C)
-OOO - EVR077 - Payload (C)
-OOO - EVR078 - Payload (C)
-OOO - EVR079 - Zoom In (C)
-OOO - EVR080 - Zoom In (C)
-OOO - EVR081 - Zoom In (C)
-OOO - EVR082 - Rotary Ram (C)
-OOO - EVR083 - Rotary Ram (C)
-OOO - EVR084 - Rotary Ram (C)
-OOO - EVR085 - Genis Wotchuneed (M)
-OOO - EVR086 - Silver Palms (L)
-OOO - EVR087 - Dreadbore (M)
-OOO - EVR088 - Battering Bolt (M)
-OOO - EVR089 - Tri-shot (M)
-OOO - EVR090 - Rain Razors (M)
-OOO - EVR091 - Release the Tension (R)
-OOO - EVR092 - Release the Tension (R)
-OOO - EVR093 - Release the Tension (R)
-OOO - EVR094 - Fatigue Shot (C)
-OOO - EVR095 - Fatigue Shot (C)
-OOO - EVR096 - Fatigue Shot (C)
-OOO - EVR097 - Timidity Point (C)
-OOO - EVR098 - Timidity Point (C)
-OOO - EVR099 - Timidity Point (C)
-OOO - EVR100 - Read the Glide Path (C)
-OOO - EVR101 - Read the Glide Path (C)
-OOO - EVR102 - Read the Glide Path (C)
-OOO - EVR103 - Vexing Quillhand (M)
-OOO - EVR104 - Runic Reclamation (M)
-OOO - EVR105 - Swarming Gloomveil (M)
-OOO - EVR106 - Reveal in Runeblood (M)
-OOO - EVR107 - Runeblood Incantation (R)
-OOO - EVR108 - Runeblood Incantation (R)
-OOO - EVR109 - Runeblood Incantation (R)
-OOO - EVR110 - Drowning Dire (C)
-OOO - EVR111 - Drowning Dire (C)
-OOO - EVR112 - Drowning Dire (C)
-OOO - EVR113 - Reek of Corruption (C)
-OOO - EVR114 - Reek of Corruption (C)
-OOO - EVR115 - Reek of Corruption (C)
-OOO - EVR116 - Shrill of Skullform (C)
-OOO - EVR117 - Shrill of Skullform (C)
-OOO - EVR118 - Shrill of Skullform (C)
-OOO - EVR120 - Iyslander (M)
-OOO - EVR121 - Kraken's Aethervein (M)
-OOO - EVR122 - Sigil of Parapets (M)
-OOO - EVR123 - Aether Wildfire (M)
-OOO - EVR124 - Scour (M)
-OOO - EVR125 - Emeritus Scolding (R)
-OOO - EVR126 - Emeritus Scolding (R)
-OOO - EVR127 - Emeritus Scolding (R)
-OOO - EVR128 - Pry (C)
-OOO - EVR129 - Pry (C)
-OOO - EVR130 - Pry (C)
-OOO - EVR131 - Pyroglyphic Protection (C)
-OOO - EVR132 - Pyroglyphic Protection (C)
-OOO - EVR133 - Pyroglyphic Protection (C)
-OOO - EVR134 - Timekeeper's Whim (C)
-OOO - EVR135 - Timekeeper's Whim (C)
-OOO - EVR136 - Timekeeper's Whim (C)
-OOO - EVR137 - Crown of Reflection (M)
-OOO - EVR138 - Fractal Replication (M)
-OOO - EVR139 - Miraging Metamorph (M)
-OOO - EVR140 - Shimmers of Silver (M)
-OOO - EVR141 - Haze Bending (R)
-OOO - EVR142 - Passing Mirage (R)
-OOO - EVR143 - Pierce Reality (R)
-OOO - EVR144 - Coalescence Mirage (C)
-OOO - EVR145 - Coalescence Mirage (C)
-OOO - EVR146 - Coalescence Mirage (C)
-OOO - EVR147 - Phantasmal Haze (C)
-OOO - EVR148 - Phantasmal Haze (C)
-OOO - EVR149 - Phantasmal Haze (C)
-OOO - EVR150 - Arcanite Skullcap (L)
-OOO - EVR150 - Veiled Intentions (C)
-OOO - EVR151 - Veiled Intentions (C)
-OOO - EVR152 - Veiled Intentions (C)
-OOO - EVR155 - Arcane Lantern (R)
-OOO - EVR156 - Bingo (M)
-OOO - EVR157 - Firebreathing (M)
-OOO - EVR158 - Cash Out (M)
-OOO - EVR159 - Knick Knack Bric-a-brac (M)
-OOO - EVR160 - This Round's on Me (M)
-OOO - EVR161 - Life of the Party (R)
-OOO - EVR162 - Life of the Party (R)
-OOO - EVR163 - Life of the Party (R)
-OOO - EVR164 - High Striker (R)
-OOO - EVR165 - High Striker (R)
-OOO - EVR166 - High Striker (R)
-OOO - EVR167 - Pick a Card, Any Card (R)
-OOO - EVR168 - Pick a Card, Any Card (R)
-OOO - EVR169 - Pick a Card, Any Card (R)
-OOO - EVR170 - Smashing Good Time (R)
-OOO - EVR171 - Smashing Good Time (R)
-OOO - EVR172 - Smashing Good Time (R)
-OOO - EVR173 - Even Bigger Than That! (R)
-OOO - EVR174 - Even Bigger Than That! (R)
-OOO - EVR175 - Even Bigger Than That! (R)
-OOO - EVR176 - Amulet of Assertiveness (R)
-OOO - EVR177 - Amulet of Echoes (R)
-OOO - EVR178 - Amulet of Havencall (R)
-OOO - EVR179 - Amulet of Ignition (R)
-OOO - EVR180 - Amulet of Intervention (R)
-OOO - EVR181 - Amulet of Oblation (R)
-OOO - EVR182 - Clarity Potion (R)
-OOO - EVR183 - Healing Potion (R)
-OOO - EVR184 - Potion of Seeing (R)
-OOO - EVR185 - Potion of Déjà Vu (R)
-OOO - EVR186 - Potion of Ironhide (R)
-OOO - EVR187 - Potion of Luck (R)
-OOO - EVR188 - Talisman of Balance (R)
-OOO - EVR189 - Talisman of Cremation (R)
-OOO - EVR190 - Talisman of Featherfoot (R)
-OOO - EVR191 - Talisman of Recompense (R)
-OOO - EVR192 - Talisman of Tithes (R)
-OOO - EVR193 - Talisman of Warfare (R)
+O   EVR000 - Grandeur of Valahai (F) {3} - guardian;resource;gem;
+O   EVR001 - Skull Crushers (M) - brute;equipment;arms;
+OOO EVR002 - Swing Big (M) {1} - brute;action;attack;
+OOO EVR003 - Ready to Roll (M) {3} - brute;action;
+OOO EVR004 - Rolling Thunder (M) {1} - brute;action;
+OOO EVR005 - High Roller (R) {1} - brute;action;
+OOO EVR006 - High Roller (R) {2} - brute;action;
+OOO EVR007 - High Roller (R) {3} - brute;action;
+OOO EVR008 - Bare Fangs (C) {1} - brute;action;attack;
+OOO EVR009 - Bare Fangs (C) {2} - brute;action;attack;
+OOO EVR010 - Bare Fangs (C) {3} - brute;action;attack;
+OOO EVR011 - Wild Ride (C) {1} - brute;action;attack;
+OOO EVR012 - Wild Ride (C) {2} - brute;action;attack;
+OOO EVR013 - Wild Ride (C) {3} - brute;action;attack;
+OOO EVR014 - Bad Beats (C) {1} - brute;action;
+OOO EVR015 - Bad Beats (C) {2} - brute;action;
+OOO EVR016 - Bad Beats (C) {3} - brute;action;
+O   EVR017 - Bravo, Star of the Show (M) - elemental;guardian;hero;
+O   EVR018 - Stalagmite, Bastion of Isenloft (L) - ice;guardian;equipment;off-hand;
+O   EVR019 - Valda, Brightaxe (M) - guardian;hero;young;
+O   EVR020 - Earthlore Bounty (M) - guardian;equipment;chest;
+OOO EVR021 - Pulverize (M) {1} - guardian;action;attack;
+OOO EVR022 - Imposing Visage (M) {3} - guardian;action;
+OOO EVR023 - Nerves of Steel (M) {3} - guardian;action;aura;
+OOO EVR024 - Thunder Quake (R) {1} - guardian;action;attack;
+OOO EVR025 - Thunder Quake (R) {2} - guardian;action;attack;
+OOO EVR026 - Thunder Quake (R) {3} - guardian;action;attack;
+OOO EVR027 - Macho Grande (C) {1} - guardian;action;attack;
+OOO EVR028 - Macho Grande (C) {2} - guardian;action;attack;
+OOO EVR029 - Macho Grande (C) {3} - guardian;action;attack;
+OOO EVR030 - Seismic Stir (C) {1} - guardian;action;
+OOO EVR031 - Seismic Stir (C) {2} - guardian;action;
+OOO EVR032 - Seismic Stir (C) {3} - guardian;action;
+OOO EVR033 - Steadfast (C) {1} - guardian;instant;
+OOO EVR034 - Steadfast (C) {2} - guardian;instant;
+OOO EVR035 - Steadfast (C) {3} - guardian;instant;
+O   EVR036 - Seismic Surge (T) - guardian;;token;aura;
+O   EVR037 - Mask of the Pouncing Lynx (M) - ninja;equipment;head;
+OOO EVR038 - Break Tide (M) {2} - ninja;action;attack;
+OOO EVR039 - Spring Tidings (M) {2} - ninja;action;attack;
+OOO EVR040 - Winds of Eternity (M) {3} - ninja;action;attack;
+OOO EVR041 - Hundred Winds (R) {1} - ninja;action;attack;
+OOO EVR042 - Hundred Winds (R) {2} - ninja;action;attack;
+OOO EVR043 - Hundred Winds (R) {3} - ninja;action;attack;
+OOO EVR044 - Ride the Tailwind (C) {1} - ninja;action;attack;
+OOO EVR045 - Ride the Tailwind (C) {2} - ninja;action;attack;
+OOO EVR046 - Ride the Tailwind (C) {3} - ninja;action;attack;
+OOO EVR047 - Twin Twisters (C) {1} - ninja;action;attack;
+OOO EVR048 - Twin Twisters (C) {2} - ninja;action;attack;
+OOO EVR049 - Twin Twisters (C) {3} - ninja;action;attack;
+OOO EVR050 - Wax On (C) {1} - ninja;defense;reaction;
+OOO EVR051 - Wax On (C) {2} - ninja;defense;reaction;
+OOO EVR052 - Wax On (C) {3} - ninja;defense;reaction;
+O   EVR053 - Helm of Sharp Eye (M) - warrior;equipment;head;
+OOO EVR054 - Shatter (M) {2} - warrior;attack;reaction;
+OOO EVR055 - Blood on Her Hands (M) {2} - warrior;action;
+OOO EVR056 - Oath of Steel (M) {1} - warrior;action;
+OOO EVR057 - Slice and Dice (R) {1} - warrior;action;
+OOO EVR058 - Slice and Dice (R) {2} - warrior;action;
+OOO EVR059 - Slice and Dice (R) {3} - warrior;action;
+OOO EVR060 - Blade Runner (C) {1} - warrior;attack;reaction;
+OOO EVR061 - Blade Runner (C) {2} - warrior;attack;reaction;
+OOO EVR062 - Blade Runner (C) {3} - warrior;attack;reaction;
+OOO EVR063 - In the Swing (C) {1} - warrior;attack;reaction;
+OOO EVR064 - In the Swing (C) {2} - warrior;attack;reaction;
+OOO EVR065 - In the Swing (C) {3} - warrior;attack;reaction;
+OOO EVR066 - Outland Skirmish (C) {1} - warrior;action;
+OOO EVR067 - Outland Skirmish (C) {2} - warrior;action;
+OOO EVR068 - Outland Skirmish (C) {3} - warrior;action;
+OOO EVR069 - Dissolution Sphere (M) {2} - mechanologist;action;item;
+OOO EVR070 - Micro-processor (M) {3} - mechanologist;action;item;
+OOO EVR071 - Signal Jammer (M) {3} - mechanologist;action;item;
+OOO EVR072 - Teklo Pounder (M) {3} - mechanologist;action;item;
+OOO EVR073 - T-Bone (R) {1} - mechanologist;action;attack;
+OOO EVR074 - T-Bone (R) {2} - mechanologist;action;attack;
+OOO EVR075 - T-Bone (R) {3} - mechanologist;action;attack;
+OOO EVR076 - Payload (C) {1} - mechanologist;action;attack;
+OOO EVR077 - Payload (C) {2} - mechanologist;action;attack;
+OOO EVR078 - Payload (C) {3} - mechanologist;action;attack;
+OOO EVR079 - Zoom In (C) {1} - mechanologist;action;attack;
+OOO EVR080 - Zoom In (C) {2} - mechanologist;action;attack;
+OOO EVR081 - Zoom In (C) {3} - mechanologist;action;attack;
+OOO EVR082 - Rotary Ram (C) {1} - mechanologist;action;
+OOO EVR083 - Rotary Ram (C) {2} - mechanologist;action;
+OOO EVR084 - Rotary Ram (C) {3} - mechanologist;action;
+O   EVR085 - Genis Wotchuneed (M) - merchant;hero;young;
+O   EVR086 - Silver Palms (L) - merchant;equipment;arms;
+O   EVR087 - Dreadbore (M) - ranger;weapon;bow;2h;
+OOO EVR088 - Battering Bolt (M) {1} - ranger;action;arrow;attack;
+OOO EVR089 - Tri-shot (M) {3} - ranger;action;
+OOO EVR090 - Rain Razors (M) {2} - ranger;instant;
+OOO EVR091 - Release the Tension (R) {1} - ranger;action;
+OOO EVR092 - Release the Tension (R) {2} - ranger;action;
+OOO EVR093 - Release the Tension (R) {3} - ranger;action;
+OOO EVR094 - Fatigue Shot (C) {1} - ranger;action;arrow;attack;
+OOO EVR095 - Fatigue Shot (C) {2} - ranger;action;arrow;attack;
+OOO EVR096 - Fatigue Shot (C) {3} - ranger;action;arrow;attack;
+OOO EVR097 - Timidity Point (C) {1} - ranger;action;arrow;attack;
+OOO EVR098 - Timidity Point (C) {2} - ranger;action;arrow;attack;
+OOO EVR099 - Timidity Point (C) {3} - ranger;action;arrow;attack;
+OOO EVR100 - Read the Glide Path (C) {1} - ranger;action;
+OOO EVR101 - Read the Glide Path (C) {2} - ranger;action;
+OOO EVR102 - Read the Glide Path (C) {3} - ranger;action;
+O   EVR103 - Vexing Quillhand (M) - runeblade;equipment;arms;
+OOO EVR104 - Runic Reclamation (M) {1} - runeblade;action;attack;
+OOO EVR105 - Swarming Gloomveil (M) {1} - runeblade;action;attack;
+OOO EVR106 - Revel in Runeblood (M) {1} - runeblade;action;
+OOO EVR107 - Runeblood Incantation (R) {1} - runeblade;action;aura;
+OOO EVR108 - Runeblood Incantation (R) {2} - runeblade;action;aura;
+OOO EVR109 - Runeblood Incantation (R) {3} - runeblade;action;aura;
+OOO EVR110 - Drowning Dire (C) {1} - runeblade;action;attack;
+OOO EVR111 - Drowning Dire (C) {2} - runeblade;action;attack;
+OOO EVR112 - Drowning Dire (C) {3} - runeblade;action;attack;
+OOO EVR113 - Reek of Corruption (C) {1} - runeblade;action;attack;
+OOO EVR114 - Reek of Corruption (C) {2} - runeblade;action;attack;
+OOO EVR115 - Reek of Corruption (C) {3} - runeblade;action;attack;
+OOO EVR116 - Shrill of Skullform (C) {1} - runeblade;action;attack;
+OOO EVR117 - Shrill of Skullform (C) {2} - runeblade;action;attack;
+OOO EVR118 - Shrill of Skullform (C) {3} - runeblade;action;attack;
+O   EVR119 - Runechant (T) - runeblade;token;aura;
+O   EVR120 - Iyslander (M) - elemental;wizard;hero;young;
+O   EVR121 - Kraken's Aethervein (M) - wizard;weapon;staff;2h;
+OOO EVR122 - Sigil of Parapets (M) {3} - wizard;defense;reaction;
+OOO EVR123 - Aether Wildfire (M) {1} - wizard;action;
+OOO EVR124 - Scour (M) {3} - wizard;action;
+OOO EVR125 - Emeritus Scolding (R) {1} - wizard;action;
+OOO EVR126 - Emeritus Scolding (R) {2} - wizard;action;
+OOO EVR127 - Emeritus Scolding (R) {3} - wizard;action;
+OOO EVR128 - Pry (C) {1} - wizard;action;
+OOO EVR129 - Pry (C) {2} - wizard;action;
+OOO EVR130 - Pry (C) {3} - wizard;action;
+OOO EVR131 - Pyroglyphic Protection (C) {1} - wizard;action;aura;
+OOO EVR132 - Pyroglyphic Protection (C) {2} - wizard;action;aura;
+OOO EVR133 - Pyroglyphic Protection (C) {3} - wizard;action;aura;
+OOO EVR134 - Timekeeper's Whim (C) {1} - wizard;action;
+OOO EVR135 - Timekeeper's Whim (C) {2} - wizard;action;
+OOO EVR136 - Timekeeper's Whim (C) {3} - wizard;action;
+O   EVR137 - Crown of Reflection (M) - illusionist;equipment;head;
+OOO EVR138 - Fractal Replication (M) {1} - illusionist;action;attack;
+OOO EVR139 - Miraging Metamorph (M) {1} - illusionist;action;attack;
+OOO EVR140 - Shimmers of Silver (M) {3} - illusionist;action;aura;
+OOO EVR141 - Haze Bending (R) {3} - illusionist;action;aura;
+OOO EVR142 - Passing Mirage (R) {3} - illusionist;action;aura;
+OOO EVR143 - Pierce Reality (R) {3} - illusionist;action;aura;
+OOO EVR144 - Coalescence Mirage (C) {1} - illusionist;action;attack;
+OOO EVR145 - Coalescence Mirage (C) {2} - illusionist;action;attack;
+OOO EVR146 - Coalescence Mirage (C) {3} - illusionist;action;attack;
+OOO EVR147 - Phantasmal Haze (C) {1} - illusionist;action;attack;
+OOO EVR148 - Phantasmal Haze (C) {2} - illusionist;action;attack;
+OOO EVR149 - Phantasmal Haze (C) {3} - illusionist;action;attack;
+OOO EVR150 - Veiled Intentions (C) {1} - illusionist;action;
+OOO EVR151 - Veiled Intentions (C) {2} - illusionist;action;
+OOO EVR152 - Veiled Intentions (C) {3} - illusionist;action;
+O   EVR153 - Spectral Shield (T) - illusionist;token;aura;
+O   EVR154 - Arcanite Skullcap (L) - generic;equipment;head;
+O   EVR155 - Arcane Lantern (R) - generic;equipment;off-hand;
+OOO EVR156 - Bingo (M) {1} - generic;action;attack;
+OOO EVR157 - Firebreathing (M) {1} - generic;action;attack;
+OOO EVR158 - Cash Out (M) {3} - generic;action;
+OOO EVR159 - Knick Knack Bric-a-brac (M) {1} - generic;action;
+OOO EVR160 - This Round's on Me (M) {3} - generic;action;
+OOO EVR161 - Life of the Party (R) {1} - generic;action;attack;
+OOO EVR162 - Life of the Party (R) {2} - generic;action;attack;
+OOO EVR163 - Life of the Party (R) {3} - generic;action;attack;
+OOO EVR164 - High Striker (R) {1} - generic;action;
+OOO EVR165 - High Striker (R) {2} - generic;action;
+OOO EVR166 - High Striker (R) {3} - generic;action;
+OOO EVR167 - Pick a Card, Any Card (R) {1} - generic;action;
+OOO EVR168 - Pick a Card, Any Card (R) {2} - generic;action;
+OOO EVR169 - Pick a Card, Any Card (R) {3} - generic;action;
+OOO EVR170 - Smashing Good Time (R) {1} - generic;action;
+OOO EVR171 - Smashing Good Time (R) {2} - generic;action;
+OOO EVR172 - Smashing Good Time (R) {3} - generic;action;
+OOO EVR173 - Even Bigger Than That! (R) {1} - generic;instant;
+OOO EVR174 - Even Bigger Than That! (R) {2} - generic;instant;
+OOO EVR175 - Even Bigger Than That! (R) {3} - generic;instant;
+OOO EVR176 - Amulet of Assertiveness (R) {2} - generic;action;item;
+OOO EVR177 - Amulet of Echoes (R) {3} - generic;action;item;
+OOO EVR178 - Amulet of Havencall (R) {3} - generic;action;item;
+OOO EVR179 - Amulet of Ignition (R) {2} - generic;action;item;
+OOO EVR180 - Amulet of Intervention (R) {3} - generic;action;item;
+OOO EVR181 - Amulet of Oblation (R) {3} - generic;action;item;
+OOO EVR182 - Clarity Potion (R) {3} - generic;action;item;
+OOO EVR183 - Healing Potion (R) {3} - generic;action;item;
+OOO EVR184 - Potion of Seeing (R) {3} - generic;action;item;
+OOO EVR185 - Potion of Déjà Vu (R) {3} - generic;action;item;
+OOO EVR186 - Potion of Ironhide (R) {3} - generic;action;item;
+OOO EVR187 - Potion of Luck (R) {3} - generic;action;item;
+OOO EVR188 - Talisman of Balance (R) {3} - generic;action;item;
+OOO EVR189 - Talisman of Cremation (R) {3} - generic;action;item;
+OOO EVR190 - Talisman of Featherfoot (R) {2} - generic;action;item;
+OOO EVR191 - Talisman of Recompense (R) {2} - generic;action;item;
+OOO EVR192 - Talisman of Tithes (R) {3} - generic;action;item;
+OOO EVR193 - Talisman of Warfare (R) {2} - generic;action;item;
+OOO EVR194 - Copper (C) - generic;token;item;
+OOO EVR195 - Silver (C) - generic;token;item;
+O   EVR196 - Quicken (T) - generic;token;aura;
+O   EVR197 - Frostbite (T) - elemental;token;aura;

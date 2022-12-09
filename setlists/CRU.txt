@@ -1,194 +1,194 @@
-OOO CRU000 - Arknight Shard (F)
-OOO WTR001 - Rhinar, Reckless Rampage (T)
-OOO CRU002 - Kayo, Berserker Runt (R)
-OOO WTR003 - Romping Club (T)
-OOO CRU004 - Mandible Claw (R)
-OOO CRU006 - Skullhorn (M)
-OOO CRU007 - Beast Within (M)
-OOO CRU008 - Massacre (M)
-OOO CRU009 - ARGH... Smash! (M)
-OOO CRU010 - Barraging Big Horn (R)
-OOO CRU011 - Barraging Big Horn (R)
-OOO CRU012 - Barraging Big Horn (R)
-OOO CRU013 - Predatory Assault (C)
-OOO CRU014 - Predatory Assault (C)
-OOO CRU015 - Predatory Assault (C)
-OOO CRU016 - Riled Up (C)
-OOO CRU017 - Riled Up (C)
-OOO CRU018 - Riled Up (C)
-OOO CRU019 - Swing Fist, Think Later (C)
-OOO CRU020 - Swing Fist, Think Later (C)
-OOO CRU021 - Swing Fist, Think Later (C)
-OOO WTR038 - Bravo, Showstopper (T)
-OOO WTR040 - Anothos (T)
-OOO CRU024 - Sledge of Anvilheim (R)
-OOO CRU025 - Crater Fist (M)
-OOO CRU026 - Mangle (M)
-OOO CRU027 - Righteous Cleansing (M)
-OOO CRU028 - Stamp Authority (M)
-OOO CRU029 - Towering Titan (R)
-OOO CRU030 - Towering Titan (R)
-OOO CRU031 - Towering Titan (R)
-OOO CRU032 - Crush the Weak (C)
-OOO CRU033 - Crush the Weak (C)
-OOO CRU034 - Crush the Weak (C)
-OOO CRU035 - Chokeslam (C)
-OOO CRU036 - Chokeslam (C)
-OOO CRU037 - Chokeslam (C)
-OOO CRU038 - Emerging Dominance (C)
-OOO CRU039 - Emerging Dominance (C)
-OOO CRU040 - Emerging Dominance (C)
-OOO CRU041 - Blessing of Serenity (C)
-OOO CRU042 - Blessing of Serenity (C)
-OOO CRU043 - Blessing of Serenity (C)
-OOO WTR075 - Seismic Surge (T)
-OOO WTR076 - Katsu, the Wanderer (T)
-OOO CRU046 - Ira, Crimson Haze (C)
-OOO CRU047 - Benji, the Piercing Wind (R)
-OOO WTR078 - Harmonized Kodachi (T)
-OOO CRU050 - Edge of Autumn (R)
-OOO CRU051 - Zephyr Needle (R)
-OOO CRU053 - Breeze Rider Boots (M)
-OOO CRU054 - Find Center (M)
-OOO CRU055 - Flood of Force (M)
-OOO CRU056 - Heron's Flight (M)
-OOO CRU057 - Crane Dance (R)
-OOO CRU058 - Crane Dance (R)
-OOO CRU059 - Crane Dance (R)
-OOO CRU060 - Rushing River (R)
-OOO CRU061 - Rushing River (R)
-OOO CRU062 - Rushing River (R)
-OOO CRU063 - Flying Kick (C)
-OOO CRU064 - Flying Kick (C)
-OOO CRU065 - Flying Kick (C)
-OOO CRU066 - Soulbead Strike (C)
-OOO CRU067 - Soulbead Strike (C)
-OOO CRU068 - Soulbead Strike (C)
-OOO CRU069 - Torrent of Tempo (C)
-OOO CRU070 - Torrent of Tempo (C)
-OOO CRU071 - Torrent of Tempo (C)
-OOO CRU072 - Bittering Thorns (C)
-OOO CRU073 - Salt the Wound (C)
-OOO CRU074 - Whirling Mist Blossom (C)
-OOO CRU075 - Zen State (R)
-OOO WTR113 - Dorinthea Ironsong (T)
-OOO CRU077 - Kassai, Cintari Sellsword (R)
-OOO WTR115 - Dawnblade (T)
-OOO CRU079 - Cintari Saber (R)
-OOO CRU081 - Courage of Bladehold (M)
-OOO CRU082 - Twinning Blade (M)
-OOO CRU083 - Unified Decree (M)
-OOO CRU084 - Spoils of War (M)
-OOO CRU085 - Dauntless (R)
-OOO CRU086 - Dauntless (R)
-OOO CRU087 - Dauntless (R)
-OOO CRU088 - Out for Blood (C)
-OOO CRU089 - Out for Blood (C)
-OOO CRU090 - Out for Blood (C)
-OOO CRU091 - Hit and Run (C)
-OOO CRU092 - Hit and Run (C)
-OOO CRU093 - Hit and Run (C)
-OOO CRU094 - Push Forward (C)
-OOO CRU095 - Push Forward (C)
-OOO CRU096 - Push Forward (C)
-OOO CRU097 - Shiyana, Diamond Gemini (L)
-OOO ARC001 - Dash, Inventor Extraordinaire (T)
-OOO CRU099 - Data Doll MKII (R)
-OOO ARC003 - Teklo Plasma Pistol (T)
-OOO CRU101 - Plasma Barrel Shot (R)
-OOO CRU102 - Viziertronic Model i (M)
-OOO CRU103 - Meganetic Shockwave (M)
-OOO CRU104 - Absorption Dome (M)
-OOO CRU105 - Plasma Purifier (M)
-OOO CRU106 - High Speed Impact (R)
-OOO CRU107 - High Speed Impact (R)
-OOO CRU108 - High Speed Impact (R)
-OOO CRU109 - Combustible Courier (C)
-OOO CRU110 - Combustible Courier (C)
-OOO CRU111 - Combustible Courier (C)
-OOO CRU112 - Overblast (C)
-OOO CRU113 - Overblast (C)
-OOO CRU114 - Overblast (C)
-OOO CRU115 - Teklovossen's Workshop (C)
-OOO CRU116 - Teklovossen's Workshop (C)
-OOO CRU117 - Teklovossen's Workshop (C)
-OOO CRU118 - Kavdaen, Trader of Skins (R)
-OOO ARC038 - Azalea, Ace in the Hole (T)
-OOO ARC040 - Death Dealer (T)
-OOO CRU121 - Red Liner (R)
-OOO CRU122 - Perch Grapplers (M)
-OOO CRU123 - Remorseless (M)
-OOO CRU124 - Poison the Tips (M)
-OOO CRU125 - Feign Death (M)
-OOO CRU126 - Tripwire Trap (R)
-OOO CRU127 - Pitfall Trap (R)
-OOO CRU128 - Rockslide Trap (R)
-OOO CRU129 - Pathing Helix (C)
-OOO CRU130 - Pathing Helix (C)
-OOO CRU131 - Pathing Helix (C)
-OOO CRU132 - Sleep Dart (C)
-OOO CRU133 - Sleep Dart (C)
-OOO CRU134 - Sleep Dart (C)
-OOO CRU135 - Increase the Tension (C)
-OOO CRU136 - Increase the Tension (C)
-OOO CRU137 - Increase the Tension (C)
-OOO ARC075 - Viserai, Rune Blood (T)
-OOO ARC077 - Nebula Blade (T)
-OOO CRU140 - Reaping Blade (R)
-OOO CRU141 - Bloodsheath Skeleta (M)
-OOO CRU142 - Dread Triptych (M)
-OOO CRU143 - Rattle Bones (M)
-OOO CRU144 - Runeblood Barrier (M)
-OOO CRU145 - Mauvrion Skies (R)
-OOO CRU146 - Mauvrion Skies (R)
-OOO CRU147 - Mauvrion Skies (R)
-OOO CRU148 - Consuming Volition (C)
-OOO CRU149 - Consuming Volition (C)
-OOO CRU150 - Consuming Volition (C)
-OOO CRU151 - Meat and Greet (C)
-OOO CRU152 - Meat and Greet (C)
-OOO CRU153 - Meat and Greet (C)
-OOO CRU154 - Sutcliffe's Research Notes (C)
-OOO CRU155 - Sutcliffe's Research Notes (C)
-OOO CRU156 - Sutcliffe's Research Notes (C)
-OOO ARC112 - Runechant (T)
-OOO ARC113 - Kano, Dracai of Aether (T)
-OOO ARC115 - Crucible of Aetherweave (T)
-OOO CRU160 - Aether Conduit (R)
-OOO CRU161 - Metacarpus Node (M)
-OOO CRU162 - Chain Lightning (M)
-OOO CRU163 - Gaze the Ages (M)
-OOO CRU164 - Aetherize (M)
-OOO CRU165 - Cindering Foresight (R)
-OOO CRU166 - Cindering Foresight (R)
-OOO CRU167 - Cindering Foresight (R)
-OOO CRU168 - Foreboding Bolt (C)
-OOO CRU169 - Foreboding Bolt (C)
-OOO CRU170 - Foreboding Bolt (C)
-OOO CRU171 - Rousing Aether (C)
-OOO CRU172 - Rousing Aether (C)
-OOO CRU173 - Rousing Aether (C)
-OOO CRU174 - Snapback (C)
-OOO CRU175 - Snapback (C)
-OOO CRU176 - Snapback (C)
-OOO CRU177 - Talishar, the Lost Prince (R)
-OOO WTR150 - Fyendal's Spring Tunic (L)
-OOO CRU179 - Gambler's Gloves (M)
-OOO CRU180 - Coax a Commotion (M)
-OOO CRU181 - Gorganian Tome (M)
-OOO CRU182 - Snag (M)
-OOO CRU183 - Promise of Plenty (R)
-OOO CRU184 - Promise of Plenty (R)
-OOO CRU185 - Promise of Plenty (R)
-OOO CRU186 - Lunging Press (R)
-OOO CRU187 - Springboard Somersault (R)
-OOO CRU188 - Cash In (R)
-OOO CRU189 - Reinforce the Line (R)
-OOO CRU190 - Reinforce the Line (R)
-OOO CRU191 - Reinforce the Line (R)
-OOO CRU192 - Brutal Assault (C)
-OOO CRU193 - Brutal Assault (C)
-OOO CRU194 - Brutal Assault (C)
-OOO WTR224 - Cracked Bauble (T)
-OOO WTR225 - Quicken (T)
-OOO CRU197 - Copper (C)
+OOO CRU000 - Arknight Shard (F) {3} - runeblade;resource;gem;
+O   CRU001 - Rhinar, Reckless Rampage (T) - brute;hero;
+O   CRU002 - Kayo, Berserker Runt (R) - brute;hero;young;
+O   CRU003 - Romping Club (T) - brute;weapon;club;2h;
+OO  CRU004 - Mandible Claw (R) - brute;weapon;claw;1h;
+O   CRU006 - Skullhorn (M) - brute;equipment;head;
+OOO CRU007 - Beast Within (M) {2} - brute;action;attack;
+OOO CRU008 - Massacre (M) {1} - brute;action;attack;
+OOO CRU009 - Argh... Smash! (M) {2} - brute;action;
+OOO CRU010 - Barraging Big Horn (R) {1} - brute;action;attack;
+OOO CRU011 - Barraging Big Horn (R) {2} - brute;action;attack;
+OOO CRU012 - Barraging Big Horn (R) {3} - brute;action;attack;
+OOO CRU013 - Predatory Assault (C) {1} - brute;action;attack;
+OOO CRU014 - Predatory Assault (C) {2} - brute;action;attack;
+OOO CRU015 - Predatory Assault (C) {3} - brute;action;attack;
+OOO CRU016 - Riled Up (C) {1} - brute;action;attack;
+OOO CRU017 - Riled Up (C) {2} - brute;action;attack;
+OOO CRU018 - Riled Up (C) {3} - brute;action;attack;
+OOO CRU019 - Swing Fist, Think Later (C) {1} - brute;action;attack;
+OOO CRU020 - Swing Fist, Think Later (C) {2} - brute;action;attack;
+OOO CRU021 - Swing Fist, Think Later (C) {3} - brute;action;attack;
+O   CRU022 - Bravo, Showstopper (T) - guardian;hero;
+O   CRU023 - Anothos (T) - guardian;weapon;hammer;2h;
+O   CRU024 - Sledge of Anvilheim (R) - guardian;weapon;hammer;2h;
+O   CRU025 - Crater Fist (M) - guardian;equipment;arms;
+OOO CRU026 - Mangle (M) {1} - guardian;action;attack;
+OOO CRU027 - Righteous Cleansing (M) {2} - guardian;action;attack;
+OOO CRU028 - Stamp Authority (M) {3} - guardian;action;aura;
+OOO CRU029 - Towering Titan (R) {1} - guardian;action;aura;
+OOO CRU030 - Towering Titan (R) {2} - guardian;action;aura;
+OOO CRU031 - Towering Titan (R) {3} - guardian;action;aura;
+OOO CRU032 - Crush the Weak (C) {1} - guardian;action;attack;
+OOO CRU033 - Crush the Weak (C) {2} - guardian;action;attack;
+OOO CRU034 - Crush the Weak (C) {3} - guardian;action;attack;
+OOO CRU035 - Chokeslam (C) {1} - guardian;action;attack;
+OOO CRU036 - Chokeslam (C) {2} - guardian;action;attack;
+OOO CRU037 - Chokeslam (C) {3} - guardian;action;attack;
+OOO CRU038 - Emerging Dominance (C) {1} - guardian;action;aura;
+OOO CRU039 - Emerging Dominance (C) {2} - guardian;action;aura;
+OOO CRU040 - Emerging Dominance (C) {3} - guardian;action;aura;
+OOO CRU041 - Blessing of Serenity (C) {1} - guardian;instant;
+OOO CRU042 - Blessing of Serenity (C) {2} - guardian;instant;
+OOO CRU043 - Blessing of Serenity (C) {3} - guardian;instant;
+O   CRU044 - Seismic Surge (T) - guardian;;token;aura;
+O   CRU045 - Katsu, the Wanderer (T) - ninja;hero;
+O   CRU046 - Ira, Crimson Haze (C) - ninja;hero;
+O   CRU047 - Benji, the Piercing Wind (R) - ninja;hero;young;
+O   CRU048 - Harmonized Kodachi (T) - ninja;weapon;dagger;1h;
+O   CRU050 - Edge of Autumn (R) - ninja;weapon;sword;2h;
+OO  CRU051 - Zephyr Needle (R) - ninja;weapon;dagger;1h;
+O   CRU053 - Breeze Rider Boots (M) - ninja;equipment;legs;
+OOO CRU054 - Find Center (M) {3} - ninja;action;attack;
+OOO CRU055 - Flood of Force (M) {2} - ninja;action;attack;
+OOO CRU056 - Heron's Flight (M) {1} - ninja;action;attack;
+OOO CRU057 - Crane Dance (R) {1} - ninja;action;attack;
+OOO CRU058 - Crane Dance (R) {2} - ninja;action;attack;
+OOO CRU059 - Crane Dance (R) {3} - ninja;action;attack;
+OOO CRU060 - Rushing River (R) {1} - ninja;action;attack;
+OOO CRU061 - Rushing River (R) {2} - ninja;action;attack;
+OOO CRU062 - Rushing River (R) {3} - ninja;action;attack;
+OOO CRU063 - Flying Kick (C) {1} - ninja;action;attack;
+OOO CRU064 - Flying Kick (C) {2} - ninja;action;attack;
+OOO CRU065 - Flying Kick (C) {3} - ninja;action;attack;
+OOO CRU066 - Soulbead Strike (C) {1} - ninja;action;attack;
+OOO CRU067 - Soulbead Strike (C) {2} - ninja;action;attack;
+OOO CRU068 - Soulbead Strike (C) {3} - ninja;action;attack;
+OOO CRU069 - Torrent of Tempo (C) {1} - ninja;action;attack;
+OOO CRU070 - Torrent of Tempo (C) {2} - ninja;action;attack;
+OOO CRU071 - Torrent of Tempo (C) {3} - ninja;action;attack;
+OOO CRU072 - Bittering Thorns (C) {2} - ninja;action;attack;
+OOO CRU073 - Salt the Wound (C) {2} - ninja;action;attack;
+OOO CRU074 - Whirling Mist Blossom (C) {2} - ninja;action;attack;
+OOO CRU075 - Zen State (R) - ninja;token;aura;
+O   CRU076 - Dorinthea Ironsong (T) - warrior;hero;
+O   CRU077 - Kassai, Cintari Sellsword (R) - warrior;hero;young;
+O   CRU078 - Dawnblade (T) - warrior;weapon;sword;2h;
+OO  CRU079 - Cintari Saber (R) - warrior;weapon;sword;1h;
+O   CRU081 - Courage of Bladehold (M) - warrior;equipment;chest;
+OOO CRU082 - Twinning Blade (M) {2} - warrior;attack;reaction;
+OOO CRU083 - Unified Decree (M) {2} - warrior;attack;reaction;
+OOO CRU084 - Spoils of War (M) {1} - warrior;action;
+OOO CRU085 - Dauntless (R) {1} - warrior;action;
+OOO CRU086 - Dauntless (R) {2} - warrior;action;
+OOO CRU087 - Dauntless (R) {3} - warrior;action;
+OOO CRU088 - Out for Blood (C) {1} - warrior;attack;reaction;
+OOO CRU089 - Out for Blood (C) {2} - warrior;attack;reaction;
+OOO CRU090 - Out for Blood (C) {3} - warrior;attack;reaction;
+OOO CRU091 - Hit and Run (C) {1} - warrior;action;
+OOO CRU092 - Hit and Run (C) {2} - warrior;action;
+OOO CRU093 - Hit and Run (C) {3} - warrior;action;
+OOO CRU094 - Push Forward (C) {1} - warrior;action;
+OOO CRU095 - Push Forward (C) {2} - warrior;action;
+OOO CRU096 - Push Forward (C) {3} - warrior;action;
+O   CRU097 - Shiyana, Diamond Gemini (L) - shapeshifter;hero;young;
+O   CRU098 - Dash, Inventor Extraordinaire (T) - mechanologist;hero;
+O   CRU099 - Data Doll MKII (R) - mechanologist;hero;young;
+O   CRU100 - Teklo Plasma Pistol (T) - mechanologist;weapon;pistol;2h;
+O   CRU101 - Plasma Barrel Shot (R) - mechanologist;weapon;gun;2h;
+O   CRU102 - Viziertronic Model i (M) - mechanologist;equipment;head;
+OOO CRU103 - Meganetic Shockwave (M) {3} - mechanologist;action;attack;
+OOO CRU104 - Absorption Dome (M) {2} - mechanologist;action;item;
+OOO CRU105 - Plasma Purifier (M) {1} - mechanologist;action;item;
+OOO CRU106 - High Speed Impact (R) {1} - mechanologist;action;attack;
+OOO CRU107 - High Speed Impact (R) {2} - mechanologist;action;attack;
+OOO CRU108 - High Speed Impact (R) {3} - mechanologist;action;attack;
+OOO CRU109 - Combustible Courier (C) {1} - mechanologist;action;attack;
+OOO CRU110 - Combustible Courier (C) {2} - mechanologist;action;attack;
+OOO CRU111 - Combustible Courier (C) {3} - mechanologist;action;attack;
+OOO CRU112 - Overblast (C) {1} - mechanologist;action;attack;
+OOO CRU113 - Overblast (C) {2} - mechanologist;action;attack;
+OOO CRU114 - Overblast (C) {3} - mechanologist;action;attack;
+OOO CRU115 - Teklovossen's Workshop (C) {1} - mechanologist;action;
+OOO CRU116 - Teklovossen's Workshop (C) {2} - mechanologist;action;
+OOO CRU117 - Teklovossen's Workshop (C) {3} - mechanologist;action;
+O   CRU118 - Kavdaen, Trader of Skins (R) - merchant;hero;young;
+O   CRU119 - Azalea, Ace in the Hole (T) - ranger;hero;
+O   CRU120 - Death Dealer (T) - ranger;weapon;bow;2h;
+O   CRU121 - Red Liner (R) - ranger;weapon;bow;2h;
+O   CRU122 - Perch Grapplers (M) - ranger;equipment;legs;
+OOO CRU123 - Remorseless (M) {1} - ranger;action;arrow;attack;
+OOO CRU124 - Poison the Tips (M) {2} - ranger;action;
+OOO CRU125 - Feign Death (M) {2} - ranger;instant;
+OOO CRU126 - Tripwire Trap (R) {1} - ranger;defense;reaction;trap;
+OOO CRU127 - Pitfall Trap (R) {2} - ranger;defense;reaction;trap;
+OOO CRU128 - Rockslide Trap (R) {3} - ranger;defense;reaction;trap;
+OOO CRU129 - Pathing Helix (C) {1} - ranger;action;arrow;attack;
+OOO CRU130 - Pathing Helix (C) {2} - ranger;action;arrow;attack;
+OOO CRU131 - Pathing Helix (C) {3} - ranger;action;arrow;attack;
+OOO CRU132 - Sleep Dart (C) {1} - ranger;action;arrow;attack;
+OOO CRU133 - Sleep Dart (C) {2} - ranger;action;arrow;attack;
+OOO CRU134 - Sleep Dart (C) {3} - ranger;action;arrow;attack;
+OOO CRU135 - Increase the Tension (C) {1} - ranger;action;
+OOO CRU136 - Increase the Tension (C) {2} - ranger;action;
+OOO CRU137 - Increase the Tension (C) {3} - ranger;action;
+O   CRU138 - Viserai, Rune Blood (T) - runeblade;hero;
+O   CRU139 - Nebula Blade (T) - runeblade;weapon;sword;2h;
+O   CRU140 - Reaping Blade (R) - runeblade;weapon;sword;2h;
+O   CRU141 - Bloodsheath Skeleta (M) - runeblade;equipment;chest;
+OOO CRU142 - Dread Triptych (M) {3} - runeblade;action;attack;
+OOO CRU143 - Rattle Bones (M) {1} - runeblade;action;
+OOO CRU144 - Runeblood Barrier (M) {2} - runeblade;action;aura;
+OOO CRU145 - Mauvrion Skies (R) {1} - runeblade;action;
+OOO CRU146 - Mauvrion Skies (R) {2} - runeblade;action;
+OOO CRU147 - Mauvrion Skies (R) {3} - runeblade;action;
+OOO CRU148 - Consuming Volition (C) {1} - runeblade;action;attack;
+OOO CRU149 - Consuming Volition (C) {2} - runeblade;action;attack;
+OOO CRU150 - Consuming Volition (C) {3} - runeblade;action;attack;
+OOO CRU151 - Meat and Greet (C) {1} - runeblade;action;attack;
+OOO CRU152 - Meat and Greet (C) {2} - runeblade;action;attack;
+OOO CRU153 - Meat and Greet (C) {3} - runeblade;action;attack;
+OOO CRU154 - Sutcliffe's Research Notes (C) {1} - runeblade;action;
+OOO CRU155 - Sutcliffe's Research Notes (C) {2} - runeblade;action;
+OOO CRU156 - Sutcliffe's Research Notes (C) {3} - runeblade;action;
+O   CRU157 - Runechant (T) - runeblade;token;aura;
+O   CRU158 - Kano, Dracai of Aether (T) - wizard;hero;
+O   CRU159 - Crucible of Aetherweave (T) - wizard;weapon;staff;2h;
+O   CRU160 - Aether Conduit (R) - wizard;weapon;staff;2h;
+O   CRU161 - Metacarpus Node (M) - wizard;equipment;arms;
+OOO CRU162 - Chain Lightning (M) {2} - wizard;action;
+OOO CRU163 - Gaze the Ages (M) {3} - wizard;action;
+OOO CRU164 - Aetherize (M) {3} - wizard;instant;
+OOO CRU165 - Cindering Foresight (R) {1} - wizard;action;
+OOO CRU166 - Cindering Foresight (R) {2} - wizard;action;
+OOO CRU167 - Cindering Foresight (R) {3} - wizard;action;
+OOO CRU168 - Foreboding Bolt (C) {1} - wizard;action;
+OOO CRU169 - Foreboding Bolt (C) {2} - wizard;action;
+OOO CRU170 - Foreboding Bolt (C) {3} - wizard;action;
+OOO CRU171 - Rousing Aether (C) {1} - wizard;action;
+OOO CRU172 - Rousing Aether (C) {2} - wizard;action;
+OOO CRU173 - Rousing Aether (C) {3} - wizard;action;
+OOO CRU174 - Snapback (C) {1} - wizard;action;
+OOO CRU175 - Snapback (C) {2} - wizard;action;
+OOO CRU176 - Snapback (C) {3} - wizard;action;
+O   CRU177 - Talishar, the Lost Prince (R) - generic;weapon;sword;2h;
+O   CRU178 - Fyendal's Spring Tunic (L) - generic;equipment;chest;
+O   CRU179 - Gambler's Gloves (M) - generic;equipment;arms;
+OOO CRU180 - Coax a Commotion (M) {1} - generic;action;attack;
+O   CRU181 - Gorganian Tome (M) - generic;action;
+OOO CRU182 - Snag (M) {3} - generic;instant;
+OOO CRU183 - Promise of Plenty (R) {1} - generic;action;attack;
+OOO CRU184 - Promise of Plenty (R) {2} - generic;action;attack;
+OOO CRU185 - Promise of Plenty (R) {3} - generic;action;attack;
+OOO CRU186 - Lunging Press (R) {3} - generic;attack;reaction;
+OOO CRU187 - Springboard Somersault (R) {2} - generic;defense;reaction;
+OOO CRU188 - Cash In (R) {2} - generic;action;
+OOO CRU189 - Reinforce the Line (R) {1} - generic;instant;
+OOO CRU190 - Reinforce the Line (R) {2} - generic;instant;
+OOO CRU191 - Reinforce the Line (R) {3} - generic;instant;
+OOO CRU192 - Brutal Assault (C) {1} - generic;action;attack;
+OOO CRU193 - Brutal Assault (C) {2} - generic;action;attack;
+OOO CRU194 - Brutal Assault (C) {3} - generic;action;attack;
+O   CRU195 - Cracked Bauble (T) {2} - generic;resource;
+O   CRU196 - Quicken (T) - generic;token;aura;
+OOO CRU197 - Copper (C) - generic;token;item;
