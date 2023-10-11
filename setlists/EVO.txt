@@ -1,4 +1,4 @@
-OOO EVO000 - Master Cog (F) {2} - mechanologist;resource;gem;
+O   EVO000 - Master Cog (F) {2} - mechanologist;resource;gem;
 O   EVO001 - Dash I/O (M) - mechanologist;hero;;
 O   EVO002 - Dash, Database (T) - mechanologist;hero;young;
 O   EVO003 - Symbiosis Shot (T) - mechanologist;weapon;gun;2h;
