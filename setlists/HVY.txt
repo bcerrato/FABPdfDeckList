@@ -1,0 +1,255 @@
+O   HVY000 - Deathmatch Arena (F) {} - Legendary;Go again;
+O   HVY001 - Kayo, Armed and Dangerous (M) {} - 
+O   HVY002 - Kayo (T) {} - 
+O   HVY003 - Rhinar, Reckless Rampage (M) {} - Intimidate;
+O   HVY004 - Rhinar (T) {} - Intimidate;
+O   HVY005 - Mandible Claw (T) {} - 
+OO  HVY006 - Ball Breaker (R) {} - 
+OO  HVY007 - Mini Meataxe (R) {} - 
+O   HVY008 - Apex Bonebreaker (L) {} - Temper;
+O   HVY009 - Knucklehead (R) {} - Kayo Specialization;Temper;
+O   HVY010 - Monstrous Veil (R) {} - Rhinar Specialization;Battleworn;
+O   HVY011 - Raw Meat (C) {} - Temper;
+OOO HVY012 - Send Packing (M) {2} - 
+OOO HVY013 - Show No Mercy (M) {1} - Rhinar Specialization;Intimidate;
+OOO HVY014 - Cast Bones (M) {1} - 
+OOO HVY015 - Reckless Charge (M) {3} - Kayo Specialization;
+OOO HVY016 - No Fear (M) {1} - 
+OOO HVY017 - Beast Mode (R) {1} - 
+OOO HVY018 - Beast Mode (R) {2} - 
+OOO HVY019 - Beast Mode (R) {3} - 
+OOO HVY020 - Pack Call (R) {1} - 
+OOO HVY021 - Pack Call (R) {2} - 
+OOO HVY022 - Pack Call (R) {3} - 
+OOO HVY023 - Rawhide Rumble (R) {1} - Beat Chest;Intimidate;
+OOO HVY024 - Rawhide Rumble (R) {2} - Beat Chest;Intimidate;
+OOO HVY025 - Rawhide Rumble (R) {3} - Beat Chest;Intimidate;
+OOO HVY026 - Assault and Battery (C) {1} - Beat Chest;
+OOO HVY027 - Assault and Battery (C) {2} - Beat Chest;
+OOO HVY028 - Assault and Battery (C) {3} - Beat Chest;
+OOO HVY029 - Bare Fangs (C) {1} - 
+OOO HVY030 - Bare Fangs (C) {2} - 
+OOO HVY031 - Bare Fangs (C) {3} - 
+OOO HVY032 - Pack Hunt (C) {1} - Intimidate;
+OOO HVY033 - Pack Hunt (C) {2} - Intimidate;
+OOO HVY034 - Pack Hunt (C) {3} - Intimidate;
+OOO HVY035 - Pound Town (C) {1} - Beat Chest;
+OOO HVY036 - Pound Town (C) {2} - Beat Chest;
+OOO HVY037 - Pound Town (C) {3} - Beat Chest;
+OOO HVY038 - Wild Ride (C) {1} - 
+OOO HVY039 - Wild Ride (C) {2} - 
+OOO HVY040 - Wild Ride (C) {3} - 
+OOO HVY041 - Bonebreaker Bellow (C) {1} - Beat Chest;Go again;
+OOO HVY042 - Bonebreaker Bellow (C) {2} - Beat Chest;Go again;
+OOO HVY043 - Bonebreaker Bellow (C) {3} - Beat Chest;Go again;
+OOO HVY044 - Smashback Alehorn (C) {3} - Go again;
+O   HVY045 - Betsy, Skin in the Game (M) {} - 
+O   HVY046 - Betsy (T) {} - 
+O   HVY047 - Victor Goldmane, High and Mighty (M) {} - Clash;
+O   HVY048 - Victor Goldmane (T) {} - Clash;
+O   HVY049 - High Riser (T) {} - 
+OO  HVY050 - Miller's Grindstone (R) {} - Clash;
+O   HVY051 - Aurum Aegis (L) {} - Victor Specialization;Temper;
+O   HVY052 - Stonewall Impasse (R) {} - Temper;Clash;
+O   HVY053 - Gauntlets of Iron Will (L) {} - Temper;
+O   HVY054 - Golden Glare (R) {} - Victor Specialization;Blade Break;
+O   HVY055 - Good Time Chapeau (R) {} - Betsy Specialization;Temper;
+O   HVY056 - Stand Ground (C) {} - Temper;
+OOO HVY057 - Bet Big (M) {1} - Betsy Specialization;Wager;
+OOO HVY058 - Primed to Fight (M) {1} - 
+OOO HVY059 - The Golden Son (M) {2} - Victor Specialization;Overpower;
+OOO HVY060 - Boast (M) {3} - 
+OOO HVY061 - Trounce (M) {1} - Clash;
+OOO HVY062 - Colossal Bearing (R) {1} - Tower;
+OOO HVY063 - Lay Down the Law (R) {1} - Tower;
+OOO HVY064 - Smack of Reality (R) {1} - Tower;
+OOO HVY065 - Over the Top (R) {1} - Overpower;
+OOO HVY066 - Over the Top (R) {2} - Overpower;
+OOO HVY067 - Over the Top (R) {3} - Overpower;
+OOO HVY068 - Stacked in Your Favor (R) {1} - Go again;
+OOO HVY069 - Stacked in Your Favor (R) {2} - Go again;
+OOO HVY070 - Stacked in Your Favor (R) {3} - Go again;
+OOO HVY071 - Command Respect (C) {1} - 
+OOO HVY072 - Command Respect (C) {2} - 
+OOO HVY073 - Command Respect (C) {3} - 
+OOO HVY074 - Concuss (C) {1} - 
+OOO HVY075 - Concuss (C) {2} - 
+OOO HVY076 - Concuss (C) {3} - 
+OOO HVY077 - Thunk (C) {1} - 
+OOO HVY078 - Thunk (C) {2} - 
+OOO HVY079 - Thunk (C) {3} - 
+OOO HVY080 - Wallop (C) {1} - 
+OOO HVY081 - Wallop (C) {2} - 
+OOO HVY082 - Wallop (C) {3} - 
+OOO HVY083 - Big Bop (C) {1} - 
+OOO HVY084 - Big Bop (C) {2} - 
+OOO HVY085 - Big Bop (C) {3} - 
+OOO HVY086 - Bigger Than Big (C) {1} - 
+OOO HVY087 - Bigger Than Big (C) {2} - 
+OOO HVY088 - Bigger Than Big (C) {3} - 
+OOO HVY089 - Pint of Strong and Stout (C) {3} - Go again;
+O   HVY090 - Kassai of the Golden Sand (M) {} - 
+O   HVY091 - Kassai (T) {} - 
+O   HVY092 - Olympia, Prized Fighter (M) {} - 
+O   HVY093 - Olympia (T) {} - 
+O   HVY094 - Cintari Saber (T) {} - 
+OO  HVY095 - Hot Streak (R) {} - Go again;
+OO  HVY096 - Parry Blade (R) {} - Blade Break;
+O   HVY097 - Grains of Bloodspill (L) {} - Temper;
+O   HVY098 - Prized Galea (R) {} - Olympia Specialization;Temper;
+O   HVY099 - Hood of Red Sand (R) {} - Kassai Specialization;Battleworn;
+O   HVY100 - Beckon Applause (C) {} - Temper;
+OOO HVY101 - Blade Flurry (M) {1} - 
+OOO HVY102 - Shift the Tide of Battle (M) {2} - 
+OOO HVY103 - Up the Ante (M) {3} - Olympia Specialization;Wager;
+OOO HVY104 - Commanding Performance (M) {1} - Go again;
+OOO HVY105 - Raise an Army (M) {2} - Kassai Specialization;Go again;
+OOO HVY106 - Cut the Deck (R) {1} - 
+OOO HVY107 - Cut the Deck (R) {2} - 
+OOO HVY108 - Cut the Deck (R) {3} - 
+OOO HVY109 - Fatal Engagement (R) {1} - 
+OOO HVY110 - Fatal Engagement (R) {2} - 
+OOO HVY111 - Fatal Engagement (R) {3} - 
+OOO HVY112 - Take the Upper Hand (R) {1} - 
+OOO HVY113 - Take the Upper Hand (R) {2} - 
+OOO HVY114 - Take the Upper Hand (R) {3} - 
+OOO HVY115 - Agile Engagement (C) {1} - 
+OOO HVY116 - Agile Engagement (C) {2} - 
+OOO HVY117 - Agile Engagement (C) {3} - 
+OOO HVY118 - Vigorous Engagement (C) {1} - 
+OOO HVY119 - Vigorous Engagement (C) {2} - 
+OOO HVY120 - Vigorous Engagement (C) {3} - 
+OOO HVY121 - Draw Swords (C) {1} - Go again;
+OOO HVY122 - Draw Swords (C) {2} - Go again;
+OOO HVY123 - Draw Swords (C) {3} - Go again;
+OOO HVY124 - Edge Ahead (C) {1} - Go again;
+OOO HVY125 - Edge Ahead (C) {2} - Go again;
+OOO HVY126 - Edge Ahead (C) {3} - Go again;
+OOO HVY127 - Engaged Swiftblade (C) {1} - Go again;
+OOO HVY128 - Engaged Swiftblade (C) {2} - Go again;
+OOO HVY129 - Engaged Swiftblade (C) {3} - Go again;
+OOO HVY130 - Hold 'em (C) {1} - Go again;
+OOO HVY131 - Hold 'em (C) {2} - Go again;Wager;
+OOO HVY132 - Hold 'em (C) {3} - Go again;Wager;
+OOO HVY133 - Goblet of Bloodrun Wine (C) {3} - Go again;
+O   HVY134 - Cintari Sellsword (T) {} - 
+O   HVY135 - Gauntlet of Might (C) {} - Blade Break;
+OOO HVY136 - Talk a Big Game (M) {3} - Go again;
+OOO HVY137 - Clash of Might (R) {1} - Clash;
+OOO HVY138 - Clash of Might (R) {2} - Clash;
+OOO HVY139 - Clash of Might (R) {3} - Clash;
+OOO HVY140 - Battered Not Broken (R) {1} - 
+OOO HVY141 - Test of Might (R) {1} - Clash;
+OOO HVY142 - Wall of Meat and Muscle (R) {1} - 
+OOO HVY143 - Mighty Windup (C) {1} - 
+OOO HVY144 - Mighty Windup (C) {2} - 
+OOO HVY145 - Mighty Windup (C) {3} - 
+OOO HVY146 - Rising Power (C) {1} - 
+OOO HVY147 - Rising Power (C) {2} - 
+OOO HVY148 - Rising Power (C) {3} - 
+OOO HVY149 - Wage Might (C) {1} - Wager;
+OOO HVY150 - Wage Might (C) {2} - Wager;
+OOO HVY151 - Wage Might (C) {3} - Wager;
+OOO HVY152 - Lead with Power (C) {1} - Go again;
+OOO HVY153 - Lead with Power (C) {2} - Go again;
+OOO HVY154 - Lead with Power (C) {3} - Go again;
+O   HVY155 - Flat Trackers (C) {} - Blade Break;
+OOO HVY156 - Runner Runner (M) {1} - 
+OOO HVY157 - Clash of Agility (R) {1} - Clash;
+OOO HVY158 - Clash of Agility (R) {2} - Clash;
+OOO HVY159 - Clash of Agility (R) {3} - Clash;
+OOO HVY160 - Take it on the Chin (R) {1} - 
+OOO HVY161 - Run into Trouble (R) {1} - 
+OOO HVY162 - Test of Agility (R) {1} - Clash;
+OOO HVY163 - Agile Windup (C) {1} - 
+OOO HVY164 - Agile Windup (C) {2} - 
+OOO HVY165 - Agile Windup (C) {3} - 
+OOO HVY166 - Rising Speed (C) {1} - Go again;
+OOO HVY167 - Rising Speed (C) {2} - Go again;
+OOO HVY168 - Rising Speed (C) {3} - Go again;
+OOO HVY169 - Wage Agility (C) {1} - 
+OOO HVY170 - Wage Agility (C) {2} - Wager;
+OOO HVY171 - Wage Agility (C) {3} - Wager;
+OOO HVY172 - Lead with Speed (C) {1} - Go again;
+OOO HVY173 - Lead with Speed (C) {2} - Go again;
+OOO HVY174 - Lead with Speed (C) {3} - Go again;
+O   HVY175 - Vigor Girth (C) {} - Blade Break;
+OOO HVY176 - Double Down (M) {1} - Go again;
+OOO HVY177 - Clash of Vigor (R) {1} - Clash;
+OOO HVY178 - Clash of Vigor (R) {2} - Clash;
+OOO HVY179 - Clash of Vigor (R) {3} - Clash;
+OOO HVY180 - Slap-Happy (R) {1} - 
+OOO HVY181 - Hearty Block (R) {1} - 
+OOO HVY182 - Test of Vigor (R) {1} - Clash;
+OOO HVY183 - Rising Energy (C) {1} - 
+OOO HVY184 - Rising Energy (C) {2} - 
+OOO HVY185 - Rising Energy (C) {3} - 
+OOO HVY186 - Vigorous Windup (C) {1} - 
+OOO HVY187 - Vigorous Windup (C) {2} - 
+OOO HVY188 - Vigorous Windup (C) {3} - 
+OOO HVY189 - Wage Vigor (C) {1} - Wager;
+OOO HVY190 - Wage Vigor (C) {2} - Wager;
+OOO HVY191 - Wage Vigor (C) {3} - Wager;
+OOO HVY192 - Lead with Heart (C) {1} - Go again;
+OOO HVY193 - Lead with Heart (C) {2} - Go again;
+OOO HVY194 - Lead with Heart (C) {3} - Go again;
+O   HVY195 - Balance of Justice (L) {} - Guardwell;
+O   HVY196 - Glory Seeker (C) {} - 
+O   HVY197 - Sheltered Cove (C) {} - 
+O   HVY198 - Face Adversity (C) {} - Blade Break;
+O   HVY199 - Confront Adversity (C) {} - Blade Break;
+O   HVY200 - Embrace Adversity (C) {} - Blade Break;
+O   HVY201 - Overcome Adversity (C) {} - Blade Break;
+O   HVY202 - Headliner Helm (C) {} - Blade Break;
+O   HVY203 - Stadium Centerpiece (C) {} - Blade Break;
+O   HVY204 - Ticket Puncher (C) {} - Blade Break;
+O   HVY205 - Grandstand Legplates (C) {} - Blade Break;
+O   HVY206 - Bloodied Oval (C) {} - Blade Break;
+OOO HVY207 - Nasty Surprise (M) {3} - 
+OOO HVY208 - Pay Up (M) {1} - Overpower;
+OOO HVY209 - Ripple Away (M) {3} - 
+OOO HVY210 - Standing Order (M) {1} - 
+OOO HVY211 - Tenacity (M) {2} - 
+OOO HVY212 - Seduce Secrets (M) {2} - 
+OOO HVY213 - Down But Not Out (R) {1} - Overpower;
+OOO HVY214 - Down But Not Out (R) {2} - Overpower;
+OOO HVY215 - Down But Not Out (R) {3} - Overpower;
+OOO HVY216 - Wage Gold (R) {1} - Universal;Wager;
+OOO HVY217 - Wage Gold (R) {2} - Universal;Wager;
+OOO HVY218 - Wage Gold (R) {3} - Universal;Wager;
+OOO HVY219 - Reinforce the Line (R) {1} - 
+OOO HVY220 - Reinforce the Line (R) {2} - 
+OOO HVY221 - Reinforce the Line (R) {3} - 
+OOO HVY222 - Adrenaline Rush (C) {1} - 
+OOO HVY223 - Adrenaline Rush (C) {2} - 
+OOO HVY224 - Adrenaline Rush (C) {3} - 
+OOO HVY225 - Performance Bonus (C) {1} - Go again;
+OOO HVY226 - Performance Bonus (C) {2} - Go again;
+OOO HVY227 - Performance Bonus (C) {3} - Go again;
+OOO HVY228 - Rally the Rearguard (C) {1} - 
+OOO HVY229 - Rally the Rearguard (C) {2} - 
+OOO HVY230 - Rally the Rearguard (C) {3} - 
+OOO HVY231 - Trade In (C) {1} - Go again;
+OOO HVY232 - Trade In (C) {2} - Go again;
+OOO HVY233 - Trade In (C) {3} - Go again;
+OOO HVY234 - Lunging Press (C) {3} - 
+OOO HVY235 - Money Where Ya Mouth Is (C) {1} - Go again;
+OOO HVY236 - Money Where Ya Mouth Is (C) {2} - Go again;
+OOO HVY237 - Money Where Ya Mouth Is (C) {3} - Go again;
+OOO HVY238 - Starting Stake (C) {2} - 
+OOO HVY239 - Test of Strength (C) {1} - Clash;
+O   HVY240 - Agility (T) {} - 
+O   HVY241 - Might (T) {} - 
+O   HVY242 - Vigor (T) {} - 
+O   HVY243 - Gold (T) {} - 
+O   HVY244 - Cracked Bauble (T) {2} - 
+OO  HVY245 - Graven Call (M) {} - Piercing 1;
+OOO HVY246 - Coercive Tendency (M) {3} - Arakni Specialization;
+OOO HVY247 - Ancestral Harmony (M) {3} - Go again;
+O   HVY248 - Evo Magneto (M) {3} - Temper;
+O   HVY249 - Judge, Jury, Executioner (M) {1} - Legendary;Azalea Specialization;
+OOO HVY250 - Reel In (M) {3} - Reload;
+OOO HVY251 - Sonata Galaxia (M) {1} - Go again;
+OOO HVY252 - Aether Arc (M) {3} - 
+OOO HVY253 - Dissolve Reality (M) {2} - Go again;
+O   HVY254 - Luminaris, Angel's Glow (M) {} - 
