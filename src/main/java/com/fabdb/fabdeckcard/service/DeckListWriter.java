@@ -1,43 +1,10 @@
 package com.fabdb.fabdeckcard.service;
 
-import com.fabdb.fabdeckcard.domain.Card;
-import com.fabdb.fabdeckcard.domain.Deck;
-import com.itextpdf.io.image.ImageDataFactory;
-import com.itextpdf.kernel.colors.ColorConstants;
-import com.itextpdf.kernel.font.PdfFont;
-import com.itextpdf.kernel.geom.PageSize;
-import com.itextpdf.kernel.geom.Rectangle;
-import com.itextpdf.kernel.pdf.PdfDocument;
-import com.itextpdf.kernel.pdf.PdfPage;
-import com.itextpdf.kernel.pdf.PdfWriter;
-import com.itextpdf.kernel.pdf.canvas.PdfCanvas;
-import com.itextpdf.kernel.pdf.canvas.PdfCanvasConstants;
-import com.itextpdf.layout.Document;
-import com.itextpdf.layout.borders.Border;
-import com.itextpdf.layout.borders.SolidBorder;
-import com.itextpdf.layout.element.*;
-import com.itextpdf.layout.layout.LayoutContext;
-import com.itextpdf.layout.layout.LayoutResult;
-import com.itextpdf.layout.property.Property;
-import com.itextpdf.layout.property.TextAlignment;
-import com.itextpdf.layout.property.UnitValue;
-import com.itextpdf.layout.renderer.CellRenderer;
-import com.itextpdf.layout.renderer.IRenderer;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.ClassPathResource;
-import org.springframework.core.io.Resource;
-import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Service;
-
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.math.BigDecimal;
-import java.net.MalformedURLException;
-import java.nio.file.Files;
 
 @Service
 public class DeckListWriter {
-
+/**
     @Autowired
     ResourceLoader resourceLoader;
 
@@ -233,10 +200,9 @@ public class DeckListWriter {
             return new FitCellRenderer((Cell) modelElement, content, false);
         }
 
-        /**
-         * Method adapts content, that can't be fit into the cell,
-         * to prevent truncation by replacing truncated part of content with '...'
-         */
+         // Method adapts content, that can't be fit into the cell,
+         // to prevent truncation by replacing truncated part of content with '...'
+
         @Override
         public LayoutResult layout(LayoutContext layoutContext) {
             PdfFont bf = getPropertyAsFont(Property.FONT);
@@ -306,4 +272,5 @@ public class DeckListWriter {
             return super.layout(layoutContext);
         }
     }
+        */
 }

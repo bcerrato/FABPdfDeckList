@@ -1,20 +1,21 @@
 package com.fabdb.fabdeckcard.service;
 
 import com.fabdb.fabdeckcard.domain.Card;
-import com.fabdb.fabdeckcard.domain.Deck;
 import com.fabdb.fabdeckcard.domain.Printing;
 import org.springframework.stereotype.Service;
 
 import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Service
 public class SetListWriterService {
 
     public void writeCards(BufferedWriter writer, String set, List<Card> cards)
     {
+        cards = cards.stream().sorted(Comparator.comparing(c -> c.set_printing(set).id())).collect(Collectors.toList());
         try {
             for(Card card:cards) {
                 writer.write(getCardRow(card, set));
@@ -27,12 +28,12 @@ public class SetListWriterService {
     private String getCardRow(Card card, String set) {
         StringBuffer row = new StringBuffer();
         int collect = 3;
-        if (card.getKeywords() != null) {
-            if (card.getKeywords().contains("hero") || card.getKeywords().contains("equipment") ||
-                    card.getKeywords().contains("weapon") || card.getKeywords().contains("off-hand")) {
+        if (card.types() != null) {
+            if (card.types().contains("Hero") || card.types().contains("Equipment") ||
+                    card.types().contains("Weapon") || card.types().contains("Off-Hand")) {
                 collect = 1;
             }
-            if (card.getKeywords().contains("1h")) {
+            if (card.types().contains("1H")) {
                 collect = 2;
             }
 
@@ -40,8 +41,9 @@ public class SetListWriterService {
         else {
             System.out.println("null stats");
         }
-        if (card.getText()!= null && card.getText().contains("**Legendary**")) collect = 1;
-        if (card.getRarity().equals("T")) collect = 1;
+        if (card.card_keywords()!= null && card.card_keywords().contains("Legendary")) collect = 1;
+        Printing printing = card.printings().stream().filter(p -> p.set_id().equals(set)).findFirst().get();
+        if (printing.rarity().equals("T")) collect = 1;
         for (int i = 0; i < 3; i++) {
             if (i < collect)
                 row.append("O");
@@ -49,27 +51,17 @@ public class SetListWriterService {
                 row.append(" ");
         }
         row.append(" ");
-        row.append(set.toUpperCase());
-        String setNumber = getSetNumber(card.getPrintings(),set);
+        String setNumber = printing.id();
         row.append(setNumber).append(" - ");
-        row.append(card.getName());
-        row.append(" (").append(card.getRarity()).append(")");
-        if (card.getStats() != null && card.getStats().getResource() != null) row.append(" {").append(card.getStats().getResource()).append("}");
+        row.append(card.name());
+        row.append(" (").append(printing.rarity()).append(")");
+        if (card.pitch() != null) row.append(" {").append(card.pitch()).append("}");
         row.append(" - ");
-        for(String keyword:card.getKeywords()) {
+        for(String keyword:card.card_keywords()) {
             row.append(keyword).append(";");
         }
         row.append("\n");
 
         return row.toString();
     }
-
-    private String getSetNumber(List<Printing> printings, String set) {
-        for(Printing printing:printings) {
-            if (printing.getSku().getSku().startsWith(set.toUpperCase()))
-                return printing.getSku().getNumber();
-        }
-        return printings.get(0).getSku().getNumber();
-    }
-
 }

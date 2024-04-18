@@ -1,39 +1,25 @@
 package com.fabdb.fabdeckcard.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import lombok.Data;
 
 import java.util.List;
 
-@Data
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class Card {
-    String identifier;
-    String name;
-    String rarity;
-    @JsonDeserialize(using = StatsDeserializer.class)
-    Stats stats;
-    String text;
-    List<String> keywords;
-    String flavour;
-    String comments;
-    String image;
-    Integer total;
-    List<Printing> printings;
+public record Card (
+    String unique_id, String name, String pitch, String cost,
+    String power, String defense, String health, String intelligence,
+    List<String> types, List<String> card_keywords,
+    List<String> abilities_and_effects, List<String> ability_and_effect_keywords,
+    List<String> granted_keywords, List<String> removed_keywords,
+    List<String> interacts_with_keywords, String functional_text,
+    String functional_text_plain, String type_text, Boolean played_horizontally,
+    Boolean blitz_legal, Boolean cc_legal, Boolean commoner_legal,
+    Boolean blitz_living_legend, Boolean cc_living_legend, Boolean blitz_banned,
+    Boolean cc_banned, Boolean commoner_banned, Boolean upf_banned,
+    Boolean blitz_suspended, Boolean cc_suspended, Boolean commoner_suspended,
+    Boolean ll_restricted, List<Printing> printings)
+{
+    public Printing set_printing(String set) {
+        return printings().stream().filter(p -> p.set_id().equals(set)).findFirst().get();
+    }
 }
-
-/**
- * {
- *  *             "identifier": "WTR082",
- *  *             "name": "Ancestral Empowerment",
- *  *             "rarity": "M",
- *  *             "stats": {"cost": "0", "defense": "2", "resource": "1"},
- *  *             "text": "",
- *  *             "keywords":["ninja", "attack", "reaction"],
- *  *             "flavour": "",
- *  *             "comments": "",
- *  *             "image": "https:\/\/fabdb2.imgix.net\/cards\/wtr\/82.png?w=300&fit=clip&auto=compress",
- *  *             "total": 3
- *  *         },
- */
