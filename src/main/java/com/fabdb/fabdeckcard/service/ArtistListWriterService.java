@@ -16,14 +16,7 @@ public class ArtistListWriterService {
 
     public void writeCards(BufferedWriter writer, String set, List<Card> cards)
     {
-        List<String> artists = new ArrayList<>();
-        for (Card card: cards) {
-            Printing printing = card.set_printing(set);
-            if (!artists.contains(printing.artist())) {
-                artists.add(printing.artist());
-            }
-        }
-//        cards = cards.stream().sorted(Comparator.comparing(c -> c.set_printing(set).id())).collect(Collectors.toList());
+        List<String> artists = cards.stream().map(c -> c.set_printing(set).artist()).distinct().toList();
         try {
             writer.write(set);
             writer.write("\n");
