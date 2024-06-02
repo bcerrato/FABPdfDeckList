@@ -38,7 +38,7 @@ public class FabDeckCardApplication {
     public CommandLineRunner commandLineRunner(ApplicationContext ctx)
     {
         return args -> {
-            List<String> sets = Arrays.asList("ARC","CRU","DYN","ELE","EVR","MON","UPR","WTR","1HP","UPR","DTD","HVY");
+            List<String> sets = Arrays.asList("ARC","CRU","DYN","ELE","EVR","MON","UPR","WTR","1HP","UPR","DTD","HVY","MST");
             for (String set:sets) {
                 BufferedWriter writer = null;
                 BufferedWriter artistWriter = null;
