@@ -1,0 +1,257 @@
+O   ROS000 - Will of Arcana (F) {3} - Legendary;Amp 1;
+O   ROS001 - Florian, Rotwood Harbinger (M) {} - Essence of Earth;
+O   ROS002 - Florian (T) {} - Essence of Earth;
+O   ROS003 - Rotwood Reaper (T) {} - 
+OOO ROS004 - Germinate (M) {3} - Florian Specialization;
+OOO ROS005 - Thistle Bloom // Life (M) {2} - Meld;
+OOO ROS006 - Arcane Seeds // Life (R) {1} - Meld;Go again;
+O   ROS007 - Aurora, Shooting Star (M) {} - Essence of Lightning;
+O   ROS008 - Aurora (T) {} - Essence of Lightning;
+O   ROS009 - Star Fall (T) {} - Go again;
+OOO ROS010 - Arc Lightning (M) {2} - Aurora Specialization;Go again;
+OOO ROS011 - Vaporize // Shock (M) {2} - Meld;
+OOO ROS012 - Burn Up // Shock (R) {1} - Go again;Meld;
+O   ROS013 - Verdance, Thorn of the Rose (M) {} - Essence of Earth;
+O   ROS014 - Verdance (T) {} - Essence of Earth;
+O   ROS015 - Staff of Verdant Shoots (T) {} - 
+OOO ROS016 - Heartbeat of Candlehold (M) {3} - Verdance Specialization;Go again;
+OOO ROS017 - Rampant Growth // Life (M) {2} - Meld;Amp X;
+OOO ROS018 - Pulsing Aether // Life (R) {1} - Meld;
+O   ROS019 - Oscilio, Constella Intelligence (M) {} - Essence of Lightning;
+O   ROS020 - Oscilio (T) {} - Essence of Lightning;
+O   ROS021 - Volzar, the Lightning Rod (T) {} - 
+OOO ROS022 - Sigil of Brilliance (M) {2} - Oscilio Specialization;
+OOO ROS023 - Null // Shock (M) {2} - Meld;Negate;
+OOO ROS024 - Comet Storm // Shock (R) {1} - Meld;
+O   ROS025 - Embodiment of Earth (T) {} - 
+O   ROS026 - Embodiment of Lightning (T) {} - 
+O   ROS027 - Sanctuary of Aria (T) {} - 
+O   ROS028 - Barkskin of the Millennium Tree (L) {} - Temper;
+O   ROS029 - Helm of Lignum Vitae (C) {} - Blade Break;
+O   ROS030 - Well Grounded (C) {} - 
+OOO ROS031 - Felling of the Crown (M) {1} - Decompose;
+OOO ROS032 - Plow Under (M) {2} - Decompose;
+OOO ROS033 - Channel the Millennium Tree (M) {1} - Go again;Channel Earth;Amp 3;
+OOO ROS034 - Earth's Embrace (M) {3} - Go again;
+OOO ROS035 - Seeds of Tomorrow (M) {3} - 
+OOO ROS036 - Earth Form (R) {1} - 
+OOO ROS037 - Earth Form (R) {2} - 
+OOO ROS038 - Earth Form (R) {3} - 
+OOO ROS039 - Summer's Fall (R) {1} - Decompose;
+OOO ROS040 - Summer's Fall (R) {2} - Decompose;
+OOO ROS041 - Summer's Fall (R) {3} - Decompose;
+OOO ROS042 - Rootbound Carapace (R) {1} - Decompose;
+OOO ROS043 - Rootbound Carapace (R) {2} - Decompose;
+OOO ROS044 - Rootbound Carapace (R) {3} - Decompose;
+OOO ROS045 - Sigil of Sanctuary (R) {3} - Arcane Shelter 1;
+OOO ROS046 - Autumn's Touch (C) {1} - 
+OOO ROS047 - Autumn's Touch (C) {2} - 
+OOO ROS048 - Autumn's Touch (C) {3} - 
+OOO ROS049 - Blossoming Decay (C) {1} - Decompose;
+OOO ROS050 - Blossoming Decay (C) {2} - Decompose;
+OOO ROS051 - Blossoming Decay (C) {3} - Decompose;
+OOO ROS052 - Cadaverous Tilling (C) {1} - Decompose;
+OOO ROS053 - Cadaverous Tilling (C) {2} - Decompose;
+OOO ROS054 - Cadaverous Tilling (C) {3} - Decompose;
+OOO ROS055 - Fruits of the Forest (C) {1} - 
+OOO ROS056 - Fruits of the Forest (C) {2} - 
+OOO ROS057 - Fruits of the Forest (C) {3} - 
+OOO ROS058 - Strength of Four Seasons (C) {1} - 
+OOO ROS059 - Strength of Four Seasons (C) {2} - 
+OOO ROS060 - Strength of Four Seasons (C) {3} - 
+OOO ROS061 - Harvest Season (C) {1} - Go again;
+OOO ROS062 - Harvest Season (C) {2} - Go again;
+OOO ROS063 - Harvest Season (C) {3} - Go again;
+OOO ROS064 - Strong Yield (C) {1} - Go again;
+OOO ROS065 - Strong Yield (C) {2} - Go again;
+OOO ROS066 - Strong Yield (C) {3} - Go again;
+OOO ROS067 - Fertile Ground (C) {1} - 
+OOO ROS068 - Fertile Ground (C) {2} - 
+OOO ROS069 - Fertile Ground (C) {3} - 
+OOO ROS070 - Sigil of Earth (C) {3} - Go again;
+O   ROS071 - Lightning Greaves (L) {} - Arcane Barrier 1;Battleworn;
+O   ROS072 - Flash of Brilliance (C) {} - Blade Break;
+O   ROS073 - Twinkle Toes (C) {} - 
+OOO ROS074 - Current Funnel (M) {3} - Go again;
+OOO ROS075 - Eclectic Magnetism (M) {1} - 
+OOO ROS076 - Gone in a Flash (M) {1} - 
+OOO ROS077 - Channel Lightning Valley (M) {2} - Channel Lightning;
+OOO ROS078 - High Voltage (M) {3} - Amp 1;
+OOO ROS079 - Blast to Oblivion (R) {1} - 
+OOO ROS080 - Blast to Oblivion (R) {2} - 
+OOO ROS081 - Blast to Oblivion (R) {3} - 
+OOO ROS082 - Lightning Form (R) {1} - 
+OOO ROS083 - Lightning Form (R) {2} - 
+OOO ROS084 - Lightning Form (R) {3} - 
+OOO ROS085 - Electromagnetic Somersault (R) {1} - 
+OOO ROS086 - Electromagnetic Somersault (R) {2} - 
+OOO ROS087 - Electromagnetic Somersault (R) {3} - 
+OOO ROS088 - Sigil of Conductivity (R) {3} - Arcane Shelter 1;
+OOO ROS089 - Flittering Charge (C) {1} - Go again;
+OOO ROS090 - Flittering Charge (C) {2} - Go again;
+OOO ROS091 - Flittering Charge (C) {3} - Go again;
+OOO ROS092 - Fry (C) {1} - Go again;
+OOO ROS093 - Fry (C) {2} - Go again;
+OOO ROS094 - Fry (C) {3} - Go again;
+OOO ROS095 - Heaven's Claws (C) {1} - 
+OOO ROS096 - Heaven's Claws (C) {2} - 
+OOO ROS097 - Heaven's Claws (C) {3} - 
+OOO ROS098 - Lightning Surge (C) {1} - Go again;
+OOO ROS099 - Lightning Surge (C) {2} - Go again;
+OOO ROS100 - Lightning Surge (C) {3} - Go again;
+OOO ROS101 - Second Strike (C) {1} - Go again;
+OOO ROS102 - Second Strike (C) {2} - Go again;
+OOO ROS103 - Second Strike (C) {3} - Go again;
+OOO ROS104 - Trip the Light Fantastic (C) {1} - 
+OOO ROS105 - Trip the Light Fantastic (C) {2} - 
+OOO ROS106 - Trip the Light Fantastic (C) {3} - 
+OOO ROS107 - Flash (C) {1} - Go again;
+OOO ROS108 - Flash (C) {2} - Go again;
+OOO ROS109 - Flash (C) {3} - Go again;
+OOO ROS110 - Electrostatic Discharge (C) {1} - 
+OOO ROS111 - Electrostatic Discharge (C) {2} - 
+OOO ROS112 - Electrostatic Discharge (C) {3} - 
+OOO ROS113 - Sigil of Lightning (C) {3} - 
+O   ROS114 - Face Purgatory (L) {} - Blade Break;
+O   ROS115 - Bloodtorn Bodice (C) {} - 
+O   ROS116 - Runehold Release (C) {} - 
+OOO ROS117 - Snuff Out (M) {1} - 
+OOO ROS118 - Machinations of Dominion (M) {3} - Go again;
+OOO ROS119 - Succumb to Temptation (M) {2} - Go again;
+OOO ROS120 - Haunting Rendition (M) {1} - 
+OOO ROS121 - Splintering Deadwood (R) {1} - 
+OOO ROS122 - Splintering Deadwood (R) {2} - 
+OOO ROS123 - Splintering Deadwood (R) {3} - 
+OOO ROS124 - Vantage Point (R) {1} - Overpower;
+OOO ROS125 - Vantage Point (R) {2} - Overpower;
+OOO ROS126 - Vantage Point (R) {3} - Overpower;
+OOO ROS127 - Condemn to Slaughter (R) {1} - Go again;
+OOO ROS128 - Condemn to Slaughter (R) {2} - Go again;
+OOO ROS129 - Condemn to Slaughter (R) {3} - Go again;
+OOO ROS130 - Malefic Incantation (R) {1} - Go again;
+OOO ROS131 - Malefic Incantation (R) {2} - Go again;
+OOO ROS132 - Malefic Incantation (R) {3} - Go again;
+OOO ROS133 - Sigil of the Arknight (R) {3} - Go again;
+OOO ROS134 - Arcanic Spike (C) {1} - 
+OOO ROS135 - Arcanic Spike (C) {2} - 
+OOO ROS136 - Arcanic Spike (C) {3} - 
+OOO ROS137 - Consuming Volition (C) {1} - 
+OOO ROS138 - Consuming Volition (C) {2} - 
+OOO ROS139 - Consuming Volition (C) {3} - 
+OOO ROS140 - Hit the High Notes (C) {1} - 
+OOO ROS141 - Hit the High Notes (C) {2} - 
+OOO ROS142 - Hit the High Notes (C) {3} - 
+OOO ROS143 - Hocus Pocus (C) {1} - 
+OOO ROS144 - Hocus Pocus (C) {2} - 
+OOO ROS145 - Hocus Pocus (C) {3} - 
+OOO ROS146 - Meat and Greet (C) {1} - Go again;
+OOO ROS147 - Meat and Greet (C) {2} - Go again;
+OOO ROS148 - Meat and Greet (C) {3} - Go again;
+OOO ROS149 - Runerager Swarm (C) {1} - Go again;
+OOO ROS150 - Runerager Swarm (C) {2} - Go again;
+OOO ROS151 - Runerager Swarm (C) {3} - Go again;
+OOO ROS152 - Arcane Cussing (C) {1} - Go again;
+OOO ROS153 - Arcane Cussing (C) {2} - Go again;
+OOO ROS154 - Arcane Cussing (C) {3} - Go again;
+OOO ROS155 - Deadwood Dirge (C) {1} - Go again;
+OOO ROS156 - Deadwood Dirge (C) {2} - Go again;
+OOO ROS157 - Deadwood Dirge (C) {3} - Go again;
+OOO ROS158 - Oath of the Arknight (C) {1} - Go again;
+OOO ROS159 - Oath of the Arknight (C) {2} - Go again;
+OOO ROS160 - Oath of the Arknight (C) {3} - Go again;
+OOO ROS161 - Sigil of Deadwood (C) {3} - Go again;
+O   ROS162 - Runechant (T) {} - 
+O   ROS163 - Aether Bindings of the Third Age (L) {} - Battleworn;
+O   ROS164 - Ink-lined Cloak (C) {} - 
+O   ROS165 - Hold Focus (C) {} - 
+OOO ROS166 - Destructive Aethertide (M) {3} - Surge;
+OOO ROS167 - Eternal Inferno (M) {1} - Surge;
+OOO ROS168 - Sigil of Aether (M) {3} - Amp 1;
+OOO ROS169 - Mental Block (M) {3} - 
+OOO ROS170 - Chorus of the Amphitheater (R) {1} - 
+OOO ROS171 - Chorus of the Amphitheater (R) {2} - 
+OOO ROS172 - Chorus of the Amphitheater (R) {3} - 
+OOO ROS173 - Glyph Overlay (R) {1} - Surge;
+OOO ROS174 - Glyph Overlay (R) {2} - Surge;
+OOO ROS175 - Glyph Overlay (R) {3} - Surge;
+OOO ROS176 - Pop the Bubble (R) {1} - Surge;
+OOO ROS177 - Pop the Bubble (R) {2} - Surge;
+OOO ROS178 - Pop the Bubble (R) {3} - Surge;
+OOO ROS179 - Save the Thought (R) {1} - 
+OOO ROS180 - Save the Thought (R) {2} - 
+OOO ROS181 - Save the Thought (R) {3} - 
+OOO ROS182 - Sigil of Temporal Manipulation (R) {3} - 
+OOO ROS183 - Aether Quickening (C) {1} - Surge;Go again;
+OOO ROS184 - Aether Quickening (C) {2} - Surge;Go again;
+OOO ROS185 - Aether Quickening (C) {3} - Surge;Go again;
+OOO ROS186 - Arcane Twining (C) {1} - 
+OOO ROS187 - Arcane Twining (C) {2} - 
+OOO ROS188 - Arcane Twining (C) {3} - 
+OOO ROS189 - Etchings of Arcana (C) {1} - Surge;
+OOO ROS190 - Etchings of Arcana (C) {2} - Surge;
+OOO ROS191 - Etchings of Arcana (C) {3} - Surge;
+OOO ROS192 - Exploding Aether (C) {1} - Amp 3;Go again;
+OOO ROS193 - Exploding Aether (C) {2} - Amp 2;Go again;
+OOO ROS194 - Exploding Aether (C) {3} - Amp 1;Go again;
+OOO ROS195 - Open the Flood Gates (C) {1} - Surge;
+OOO ROS196 - Open the Flood Gates (C) {2} - Surge;
+OOO ROS197 - Open the Flood Gates (C) {3} - Surge;
+OOO ROS198 - Overflow the Aetherwell (C) {1} - Surge;
+OOO ROS199 - Overflow the Aetherwell (C) {2} - Surge;
+OOO ROS200 - Overflow the Aetherwell (C) {3} - Surge;
+OOO ROS201 - Perennial Aetherbloom (C) {1} - Surge;
+OOO ROS202 - Perennial Aetherbloom (C) {2} - Surge;
+OOO ROS203 - Perennial Aetherbloom (C) {3} - Surge;
+OOO ROS204 - Photon Splicing (C) {1} - 
+OOO ROS205 - Photon Splicing (C) {2} - 
+OOO ROS206 - Photon Splicing (C) {3} - 
+OOO ROS207 - Trailblazing Aether (C) {1} - Surge;
+OOO ROS208 - Trailblazing Aether (C) {2} - Surge;
+OOO ROS209 - Trailblazing Aether (C) {3} - Surge;
+OOO ROS210 - Sigil of Forethought (C) {3} - 
+O   ROS211 - Arcanite Fortress (L) {} - Spellvoid X;Guardwell;
+O   ROS212 - Hood of Second Thoughts (C) {} - 
+O   ROS213 - Bruised Leather (C) {} - 
+O   ROS214 - Four Finger Gloves (C) {} - 
+O   ROS215 - Runaways (C) {} - 
+OOO ROS216 - Cut Through the Facade (M) {1} - 
+OOO ROS217 - Ten Foot Tall and Bulletproof (M) {1} - 
+OOO ROS218 - Call to the Grave (M) {3} - Go again;
+OOO ROS219 - Truce (M) {3} - 
+OOO ROS220 - Hand Behind the Pen (R) {1} - 
+OOO ROS221 - Smash Up (R) {1} - 
+OOO ROS222 - Tongue Tied (R) {1} - 
+OOO ROS223 - Count Your Blessings (R) {1} - 
+OOO ROS224 - Count Your Blessings (R) {2} - 
+OOO ROS225 - Count Your Blessings (R) {3} - 
+OOO ROS226 - Sigil of Cycles (R) {3} - Go again;
+OOO ROS227 - Fyendal's Fighting Spirit (C) {1} - 
+OOO ROS228 - Fyendal's Fighting Spirit (C) {2} - 
+OOO ROS229 - Fyendal's Fighting Spirit (C) {3} - 
+OOO ROS230 - Sigil of Fyendal (C) {3} - Go again;
+OOO ROS231 - Arcane Polarity (C) {1} - 
+OOO ROS232 - Arcane Polarity (C) {2} - 
+OOO ROS233 - Arcane Polarity (C) {3} - 
+OOO ROS234 - Brush Off (C) {1} - 
+OOO ROS235 - Brush Off (C) {2} - 
+OOO ROS236 - Brush Off (C) {3} - 
+O   ROS237 - Ponder (T) {} - 
+O   ROS238 - Cracked Bauble (T) {2} - 
+O   ROS239 - Widow Veil Respirator (M) {} - Arcane Barrier 1;Spellvoid 1;
+O   ROS240 - Widow Back Abdomen (M) {} - Arcane Barrier 1;Spellvoid 1;
+O   ROS241 - Widow Claw Tarsus (M) {} - Arcane Barrier 1;Spellvoid 1;
+O   ROS242 - Widow Web Crawler (M) {} - Arcane Barrier 1;Spellvoid 1;
+OOO ROS243 - Splatter Skull (M) {1} - 
+OOO ROS244 - Drink 'Em Under the Table (M) {1} - Betsy Specialization;Wager;
+OOO ROS245 - Gustwave of the Second Wind (M) {1} - Combo;Go again;
+O   ROS246 - Adaptive Dissolver (M) {} - Modular;Arcane Barrier 1;
+OOO ROS247 - Plan for the Worst (M) {3} - 
+OOO ROS248 - Unsheathed (M) {1} - Go again;
+O   ROS249 - Calming Cloak (M) {} - Arcane Barrier 1;
+O   ROS250 - Calming Gesture (M) {} - Arcane Barrier 1;
+O   ROS251 - Fluttersteps (M) {} - Ward 1;
+OOO ROS252 - Dust from the Fertile Fields (M) {1} - Material;
+OOO ROS253 - Regrowth // Shock (M) {3} - Meld;Go again;
+O   ROS254 - Briar, Warden of Thorns (V) {} - Essence of Earth and Lightning;
+O   ROS255 - Briar (V) {} - Essence of Earth and Lightning;
+O   ROS256 - Rosetta Thorn (V) {} - 
