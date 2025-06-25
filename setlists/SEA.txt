@@ -1,0 +1,265 @@
+O   SEA000 - Riches of Trōpal-Dhani (F) {2} - Legendary;
+O   SEA001 - Puffin, Hightail (B) {} - 
+O   SEA002 - Puffin (B) {} - 
+O   SEA003 - Polly Cranka (L) {} - Crank;Perched;
+OOO SEA004 - Golden Skywarden (M) {2} - Galvanize;
+OOO SEA005 - Jolly Bludger (M) {2} - Overpower;Steal;
+O   SEA006 - Cogwerx Blunderbuss (B) {} - 
+O   SEA007 - Spitfire (B) {} - 
+O   SEA008 - Cogwerx Tinker Rings (L) {} - Blade Break;
+O   SEA009 - Rust Belt (C) {} - Battleworn;
+O   SEA010 - Unicycle (C) {} - Battleworn;
+OOO SEA011 - Cogwerx Dovetail (M) {1} - Go again;
+OOO SEA012 - Palantir Aeronought (M) {1} - 
+OOO SEA013 - Cog in the Machine (M) {1} - 
+OOO SEA014 - Cogwerx Workshop (M) {3} - 
+OOO SEA015 - Cloud City Steamboat (R) {1} - 
+OOO SEA016 - Cloud City Steamboat (R) {2} - 
+OOO SEA017 - Cloud City Steamboat (R) {3} - 
+OOO SEA018 - Cogwerx Zeppelin (R) {1} - 
+OOO SEA019 - Cogwerx Zeppelin (R) {2} - 
+OOO SEA020 - Cogwerx Zeppelin (R) {3} - 
+OOO SEA021 - Copper Cog (R) {3} - Unlimited;Crank;
+OOO SEA022 - Lubricate (R) {3} - 
+OOO SEA023 - Pinion Sentry (R) {3} - 
+OOO SEA024 - Cloud Skiff (C) {1} - Go again;
+OOO SEA025 - Cloud Skiff (C) {2} - Go again;
+OOO SEA026 - Cloud Skiff (C) {3} - Go again;
+OOO SEA027 - Sky Skimmer (C) {1} - 
+OOO SEA028 - Sky Skimmer (C) {2} - 
+OOO SEA029 - Sky Skimmer (C) {3} - 
+OOO SEA030 - Teeth of the Cog (C) {1} - Galvanize;
+OOO SEA031 - Teeth of the Cog (C) {2} - Galvanize;
+OOO SEA032 - Teeth of the Cog (C) {3} - Galvanize;
+OOO SEA033 - Tough Old Wrench (C) {1} - Galvanize;
+OOO SEA034 - Tough Old Wrench (C) {2} - Galvanize;
+OOO SEA035 - Tough Old Wrench (C) {3} - Galvanize;
+OOO SEA036 - Goldwing Turbine (C) {1} - 
+OOO SEA037 - Goldwing Turbine (C) {2} - 
+OOO SEA038 - Goldwing Turbine (C) {3} - 
+OOO SEA039 - Draw Back the Hammer (C) {1} - Go again;
+OOO SEA040 - Perk Up (C) {1} - Go again;
+OOO SEA041 - Tighten the Screws (C) {1} - Go again;
+OOO SEA042 - Golden Cog (B) {} - Crank;
+O   SEA043 - Gravy Bones, Shipwrecked Looter (B) {} - 
+O   SEA044 - Gravy Bones (B) {} - 
+O   SEA045 - Compass of Sunken Depths (B) {} - 
+O   SEA046 - Washed Up Wave (C) {} - Blade Break;
+OOO SEA047 - Blood in the Water (M) {1} - 
+OOO SEA048 - Chart the High Seas (M) {3} - Go again;
+OOO SEA049 - Give No Quarter (M) {3} - Go again;
+OOO SEA050 - Chum, Friendly First Mate (M) {2} - Watery Grave;
+OOO SEA051 - Moray le Fay (M) {2} - Watery Grave;
+OOO SEA052 - Wailer Humperdinck (M) {2} - Watery Grave;
+OOO SEA053 - Board the Ship (R) {1} - Overpower;
+OOO SEA054 - Paddle Faster (R) {1} - Go again;
+OOO SEA055 - Hoist 'Em Up (R) {1} - 
+OOO SEA056 - Avast Ye! (R) {3} - Go again;
+OOO SEA057 - Heave Ho! (R) {3} - Go again;
+OOO SEA058 - Yo Ho Ho! (R) {3} - Go again;
+OOO SEA059 - Kelpie, Tangled Mess (R) {2} - Watery Grave;
+OOO SEA060 - Limpit, Hop-a-long (R) {2} - Watery Grave;
+OOO SEA061 - Scooba, Salty Sea Dog (R) {2} - Watery Grave;
+OOO SEA062 - Angry Bones (C) {1} - 
+OOO SEA063 - Angry Bones (C) {2} - 
+OOO SEA064 - Angry Bones (C) {3} - 
+OOO SEA065 - Burly Bones (C) {1} - Overpower;
+OOO SEA066 - Burly Bones (C) {2} - Overpower;
+OOO SEA067 - Burly Bones (C) {3} - Overpower;
+OOO SEA068 - Jittery Bones (C) {1} - Go again;
+OOO SEA069 - Jittery Bones (C) {2} - Go again;
+OOO SEA070 - Jittery Bones (C) {3} - Go again;
+OOO SEA071 - Restless Bones (C) {1} - Go again;
+OOO SEA072 - Restless Bones (C) {2} - Go again;
+OOO SEA073 - Restless Bones (C) {3} - Go again;
+OOO SEA074 - Barnacle (C) {2} - Watery Grave;
+OOO SEA075 - Chowder, Hearty Cook (C) {2} - Watery Grave;
+OOO SEA076 - Cutty Shark, Quick Clip (C) {2} - Watery Grave;
+OOO SEA077 - Riggermortis (C) {2} - Watery Grave;
+OOO SEA078 - Shelly, Hardened Traveler (C) {2} - Watery Grave;
+OOO SEA079 - Swabbie (C) {2} - Watery Grave;
+O   SEA080 - Dead Threads (L) {} - Blade Break;
+O   SEA081 - Head Stone (C) {} - Battleworn;
+O   SEA082 - Marlynn, Treasure Hunter (B) {} - 
+O   SEA083 - Marlynn (B) {} - 
+O   SEA084 - Hammerhead, Harpoon Cannon (B) {} - 
+OOO SEA085 - King Kraken Harpoon (M) {1} - Go Fish;
+OOO SEA086 - King Shark Harpoon (M) {1} - Go Fish;
+OOO SEA087 - Big Game Trophy Shot (M) {2} - Go again;
+OOO SEA088 - Gold the Tip (M) {2} - Go again;
+OOO SEA089 - Blue Fin Harpoon (R) {3} - Go Fish;
+OOO SEA090 - Red Fin Harpoon (R) {3} - Go Fish;
+OOO SEA091 - Yellow Fin Harpoon (R) {3} - Go Fish;
+OOO SEA092 - Rusty Harpoon (C) {3} - 
+OOO SEA093 - Goldfin Harpoon (B) {} - 
+O   SEA094 - Redspine Manta (B) {} - 
+O   SEA095 - Sealace Sarong (L) {} - Blade Break;
+O   SEA096 - Patch the Hole (C) {} - 
+O   SEA097 - Glidewell Fins (C) {} - Battleworn;
+OOO SEA098 - Barbed Barrage (M) {1} - 
+OOO SEA099 - Return Fire (M) {1} - 
+OOO SEA100 - Drop the Anchor (R) {1} - Go again;
+OOO SEA101 - Fire in the Hole (R) {1} - Go again;
+OOO SEA102 - Monkey Powder (R) {1} - Go again;
+OOO SEA103 - Hook (R) {3} - Go again;
+OOO SEA104 - Line (R) {3} - Go again;
+OOO SEA105 - Sinker (R) {3} - Go again;
+OOO SEA106 - Dry Powder Shot (C) {1} - 
+OOO SEA107 - Entangling Shot (C) {1} - 
+OOO SEA108 - Nettling Shot (C) {1} - 
+OOO SEA109 - Scouting Shot (C) {1} - 
+OOO SEA110 - Swift Shot (C) {1} - Go again;
+OOO SEA111 - Head Shot (C) {1} - 
+OOO SEA112 - Head Shot (C) {2} - 
+OOO SEA113 - Head Shot (C) {3} - 
+OOO SEA114 - Salvage Shot (C) {1} - 
+OOO SEA115 - Salvage Shot (C) {2} - 
+OOO SEA116 - Salvage Shot (C) {3} - 
+OOO SEA117 - Sic 'Em Shot (C) {1} - Go again;
+OOO SEA118 - Sic 'Em Shot (C) {2} - Go again;
+OOO SEA119 - Sic 'Em Shot (C) {3} - Go again;
+OOO SEA120 - Call in the Big Guns (C) {1} - Go again;
+OOO SEA121 - Call in the Big Guns (C) {2} - Go again;
+OOO SEA122 - Call in the Big Guns (C) {3} - Go again;
+O   SEA123 - Scurv, Stowaway (R) {} - Go again;
+O   SEA124 - Sticky Fingers (B) {} - Perched;Steal;
+O   SEA125 - Gold-Baited Hook (L) {} - Battleworn;
+O   SEA126 - Blue Sea Tricorn (C) {} - Blade Break;
+O   SEA127 - Buccaneer's Bounty (C) {} - Blade Break;
+O   SEA128 - Fish Fingers (C) {} - Blade Break;
+O   SEA129 - Peg Leg (C) {} - Blade Break;
+OOO SEA130 - Conqueror of the High Seas (M) {1} - High Tide;Go again;
+OOO SEA131 - Loan Shark (M) {2} - Go again;
+OOO SEA132 - Tip the Barkeep (M) {3} - Go again;
+OOO SEA133 - Sunken Treasure (M) {3} - 
+OOO SEA134 - HMS Barracuda (R) {2} - High Tide;Overpower;
+OOO SEA135 - HMS Kraken (R) {2} - High Tide;Overpower;
+OOO SEA136 - HMS Marlin (R) {2} - High Tide;Overpower;
+OOO SEA137 - Murderous Rabble (R) {3} - Go again;
+OOO SEA138 - Pilfer the Wreck (R) {1} - 
+OOO SEA139 - Pilfer the Wreck (R) {2} - 
+OOO SEA140 - Pilfer the Wreck (R) {3} - 
+OOO SEA141 - Saltwater Swell (R) {1} - Go again;
+OOO SEA142 - Saltwater Swell (R) {2} - Go again;
+OOO SEA143 - Saltwater Swell (R) {3} - Go again;
+OOO SEA144 - Divvy Up (R) {3} - 
+OOO SEA145 - Portside Exchange (R) {3} - Go again;
+OOO SEA146 - Sea Floor Salvage (R) {3} - Go again;
+OOO SEA147 - Scrub the Deck (R) {3} - Go again;
+OOO SEA148 - Shifting Tides (R) {3} - Go again;
+OOO SEA149 - Not So Fast (R) {2} - Scurv Specialization;
+OOO SEA150 - Throw Caution to the Wind (R) {3} - 
+OOO SEA151 - Lost in Transit (R) {2} - 
+OOO SEA152 - Battalion Barque (C) {1} - High Tide;
+OOO SEA153 - Battalion Barque (C) {2} - High Tide;
+OOO SEA154 - Battalion Barque (C) {3} - High Tide;
+OOO SEA155 - Expedition to Azuro Keys (C) {1} - 
+OOO SEA156 - Expedition to Blackwater Strait (C) {1} - 
+OOO SEA157 - Expedition to Dreadfall Reach (C) {1} - 
+OOO SEA158 - Expedition to Horizon's Mantle (C) {1} - 
+OOO SEA159 - Golden Tipple (C) {1} - Go again;
+OOO SEA160 - Golden Tipple (C) {2} - Go again;
+OOO SEA161 - Golden Tipple (C) {3} - Go again;
+OOO SEA162 - Gold Hunter Lightsail (C) {2} - 
+OOO SEA163 - Gold Hunter Longboat (C) {2} - 
+OOO SEA164 - Gold Hunter Marauder (C) {2} - Overpower;
+OOO SEA165 - Gold Hunter Ketch (C) {2} - 
+OOO SEA166 - Swiftwater Sloop (C) {1} - High Tide;
+OOO SEA167 - Swiftwater Sloop (C) {2} - High Tide;
+OOO SEA168 - Swiftwater Sloop (C) {3} - High Tide;
+OOO SEA169 - Swindler's Grift (C) {1} - 
+OOO SEA170 - Swindler's Grift (C) {2} - 
+OOO SEA171 - Swindler's Grift (C) {3} - 
+OOO SEA172 - Thiev'n Varmints (C) {1} - 
+OOO SEA173 - Chart a Course (C) {1} - Go again;
+OOO SEA174 - Chart a Course (C) {2} - Go again;
+OOO SEA175 - Chart a Course (C) {3} - Go again;
+OOO SEA176 - Mutiny on the Battalion Barque (C) {3} - Go again;Steal;
+OOO SEA177 - Mutiny on the Nimbus Sovereign (C) {3} - Go again;Steal;
+OOO SEA178 - Mutiny on the Swiftwater (C) {3} - Go again;Steal;
+O   SEA179 - Bandana of the Blue Beyond (C) {} - 
+O   SEA180 - Helmsman's Peak (C) {} - Blade Break;
+O   SEA181 - Captain's Coat (C) {} - 
+O   SEA182 - Old Knocker (C) {} - Blade Break;
+O   SEA183 - Swiftstrike Bracers (C) {} - 
+O   SEA184 - Light Fingers (C) {} - Blade Break;
+O   SEA185 - Quartermaster's Boots (C) {} - Blade Break;
+O   SEA186 - Quick Clicks (C) {} - 
+OOO SEA187 - Sea Legs (M) {2} - 
+OOO SEA188 - Midas Touch (M) {2} - Go again;
+O   SEA189 - Amethyst Amulet (M) {3} - Legendary;Watery Grave;
+O   SEA190 - Diamond Amulet (M) {3} - Legendary;Watery Grave;
+O   SEA191 - Onyx Amulet (M) {3} - Legendary;Watery Grave;
+O   SEA192 - Opal Amulet (M) {3} - Legendary;Watery Grave;
+O   SEA193 - Pearl Amulet (M) {3} - Legendary;Watery Grave;
+O   SEA194 - Platinum Amulet (M) {3} - Legendary;Watery Grave;
+O   SEA195 - Pounamu Amulet (M) {3} - Legendary;Watery Grave;
+O   SEA196 - Ruby Amulet (M) {3} - Legendary;Watery Grave;
+O   SEA197 - Sapphire Amulet (M) {3} - Legendary;Watery Grave;
+OOO SEA198 - Crash Down the Gates (R) {1} - 
+OOO SEA199 - Crash Down the Gates (R) {2} - 
+OOO SEA200 - Crash Down the Gates (R) {3} - 
+OOO SEA201 - Jack Be Nimble (R) {1} - Go again;Steal;
+OOO SEA202 - Jack Be Quick (R) {1} - Go again;Steal;
+OOO SEA203 - Money or Your Life? (R) {1} - 
+OOO SEA204 - Money or Your Life? (R) {2} - 
+OOO SEA205 - Money or Your Life? (R) {3} - 
+OOO SEA206 - Flying High (R) {1} - Go again;
+OOO SEA207 - Flying High (R) {2} - Go again;
+OOO SEA208 - Flying High (R) {3} - Go again;
+OOO SEA209 - Clap 'Em in Irons (R) {3} - Go again;
+OOO SEA210 - Regain Composure (R) {3} - Go again;
+OOO SEA211 - Tit for Tat (R) {3} - Go again;
+OOO SEA212 - Fiddler's Green (R) {1} - 
+OOO SEA213 - Fiddler's Green (R) {2} - 
+OOO SEA214 - Fiddler's Green (R) {3} - 
+OOO SEA215 - Fool's Gold (R) {2} - 
+OOO SEA216 - Blow for a Blow (C) {1} - Go again;
+OOO SEA217 - Life for a Life (C) {1} - Go again;
+OOO SEA218 - Scar for a Scar (C) {1} - Go again;
+OOO SEA219 - Ravenous Rabble (C) {1} - Go again;
+OOO SEA220 - Nimby (C) {1} - 
+OOO SEA221 - Nimby (C) {2} - 
+OOO SEA222 - Nimby (C) {3} - 
+OOO SEA223 - Rally the Coast Guard (C) {1} - 
+OOO SEA224 - Rally the Coast Guard (C) {2} - 
+OOO SEA225 - Rally the Coast Guard (C) {3} - 
+OOO SEA226 - Sirens of Safe Harbor (C) {1} - 
+OOO SEA227 - Sirens of Safe Harbor (C) {2} - 
+OOO SEA228 - Sirens of Safe Harbor (C) {3} - 
+OOO SEA229 - Strike Gold (C) {1} - 
+OOO SEA230 - Strike Gold (C) {2} - 
+OOO SEA231 - Strike Gold (C) {3} - 
+OOO SEA232 - Trade In (C) {1} - Go again;
+OOO SEA233 - Trade In (C) {2} - Go again;
+OOO SEA234 - Trade In (C) {3} - Go again;
+OOO SEA235 - Walk the Plank (C) {1} - 
+OOO SEA236 - Walk the Plank (C) {2} - 
+OOO SEA237 - Walk the Plank (C) {3} - 
+OOO SEA238 - Nimblism (C) {1} - Go again;
+OOO SEA239 - Nimblism (C) {2} - Go again;
+OOO SEA240 - Nimblism (C) {3} - Go again;
+OOO SEA241 - On the Horizon (C) {1} - 
+OOO SEA242 - On the Horizon (C) {2} - 
+OOO SEA243 - On the Horizon (C) {3} - 
+OOO SEA244 - Gold (B) {} - 
+OOO SEA245 - Goldkiss Rum (B) {} - 
+OOO SEA246 - Cracked Bauble (B) {2} - 
+OOO SEA247 - Treasure Island (B) {} - 
+OOO SEA248 - Codex of Frailty (L) {2} - Go again;
+OOO SEA249 - Undercover Acquisition (M) {1} - Stealth;Steal;
+OOO SEA250 - Bam Bam (M) {2} - 
+OOO SEA251 - Surface Shaking (M) {3} - Go again;
+OOO SEA252 - Preach Modesty (M) {1} - 
+OOO SEA253 - Escalate Bloodshed (M) {1} - 
+OOO SEA254 - Deny Redemption (M) {1} - 
+OOO SEA255 - Burn Bare (M) {} - 
+OOO SEA256 - Riddle with Regret (M) {1} - Go again;
+O   SEA257 - Claw of Vynserakai (M) {} - Spellvoid 1;
+OOO SEA258 - Everbloom // Life (M) {3} - Go again;Meld;
+OOO SEA259 - Consign to Cosmos // Shock (M) {2} - Meld;
+OOO SEA260 - Herald of Sekem (M) {1} - Phantasm;
+OOO SEA261 - Arcane Compliance (M) {3} - 
+OOO SEA262 - Anka, Drag Under (V) {2} - Watery Grave;
+OOO SEA263 - Oysten, Heart of Gold (V) {2} - Watery Grave;
+OOO SEA264 - Sawbones, Dock Hand (V) {2} - Watery Grave;
